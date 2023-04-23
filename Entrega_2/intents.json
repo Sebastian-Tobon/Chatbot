@@ -1,73 +1,148 @@
-{"intents": [
-    {"tag": "greeting",
-     "patterns": ["Hi there", "How are you", "Is anyone there?","Hey","Hola", "Hello", "Good day"],
-     "responses": ["Hello, thanks for asking", "Good to see you again", "Hi there, how can I help?"],
-     "context": [""]
+{
+  "intents": [
+    {
+      "tag": "saludo",
+      "patterns": [
+        "Hola",
+        "¿Como estas?",
+        "Hey",
+        "Hello",
+        "Buen dia",
+        "¿Como te sientes?"
+      ],
+      "responses": [
+        "Hola, gracias por preguntar",
+        "Que bueno verte de nuevo",
+        "Hola, ¿como puedo ayudarte?"
+      ],
+      "context": [""]
     },
-    {"tag": "goodbye",
-     "patterns": ["Bye", "See you later", "Goodbye", "Nice chatting to you, bye", "Till next time"],
-     "responses": ["See you!", "Have a nice day", "Bye! Come back again soon."],
-     "context": [""]
+    {
+      "tag": "adios",
+      "patterns": ["Hasta luego", "Te veo luego", "Adios", "Hasta la proxima"],
+      "responses": [
+        "¡Nos vemos!",
+        "Ten un buen dia",
+        "Un gusto chatear contigo, adios",
+        "¡Adios! Vuelve pronto."
+      ],
+      "context": [""]
     },
-    {"tag": "thanks",
-     "patterns": ["Thanks", "Thank you", "That's helpful", "Awesome, thanks", "Thanks for helping me"],
-     "responses": ["Happy to help!", "Any time!", "My pleasure"],
-     "context": [""]
+    {
+      "tag": "gracias",
+      "patterns": ["Gracias", "¡Asombroso, gracias!", "Gracias por ayudarme"],
+      "responses": [
+        "Feliz de ayudarte!",
+        "¡En cualquier momento!",
+        "Fue un placer"
+      ],
+      "context": [""]
     },
-    {"tag": "noanswer",
-     "patterns": [],
-     "responses": ["Sorry, can't understand you", "Please give me more info", "Not sure I understand"],
-     "context": [""]
+    {
+      "tag": "respuesta",
+      "patterns": [],
+      "responses": [
+        "Lo siento, no puedo entenderte",
+        "Por favor, brindame mas informacion",
+        "No logro entenderte"
+      ],
+      "context": [""]
     },
-    {"tag": "options",
-     "patterns": ["How you could help me?", "What you can do?", "What help you provide?", "How you can be helpful?", "What support is offered"],
-     "responses": ["I can guide you through Adverse drug reaction list, Blood pressure tracking, Hospitals and Pharmacies", "Offering support for Adverse drug reaction, Blood pressure, Hospitals and Pharmacies"],
-     "context": [""]
+    {
+      "tag": "opciones",
+      "patterns": [
+        "Como puedes ayudarme?",
+        "Que puedes hacer?",
+        "Que tipo de ayuda brindas?",
+        "Como puedes ser util?",
+        "Que apoyo ofrece"
+      ],
+      "responses": [
+        "I can guide you through Adverse drug reaction list, Blood pressure tracking, Hospitals and Pharmacies",
+        "Offering support for Adverse drug reaction, Blood pressure, Hospitals and Pharmacies"
+      ],
+      "context": [""]
     },
-    {"tag": "adverse_drug",
-     "patterns": ["How to check Adverse drug reaction?", "Open adverse drugs module", "Give me a list of drugs causing adverse behavior", "List all drugs suitable for patient with adverse reaction", "Which drugs dont have adverse reaction?" ],
-     "responses": ["Navigating to Adverse drug reaction module"],
-     "context": [""]
+    {
+      "tag": "adverse_drug",
+      "patterns": [
+        "How to check Adverse drug reaction?",
+        "Open adverse drugs module",
+        "Give me a list of drugs causing adverse behavior",
+        "List all drugs suitable for patient with adverse reaction",
+        "Which drugs dont have adverse reaction?"
+      ],
+      "responses": ["Navigating to Adverse drug reaction module"],
+      "context": [""]
     },
-    {"tag": "blood_pressure",
-     "patterns": ["Open blood pressure module", "Task related to blood pressure", "Blood pressure data entry", "I want to log blood pressure results", "Blood pressure data management" ],
-     "responses": ["Navigating to Blood Pressure module"],
-     "context": [""]
+    {
+      "tag": "software",
+      "patterns": ["Pantalla azul", ""],
+      "responses": [
+        "1. Significa que la computadora no puede recuperarse de un error del sistema \n\n 2.tales",
+        "Patient ID?"
+      ],
+      "context": ["search_blood_pressure_by_patient_id"]
     },
-    {"tag": "blood_pressure_search",
-     "patterns": ["I want to search for blood pressure result history", "Blood pressure for patient", "Load patient blood pressure result", "Show blood pressure results for patient", "Find blood pressure results by ID" ],
-     "responses": ["Please provide Patient ID", "Patient ID?"],
-     "context": ["search_blood_pressure_by_patient_id"]
+    {
+      "tag": "problemasDeCarga",
+      "patterns": ["El telefono movil tiene problemas de carga"],
+      "responses": [
+        "Hay varios motivos por los que un telefono movil puede tener problemas de carga. Algunos de los mas comunes incluyen:\n\n 1. Cable de carga defectuoso: Si el cable de carga esta defectuoso o desgastado, puede que no proporcione una carga adecuada al telefono movil.\n\n 2. Puerto de carga defectuoso: Si el puerto de carga del telefono movil esta defectuoso, puede que el telefono movil no se cargue correctamente.\n\n 3. Problemas con la bateria: Si la bateria del telefono movil esta defectuosa o esta llegando al final de su vida util, puede que no se cargue correctamente.\n\n 4. En la pantalla Elegir una opcion, selecciona Solucionar problemas. Desde alli puedes usar el modo seguro. Selecciona Opciones avanzadas > Configuracion de inicio > Reiniciar.\n\n 5. Una vez que se reinicie el equipo, selecciona 5 o F5 para reiniciar tu PC en Modo seguro con funciones de red. Si el equipo no se inicia en modo seguro con funciones de red, vuelve a intentar los pasos 2 y 4 y, cuando se reinicie el equipo, selecciona 3 o F3 para Habilitar el modo video de baja resolucion.\n\n 6. Una vez que el equipo este en modo seguro, abre el Administrador de dispositivos escribiendo administrador de dispositivos en el cuadro de busqueda en la barra de tareas, selecciona Administrador de dispositivos y la flecha para ampliar los Adaptadores de pantalla. Si ves dos elementos en Adaptadores de pantalla, deshabilita uno de ellos. Si solo hay uno, con boton derecho entra en Propiedades y elige la opcion Revertir al controlador anterior. Tambien puedes desinstalarlo y volverlo a instalar.\n\n 7. Reinicia el equipo para que los cambios surtan efecto."
+      ],
+      "context": [""]
     },
-    {"tag": "search_blood_pressure_by_patient_id",
-     "patterns": [],
-     "responses": ["Loading Blood pressure result for Patient"],
-     "context": [""]
+    {
+      "tag": "search_blood_pressure_by_patient_id",
+      "patterns": [],
+      "responses": ["Loading Blood pressure result for Patient"],
+      "context": [""]
     },
-    {"tag": "pharmacy_search",
-     "patterns": ["Find me a pharmacy", "Find pharmacy", "List of pharmacies nearby", "Locate pharmacy", "Search pharmacy" ],
-     "responses": ["Please provide pharmacy name"],
-     "context": ["search_pharmacy_by_name"]
+    {
+      "tag": "hardware",
+      "patterns": [
+        "El computador se traba",
+        "El computador se congela",
+        "Computado congelado",
+        "Computador lento"
+      ],
+      "responses": [
+        "Posiblemente se deba a la memoria ram",
+        "La memoria ram posiblemente este causando esto"
+      ],
+      "context": [""]
     },
-    {"tag": "search_pharmacy_by_name",
-     "patterns": [],
-     "responses": ["Loading pharmacy details"],
-     "context": [""]
+    {
+      "tag": "noArranca_SeBloquea",
+      "patterns": ["El ordenador no arranca o se bloquea"],
+      "responses": [
+        "Un elemento bloquea el uso o inicio de Windows 10, asi que hay que repararlo.\n\n 1. En otro ordenador que funcione, ve al sitio web Descarga de software de Microsoft y descarga la herramienta de instalacion de Windows 10 en un pendrive o un disco DVD.\n\n 2. Inserta dicho pendrive o USB en el ordenador estropeado y, a continuacion, reinicia el equipo.\n\n 3. En la pantalla Instalar Windows, selecciona Reparar el equipo. (Si no ves esta pantalla es posible que el equipo PC no este configurado para arrancar desde una unidad. Consulta la informacion del fabricante del equipo en el sitio web acerca de como cambiar el orden de arranque en la BIOS y, a continuacion, prueba otra vez).\n\n 4. En la pantalla Elegir una opcion, selecciona Solucionar problemas. Desde alli puedes usar el modo seguro. Selecciona Opciones avanzadas > Configuracion de inicio > Reiniciar.\n\n 5. Una vez que se reinicie el equipo, selecciona 5 o F5 para reiniciar tu PC en Modo seguro con funciones de red. Si el equipo no se inicia en modo seguro con funciones de red, vuelve a intentar los pasos 2 y 4 y, cuando se reinicie el equipo, selecciona 3 o F3 para Habilitar el modo video de baja resolucion.\n\n 6. Una vez que el equipo este en modo seguro, abre el Administrador de dispositivos escribiendo administrador de dispositivos en el cuadro de busqueda en la barra de tareas, selecciona Administrador de dispositivos y la flecha para ampliar los Adaptadores de pantalla. Si ves dos elementos en Adaptadores de pantalla, deshabilita uno de ellos. Si solo hay uno, con boton derecho entra en Propiedades y elige la opcion Revertir al controlador anterior. Tambien puedes desinstalarlo y volverlo a instalar.\n\n 7. Reinicia el equipo para que los cambios surtan efecto."
+      ],
+      "context": [""]
     },
-    {"tag": "hospital_search",
-     "patterns": ["Lookup for hospital", "Searching for hospital to transfer patient", "I want to search hospital data", "Hospital lookup for patient", "Looking up hospital details" ],
-     "responses": ["Please provide hospital name or location"],
-     "context": ["search_hospital_by_params"]
+    {
+      "tag": "cupSobrecaliente_RamLlena",
+      "patterns": ["La CPU se sobrecalienta y la RAM se llena"],
+      "responses": [
+        "Un fallo muy comun, especialmente en equipos antiguos, es que la CPU se calienta en exceso mientras el ventilador del ordenador funciona a toda velocidad, indicio de que el sistema esta sobrecalentado.\n\n 1. En algunos casos, este bug de Windows 10 parece estar asociado al fichero del sistema stokrnl.exe, asi como al servicio Runtime Broker. Para desactivarlo, escribe Configuracion en el buscador, y entra en la seccion Sistema.\n\n2.  Accede a Notificaciones y Acciones. Busca la opcion Mostrar Sugerencias de Windows, y desactivala.\n\n 3. Reinicia el equipo."
+      ],
+      "context": [""]
     },
-    {"tag": "search_hospital_by_params",
-     "patterns": [],
-     "responses": ["Please provide hospital type"],
-     "context": ["search_hospital_by_type"]
+    {
+      "tag": "ordenadorNoDespierta",
+      "patterns": ["El ordenador no despierta de la hibernacion"],
+      "responses": ["Please provide hospital type"],
+      "context": [
+        "Una forma de minimizar el problema es impedir que el ordenador entre en hibernacion de forma automatica. \n\n 1. Para ello pincha con el boton derecho en el Boton de Inicio, y elige Opciones de Energia. \n\n2. A continuacion marca la casilla Alto rendimiento.\n3. incha en la opcion Cambiar la configuracion del plan y asegurate de que la casilla Poner el equipo en suspension indica Nunca"
+      ]
     },
-    {"tag": "search_hospital_by_type",
-     "patterns": [],
-     "responses": ["Loading hospital details"],
-     "context": [""]
+    {
+      "tag": "programasNoCompatibles",
+      "patterns": ["Programas incompatibles"],
+      "responses": [
+        "1. Para arreglarlo, pulsa con el boton derecho en el icono de arranque del programa y selecciona Propiedades.\n\n2. Accede a la solapa Compatibilidad y marca la casilla Ejecutar este programa en modo de compatibilidad para.\n\n3. A continuacion en el menu emergente elige el sistema operativo mas cercano a la fecha de lanzamiento de ese programa: Windows XP, Windows Vista, Windows 7, etc. Puedes probar varios de ellos hasta que encuentres uno que funcione"
+      ],
+      "context": [""]
     }
-]
+  ]
 }

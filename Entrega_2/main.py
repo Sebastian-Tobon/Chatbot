@@ -103,12 +103,12 @@ def send(e):
 
 
 base = Tk()
-base.title("Hello")
+base.title("TecnoBot support")
 base.geometry("400x500")
 base.resizable(width=FALSE, height=FALSE)
 
 #Create Chat window
-ChatLog = Text(base, bd=0, bg="white", height="8", width="50", font="Arial",)
+ChatLog = Text(base, bd=0, bg="white", height="8", width="250", font="Arial",)
 ChatLog.config(state=DISABLED)
 
 #Bind scrollbar to Chat window
@@ -116,7 +116,7 @@ scrollbar = Scrollbar(base, command=ChatLog.yview, cursor="heart")
 ChatLog['yscrollcommand'] = scrollbar.set
 
 #Create Button to send message
-SendButton = Button(base, font=("Verdana",12,'bold'), text="Presionar enter \n para enviar", width="12", height=5,
+SendButton = Button(base, font=("Verdana",10,'bold'), text="Presionar enter \n para enviar", width="12", height=5,
                     bd=0, bg="#32de97", activebackground="#3c9d9b",fg='#ffffff',
                     command= send )
 
