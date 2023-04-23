@@ -3,6 +3,7 @@ from nltk.stem import WordNetLemmatizer
 lemmatizer = WordNetLemmatizer()
 import pickle
 import numpy as np
+import datetime
 
 from keras.models import load_model
 model = load_model('chatbot_model.h5')
@@ -11,6 +12,7 @@ import random
 intents = json.loads(open('intents.json').read())
 words = pickle.load(open('words.pkl','rb'))
 classes = pickle.load(open('classes.pkl','rb'))
+tag_response = ""
 
 
 def clean_up_sentence(sentence):
@@ -52,6 +54,8 @@ def getResponse(ints, intents_json):
     list_of_intents = intents_json['intents']
     for i in list_of_intents:
         if(i['tag']== tag):
+            global tag_response
+            tag_response = i['tag']
             result = random.choice(i['responses'])
             break
     return result
@@ -81,6 +85,21 @@ def send():
 
         ChatLog.config(state=DISABLED)
         ChatLog.yview(END)
+        
+        hora_actual = datetime.datetime.now()
+        hora_actual_str = hora_actual.strftime("%Y-%m-%d %H:%M:%S")
+        
+        try:
+            with open('history.json', 'r') as f:
+                history = json.load(f)
+        except (FileNotFoundError, json.JSONDecodeError):
+            history = []
+
+        history.append({'User': msg, 'Bot': res, 'Date': hora_actual_str, 'Tag': tag_response})
+
+        with open('history.json', 'w') as f:
+            json.dump(history, f, indent=4)
+        
 
 
 base = Tk()
