@@ -4,10 +4,10 @@
 
 
  ## Integrantes
- Sebastián Tobón
- Rodrigo Acosta
- Paula Andrea Gutierrez
- Sebastián Londoño Valencia
+ * Sebastián Tobón
+ * Rodrigo Acosta
+ * Paula Andrea Gutierrez
+ * Sebastián Londoño Valencia
 
  # Universidad del Quindío
  # Abril 2023
