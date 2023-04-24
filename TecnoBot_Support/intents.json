@@ -4,16 +4,16 @@
       "tag": "saludo",
       "patterns": [
         "Hola",
-        "¿Como estas?",
+        "Como estas?",
         "Hey",
         "Hello",
         "Buen dia",
-        "¿Como te sientes?"
+        "Como te sientes?"
       ],
       "responses": [
         "Hola, gracias por preguntar",
         "Que bueno verte de nuevo",
-        "Hola, ¿como puedo ayudarte?"
+        "Hola, como puedo ayudarte?"
       ],
       "context": [""]
     },
@@ -21,20 +21,25 @@
       "tag": "adios",
       "patterns": ["Hasta luego", "Te veo luego", "Adios", "Hasta la proxima"],
       "responses": [
-        "¡Nos vemos!",
+        "Nos vemos!",
         "Ten un buen dia",
         "Un gusto chatear contigo, adios",
-        "¡Adios! Vuelve pronto."
+        "Adios! Vuelve pronto."
       ],
       "context": [""]
     },
     {
       "tag": "gracias",
-      "patterns": ["Gracias", "¡Asombroso, gracias!", "Gracias por ayudarme"],
+      "patterns": [
+        "Gracias",
+        "Asombroso, gracias!",
+        "Gracias por ayudarme",
+        "Perfecto, eso me sirve"
+      ],
       "responses": [
         "Feliz de ayudarte!",
-        "¡En cualquier momento!",
-        "Fue un placer"
+        "No dudes en preguntarme!",
+        "Fue un placer servirte"
       ],
       "context": [""]
     },
@@ -58,44 +63,46 @@
         "Que apoyo ofrece"
       ],
       "responses": [
-        "I can guide you through Adverse drug reaction list, Blood pressure tracking, Hospitals and Pharmacies",
-        "Offering support for Adverse drug reaction, Blood pressure, Hospitals and Pharmacies"
+        "Hola, soy TecnoBot Support. Y estoy aqui para ayudarte con el soporte o asesoramiento de los errores que comunmente se presentan en dispositivos como celulares, computadores de escritorio y portatiles."
       ],
-      "context": [""]
-    },
-    {
-      "tag": "adverse_drug",
-      "patterns": [
-        "How to check Adverse drug reaction?",
-        "Open adverse drugs module",
-        "Give me a list of drugs causing adverse behavior",
-        "List all drugs suitable for patient with adverse reaction",
-        "Which drugs dont have adverse reaction?"
-      ],
-      "responses": ["Navigating to Adverse drug reaction module"],
       "context": [""]
     },
     {
       "tag": "software",
-      "patterns": ["Pantalla azul", ""],
-      "responses": [
-        "1. Significa que la computadora no puede recuperarse de un error del sistema \n\n 2.tales",
-        "Patient ID?"
+      "patterns": [
+        "Pantalla azul",
+        "La pantalla de mi computador esta completamente azul"
       ],
-      "context": ["search_blood_pressure_by_patient_id"]
-    },
-    {
-      "tag": "problemasDeCarga",
-      "patterns": ["El telefono movil tiene problemas de carga"],
       "responses": [
-        "Hay varios motivos por los que un telefono movil puede tener problemas de carga. Algunos de los mas comunes incluyen:\n\n 1. Cable de carga defectuoso: Si el cable de carga esta defectuoso o desgastado, puede que no proporcione una carga adecuada al telefono movil.\n\n 2. Puerto de carga defectuoso: Si el puerto de carga del telefono movil esta defectuoso, puede que el telefono movil no se cargue correctamente.\n\n 3. Problemas con la bateria: Si la bateria del telefono movil esta defectuosa o esta llegando al final de su vida util, puede que no se cargue correctamente.\n\n 4. En la pantalla Elegir una opcion, selecciona Solucionar problemas. Desde alli puedes usar el modo seguro. Selecciona Opciones avanzadas > Configuracion de inicio > Reiniciar.\n\n 5. Una vez que se reinicie el equipo, selecciona 5 o F5 para reiniciar tu PC en Modo seguro con funciones de red. Si el equipo no se inicia en modo seguro con funciones de red, vuelve a intentar los pasos 2 y 4 y, cuando se reinicie el equipo, selecciona 3 o F3 para Habilitar el modo video de baja resolucion.\n\n 6. Una vez que el equipo este en modo seguro, abre el Administrador de dispositivos escribiendo administrador de dispositivos en el cuadro de busqueda en la barra de tareas, selecciona Administrador de dispositivos y la flecha para ampliar los Adaptadores de pantalla. Si ves dos elementos en Adaptadores de pantalla, deshabilita uno de ellos. Si solo hay uno, con boton derecho entra en Propiedades y elige la opcion Revertir al controlador anterior. Tambien puedes desinstalarlo y volverlo a instalar.\n\n 7. Reinicia el equipo para que los cambios surtan efecto."
+        "La pantalla azul, tambien conocida como Pantalla de la Muerte o Blue Screen of Death (BSOD),es un error comun en los sistemas operativos de Windows. Si estas experimentando una pantalla azul en tu computadora, aqui te dejamos algunos pasos que puedes seguir para solucionar el problema: \n\n1. Reinicia la computadora: A veces, simplemente reiniciar la computadora puede solucionar problemas menores. \n\n2. Actualiza los controladores: Asegurate de tener los ultimos controladores instalados para tus dispositivos de hardware. Los controladores desactualizados pueden causar problemas de estabilidad. \n\n3. Realiza una comprobacion de errores del disco: Los errores en el disco duro pueden causar problemas de estabilidad en el sistema operativo. Realiza una comprobacion de errores del disco para reparar cualquier error presente. \n\n4. Reinstala el sistema operativo: Si ninguno de los pasos anteriores funciona, considera reinstalar el sistema operativo. Esto eliminara todos los datos de la computadora, por lo que asegurate de hacer una copia de seguridad antes de proceder. \n\nEspero que estos pasos te ayuden a solucionar el problema de la pantalla azul en tu computadora. Si el problema persiste, es recomendable llevar la computadora a un servicio tecnico especializado para diagnosticar y resolver el problema."
       ],
       "context": [""]
     },
     {
-      "tag": "search_blood_pressure_by_patient_id",
+      "tag": "problemasDeCarga",
+      "patterns": [
+        "El telefono movil tiene problemas de carga",
+        "La bateria de mi telefono no funciona bien"
+      ],
+      "responses": [
+        "Hay varios motivos por los que un telefono movil puede tener problemas de carga. Algunos de los mas comunes incluyen:\n\n1. Cable de carga defectuoso: Si el cable de carga esta defectuoso o desgastado, puede que no proporcione una carga adecuada al telefono movil.\n\n2. Puerto de carga defectuoso: Si el puerto de carga del telefono movil esta defectuoso, puede que el telefono movil no se cargue correctamente.\n\n3. Problemas con la bateria: Si la bateria del telefono movil esta defectuosa o esta llegando al final de su vida util, puede que no se cargue correctamente.\n\n4. Problemas de software: Los problemas de software pueden afectar a la carga del telefono movil. Por ejemplo, si hay problemas con el sistema operativo o con alguna aplicacion, puede que el telefono movil no se cargue correctamente.\n\n5. Temperatura ambiente inadecuada: Las baterias pueden ser sensibles a las temperaturas extremas, por lo que si el telefono movil se carga en un ambiente demasiado caliente o demasiado frio, esto puede afectar a su capacidad de carga."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "rendimientoCelular",
       "patterns": [],
-      "responses": ["Loading Blood pressure result for Patient"],
+      "responses": ["El telefono movil tiene bajo rendimiento"],
+      "context": [
+        "Si tu telefono movil tiene problemas de rendimiento, aqui te dejamos algunos pasos que puedes seguir para solucionar el problema: \n\n1. Reinicia el telefono: A veces, simplemente reiniciar el telefono puede ayudar a solucionar problemas de rendimiento menores. \n\n2. Desinstala aplicaciones no utilizadas: Si tienes muchas aplicaciones instaladas en el telefono, es posible que esten consumiendo demasiados recursos y afectando al rendimiento general. Desinstala aquellas aplicaciones que no uses con frecuencia.\n\n3. Actualiza el sistema operativo: Asegurate de tener la ultima version del sistema operativo instalada en tu telefono, ya que esto puede ayudar a solucionar problemas de rendimiento. \n\n3. Libera espacio de almacenamiento: Si el almacenamiento del telefono esta lleno, esto puede afectar al rendimiento general. Borra los archivos y aplicaciones que ya no necesites para liberar espacio. \n\n4. Restaura el telefono a su configuracion de fabrica: Si ninguno de los pasos anteriores ha funcionado, considera restaurar el telefono a su configuracion de fabrica. Esto eliminara todos los datos del telefono, asi que asegurate de hacer una copia de seguridad antes de proceder. \n\nEspero que estos pasos te ayuden a solucionar los problemas de rendimiento en tu telefono movil."
+      ]
+    },
+    {
+      "tag": "fallaConectividadMovil",
+      "patterns": ["El celular presenta inconvenientes con la conectividad"],
+      "responses": [
+        "Si estas experimentando problemas de conectividad con tu telefono movil, como problemas para conectarte a una red Wi-Fi o para usar datos moviles, aqui te dejamos algunos pasos que puedes seguir para solucionar el problema: \n\n1. Verifica la señal: Asegurate de estar dentro del area de cobertura y de que tu telefono tenga una señal adecuada. Si estas en un area con poca señal, esto puede afectar la conectividad. \n\n2. Reinicia el telefono: A veces, simplemente reiniciar el telefono puede solucionar problemas menores. \n\n3. Verifica el modo de avion: Asegurate de que el modo de avion no este activado, ya que esto desactiva todas las conexiones de red. \n\n4. Verifica los ajustes de Wi-Fi y datos moviles: Asegurate de que los ajustes de Wi-Fi y datos moviles esten habilitados y configurados correctamente. \n\n5. Olvida y vuelve a conectarte a la red Wi-Fi: Si estas experimentando problemas para conectarte a una red Wi-Fi especifica, intenta olvidar la red y luego vuelve a conectarte ingresando la contraseña correctamente. \n\n6. Restaura los ajustes de red: Si ninguno de los pasos anteriores funciona, intenta restaurar los ajustes de red de tu telefono a los valores predeterminados de fabrica. \n\nSi el problema persiste, es recomendable llevar el telefono a un servicio tecnico especializado para diagnosticar y resolver el problema."
+      ],
       "context": [""]
     },
     {
@@ -116,7 +123,7 @@
       "tag": "noArranca_SeBloquea",
       "patterns": ["El ordenador no arranca o se bloquea"],
       "responses": [
-        "Un elemento bloquea el uso o inicio de Windows 10, asi que hay que repararlo.\n\n 1. En otro ordenador que funcione, ve al sitio web Descarga de software de Microsoft y descarga la herramienta de instalacion de Windows 10 en un pendrive o un disco DVD.\n\n 2. Inserta dicho pendrive o USB en el ordenador estropeado y, a continuacion, reinicia el equipo.\n\n 3. En la pantalla Instalar Windows, selecciona Reparar el equipo. (Si no ves esta pantalla es posible que el equipo PC no este configurado para arrancar desde una unidad. Consulta la informacion del fabricante del equipo en el sitio web acerca de como cambiar el orden de arranque en la BIOS y, a continuacion, prueba otra vez).\n\n 4. En la pantalla Elegir una opcion, selecciona Solucionar problemas. Desde alli puedes usar el modo seguro. Selecciona Opciones avanzadas > Configuracion de inicio > Reiniciar.\n\n 5. Una vez que se reinicie el equipo, selecciona 5 o F5 para reiniciar tu PC en Modo seguro con funciones de red. Si el equipo no se inicia en modo seguro con funciones de red, vuelve a intentar los pasos 2 y 4 y, cuando se reinicie el equipo, selecciona 3 o F3 para Habilitar el modo video de baja resolucion.\n\n 6. Una vez que el equipo este en modo seguro, abre el Administrador de dispositivos escribiendo administrador de dispositivos en el cuadro de busqueda en la barra de tareas, selecciona Administrador de dispositivos y la flecha para ampliar los Adaptadores de pantalla. Si ves dos elementos en Adaptadores de pantalla, deshabilita uno de ellos. Si solo hay uno, con boton derecho entra en Propiedades y elige la opcion Revertir al controlador anterior. Tambien puedes desinstalarlo y volverlo a instalar.\n\n 7. Reinicia el equipo para que los cambios surtan efecto."
+        "Un elemento bloquea el uso o inicio de Windows 10, asi que hay que repararlo.\n\n1. En otro ordenador que funcione, ve al sitio web Descarga de software de Microsoft y descarga la herramienta de instalacion de Windows 10 en un pendrive o un disco DVD.\n\n2. Inserta dicho pendrive o USB en el ordenador estropeado y, a continuacion, reinicia el equipo.\n\n3. En la pantalla Instalar Windows, selecciona Reparar el equipo. (Si no ves esta pantalla es posible que el equipo PC no este configurado para arrancar desde una unidad. Consulta la informacion del fabricante del equipo en el sitio web acerca de como cambiar el orden de arranque en la BIOS y, a continuacion, prueba otra vez).\n\n4. En la pantalla Elegir una opcion, selecciona Solucionar problemas. Desde alli puedes usar el modo seguro. Selecciona Opciones avanzadas > Configuracion de inicio > Reiniciar.\n\n5. Una vez que se reinicie el equipo, selecciona 5 o F5 para reiniciar tu PC en Modo seguro con funciones de red. Si el equipo no se inicia en modo seguro con funciones de red, vuelve a intentar los pasos 2 y 4 y, cuando se reinicie el equipo, selecciona 3 o F3 para Habilitar el modo video de baja resolucion.\n\n6. Una vez que el equipo este en modo seguro, abre el Administrador de dispositivos escribiendo administrador de dispositivos en el cuadro de busqueda en la barra de tareas, selecciona Administrador de dispositivos y la flecha para ampliar los Adaptadores de pantalla. Si ves dos elementos en Adaptadores de pantalla, deshabilita uno de ellos. Si solo hay uno, con boton derecho entra en Propiedades y elige la opcion Revertir al controlador anterior. Tambien puedes desinstalarlo y volverlo a instalar.\n\n7. Reinicia el equipo para que los cambios surtan efecto."
       ],
       "context": [""]
     },
@@ -124,7 +131,7 @@
       "tag": "cupSobrecaliente_RamLlena",
       "patterns": ["La CPU se sobrecalienta y la RAM se llena"],
       "responses": [
-        "Un fallo muy comun, especialmente en equipos antiguos, es que la CPU se calienta en exceso mientras el ventilador del ordenador funciona a toda velocidad, indicio de que el sistema esta sobrecalentado.\n\n 1. En algunos casos, este bug de Windows 10 parece estar asociado al fichero del sistema stokrnl.exe, asi como al servicio Runtime Broker. Para desactivarlo, escribe Configuracion en el buscador, y entra en la seccion Sistema.\n\n2.  Accede a Notificaciones y Acciones. Busca la opcion Mostrar Sugerencias de Windows, y desactivala.\n\n 3. Reinicia el equipo."
+        "Un fallo muy comun, especialmente en equipos antiguos, es que la CPU se calienta en exceso mientras el ventilador del ordenador funciona a toda velocidad, indicio de que el sistema esta sobrecalentado.\n\n 1. \n2. En algunos casos, este bug de Windows 10 parece estar asociado al fichero del sistema stokrnl.exe, asi como al servicio Runtime Broker. Para desactivarlo, escribe Configuracion en el buscador, y entra en la seccion Sistema.\n\n3.  Accede a Notificaciones y Acciones. Busca la opcion Mostrar Sugerencias de Windows, y desactivala.\n\n4. Reinicia el equipo.\n"
       ],
       "context": [""]
     },
@@ -133,7 +140,7 @@
       "patterns": ["El ordenador no despierta de la hibernacion"],
       "responses": ["Please provide hospital type"],
       "context": [
-        "Una forma de minimizar el problema es impedir que el ordenador entre en hibernacion de forma automatica. \n\n 1. Para ello pincha con el boton derecho en el Boton de Inicio, y elige Opciones de Energia. \n\n2. A continuacion marca la casilla Alto rendimiento.\n3. incha en la opcion Cambiar la configuracion del plan y asegurate de que la casilla Poner el equipo en suspension indica Nunca"
+        "Una forma de minimizar el problema es impedir que el ordenador entre en hibernacion de forma automatica.\n\n1. Para ello pincha con el boton derecho en el Boton de Inicio, y elige Opciones de Energia. \n\n2. A continuacion marca la casilla Alto rendimiento.\n\n3. incha en la opcion Cambiar la configuracion del plan y asegurate de que la casilla Poner el equipo en suspension indica Nunca\n"
       ]
     },
     {

@@ -1,0 +1,44 @@
+[
+    {
+        "User": "Hola",
+        "Bot": "Que bueno verte de nuevo",
+        "Date": "2023-04-23 23:11:51",
+        "Tag": "saludo"
+    },
+    {
+        "User": "Que tipo de ayuda brindas?",
+        "Bot": "Hola, soy TecnoBot Support. Y estoy aqui para ayudarte con el soporte o asesoramiento de los errores que comunmente se presentan en dispositivos como celulares, computadores de escritorio y portatiles.",
+        "Date": "2023-04-23 23:12:11",
+        "Tag": "opciones"
+    },
+    {
+        "User": "La pantalla de mi computador esta completamente azul",
+        "Bot": "La pantalla azul, tambien conocida como Pantalla de la Muerte o Blue Screen of Death (BSOD),es un error comun en los sistemas operativos de Windows. Si estas experimentando una pantalla azul en tu computadora, aqui te dejamos algunos pasos que puedes seguir para solucionar el problema: \n\n1. Reinicia la computadora: A veces, simplemente reiniciar la computadora puede solucionar problemas menores. \n\n2. Actualiza los controladores: Asegurate de tener los ultimos controladores instalados para tus dispositivos de hardware. Los controladores desactualizados pueden causar problemas de estabilidad. \n\n3. Realiza una comprobacion de errores del disco: Los errores en el disco duro pueden causar problemas de estabilidad en el sistema operativo. Realiza una comprobacion de errores del disco para reparar cualquier error presente. \n\n4. Reinstala el sistema operativo: Si ninguno de los pasos anteriores funciona, considera reinstalar el sistema operativo. Esto eliminara todos los datos de la computadora, por lo que asegurate de hacer una copia de seguridad antes de proceder. \n\nEspero que estos pasos te ayuden a solucionar el problema de la pantalla azul en tu computadora. Si el problema persiste, es recomendable llevar la computadora a un servicio tecnico especializado para diagnosticar y resolver el problema.",
+        "Date": "2023-04-23 23:12:35",
+        "Tag": "software"
+    },
+    {
+        "User": "Gracias por ayudarme",
+        "Bot": "No dudes en preguntarme!",
+        "Date": "2023-04-23 23:13:05",
+        "Tag": "gracias"
+    },
+    {
+        "User": "La bateria de mi telefono no funciona bien",
+        "Bot": "Hay varios motivos por los que un telefono movil puede tener problemas de carga. Algunos de los mas comunes incluyen:\n\n1. Cable de carga defectuoso: Si el cable de carga esta da\u00c3\u00b1ado o desgastado, puede que no proporcione una carga adecuada al telefono movil.\n\n2. Puerto de carga defectuoso: Si el puerto de carga del telefono movil esta da\u00c3\u00b1ado, puede que el telefono movil no se cargue correctamente.\n\n3. Problemas con la bateria: Si la bateria del telefono movil esta defectuosa o esta llegando al final de su vida util, puede que no se cargue correctamente.\n\n4. Problemas de software: Los problemas de software pueden afectar a la carga del telefono movil. Por ejemplo, si hay problemas con el sistema operativo o con alguna aplicacion, puede que el telefono movil no se cargue correctamente.\n\n5. Temperatura ambiente inadecuada: Las baterias pueden ser sensibles a las temperaturas extremas, por lo que si el telefono movil se carga en un ambiente demasiado caliente o demasiado frio, esto puede afectar a su capacidad de carga.",
+        "Date": "2023-04-23 23:13:15",
+        "Tag": "problemasDeCarga"
+    },
+    {
+        "User": "Perfecto, eso me sirve",
+        "Bot": "Feliz de ayudarte!",
+        "Date": "2023-04-23 23:13:38",
+        "Tag": "gracias"
+    },
+    {
+        "User": "Te veo luego",
+        "Bot": "Nos vemos!",
+        "Date": "2023-04-23 23:13:47",
+        "Tag": "adios"
+    }
+]

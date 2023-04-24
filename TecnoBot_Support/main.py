@@ -116,7 +116,7 @@ scrollbar = Scrollbar(base, command=ChatLog.yview, cursor="heart")
 ChatLog['yscrollcommand'] = scrollbar.set
 
 #Create Button to send message
-SendButton = Button(base, font=("Verdana",10,'bold'), text="Presionar enter \n para enviar", width="12", height=5,
+SendButton = Button(base, font=("Verdana",10,'bold'), text="Presionar enter \n para enviar", width="13", height=5,
                     bd=0, bg="#32de97", activebackground="#3c9d9b",fg='#ffffff',
                     command= send )
 
