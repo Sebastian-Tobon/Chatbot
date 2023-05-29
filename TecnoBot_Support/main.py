@@ -98,6 +98,7 @@ def send(e):
         except (FileNotFoundError, json.JSONDecodeError):
             history = []
 
+
         history.append({'User': msg, 'Bot': res, 'Date': hora_actual_str, 'Tag': tag_response, 'idTag': id_tag_response})
 
         with open('history.json', 'w') as f:

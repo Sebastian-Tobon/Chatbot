@@ -47,17 +47,6 @@
       "context": [""]
     },
     {
-      "idTag": 4,
-      "tag": "respuesta",
-      "patterns": [],
-      "responses": [
-        "Lo siento, no puedo entenderte",
-        "Por favor, brindame mas informacion",
-        "No logro entenderte"
-      ],
-      "context": [""]
-    },
-    {
       "idTag": 5,
       "tag": "opciones",
       "patterns": [
@@ -162,6 +151,17 @@
       "patterns": ["Programas incompatibles"],
       "responses": [
         "1. Para arreglarlo, pulsa con el boton derecho en el icono de arranque del programa y selecciona Propiedades.\n\n2. Accede a la solapa Compatibilidad y marca la casilla Ejecutar este programa en modo de compatibilidad para.\n\n3. A continuacion en el menu emergente elige el sistema operativo mas cercano a la fecha de lanzamiento de ese programa: Windows XP, Windows Vista, Windows 7, etc. Puedes probar varios de ellos hasta que encuentres uno que funcione"
+      ],
+      "context": [""]
+    },
+    {
+      "idTag": 4,
+      "tag": "desconocido",
+      "patterns": [],
+      "responses": [
+        "Lo siento, no puedo entenderte",
+        "Por favor, brindame mas informacion",
+        "No logro entenderte"
       ],
       "context": [""]
     }
