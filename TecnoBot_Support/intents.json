@@ -47,17 +47,6 @@
       "context": [""]
     },
     {
-      "idTag": 4,
-      "tag": "respuesta",
-      "patterns": [],
-      "responses": [
-        "Lo siento, no puedo entenderte",
-        "Por favor, brindame mas informacion",
-        "No logro entenderte"
-      ],
-      "context": [""]
-    },
-    {
       "idTag": 5,
       "tag": "opciones",
       "patterns": [
@@ -429,6 +418,17 @@
       ],
       "responses": [
         "Si tu computadora esta funcionando de manera lenta, puedes intentar los siguientes pasos para mejorar su rendimiento:\n\n1. Verifica los programas en segundo plano. Algunas aplicaciones o programas en ejecucion pueden consumir recursos y ralentizar tu computadora. Cierra los programas que no necesites y verifica si hay procesos innecesarios en el Administrador de tareas.\n\n2. Realiza una limpieza de archivos temporales. Utiliza la herramienta de limpieza de disco para eliminar archivos temporales y liberar espacio en tu disco duro. Tambien puedes considerar desinstalar programas que ya no utilizas.\n\n3. Escanea en busca de malware. Realiza un analisis completo del sistema con un programa antivirus confiable para detectar y eliminar posibles infecciones de malware que podrian afectar el rendimiento de tu computadora.\n\n4. Actualiza los controladores. Verifica si hay actualizaciones de controladores disponibles para tus dispositivos, como la tarjeta grafica o el chipset de la placa base, y asegurate de instalar las versiones mas recientes.\n\nSi despues de seguir estos pasos la computadora sigue siendo lenta, es recomendable buscar ayuda de un tecnico especializado o contactar al soporte tecnico de tu computadora para obtener asistencia adicional."
+      ],
+      "context": [""]
+    },
+    {
+      "idTag": 4,
+      "tag": "desconocido",
+      "patterns": [],
+      "responses": [
+        "Lo siento, no puedo entenderte",
+        "Por favor, brindame mas informacion",
+        "No logro entenderte"
       ],
       "context": [""]
     }
