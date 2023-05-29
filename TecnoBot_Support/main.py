@@ -13,6 +13,7 @@ intents = json.loads(open('intents.json').read())
 words = pickle.load(open('words.pkl','rb'))
 classes = pickle.load(open('classes.pkl','rb'))
 tag_response = ""
+id_tag_response = 0
 
 
 def clean_up_sentence(sentence):
@@ -55,7 +56,9 @@ def getResponse(ints, intents_json):
     for i in list_of_intents:
         if(i['tag']== tag):
             global tag_response
+            global id_tag_response
             tag_response = i['tag']
+            id_tag_response = i['idTag']
             result = random.choice(i['responses'])
             break
     return result
@@ -95,7 +98,7 @@ def send(e):
         except (FileNotFoundError, json.JSONDecodeError):
             history = []
 
-        history.append({'User': msg, 'Bot': res, 'Date': hora_actual_str, 'Tag': tag_response})
+        history.append({'User': msg, 'Bot': res, 'Date': hora_actual_str, 'Tag': tag_response, 'idTag': id_tag_response})
 
         with open('history.json', 'w') as f:
             json.dump(history, f, indent=4)
