@@ -1,23 +1,82 @@
 [
     {
-        "User": "hola",
+        "User": "ayuda",
+        "Bot": "Hola, como puedo ayudarte?",
+        "Date": "2023-05-28 23:09:13",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "made in china",
+        "Bot": "Hola, como puedo ayudarte?",
+        "Date": "2023-05-28 23:09:20",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "soporte a mi computadora",
         "Bot": "Hola, gracias por preguntar",
-        "Date": "2023-05-28 19:55:11",
+        "Date": "2023-05-28 23:09:37",
         "Tag": "saludo",
-        "idTag": 1
+        "idTag": 1,
+        "coincidencia pregunta": 1
     },
     {
-        "User": "pantalla azul",
-        "Bot": "La pantalla azul, tambien conocida como Pantalla de la Muerte o Blue Screen of Death (BSOD),es un error comun en los sistemas operativos de Windows. Si estas experimentando una pantalla azul en tu computadora, aqui te dejamos algunos pasos que puedes seguir para solucionar el problema: \n\n1. Reinicia la computadora: A veces, simplemente reiniciar la computadora puede solucionar problemas menores. \n\n2. Actualiza los controladores: Asegurate de tener los ultimos controladores instalados para tus dispositivos de hardware. Los controladores desactualizados pueden causar problemas de estabilidad. \n\n3. Realiza una comprobacion de errores del disco: Los errores en el disco duro pueden causar problemas de estabilidad en el sistema operativo. Realiza una comprobacion de errores del disco para reparar cualquier error presente. \n\n4. Reinstala el sistema operativo: Si ninguno de los pasos anteriores funciona, considera reinstalar el sistema operativo. Esto eliminara todos los datos de la computadora, por lo que asegurate de hacer una copia de seguridad antes de proceder. \n\nEspero que estos pasos te ayuden a solucionar el problema de la pantalla azul en tu computadora. Si el problema persiste, es recomendable llevar la computadora a un servicio tecnico especializado para diagnosticar y resolver el problema.",
-        "Date": "2023-05-28 19:58:25",
-        "Tag": "software",
-        "idTag": 6
+        "User": "El ordenador no despierta de la hibernacion",
+        "Bot": "Una forma de minimizar el problema es impedir que el ordenador entre en hibernacion de forma automatica.\n\n1. Para ello pincha con el boton derecho en el Boton de Inicio, y elige Opciones de Energia. \n\n2. A continuacion marca la casilla Alto rendimiento.\n\n3. incha en la opcion Cambiar la configuracion del plan y asegurate de que la casilla Poner el equipo en suspension indica Nunca\n",
+        "Date": "2023-05-28 23:09:50",
+        "Tag": "ordenadorNoDespierta",
+        "idTag": 13,
+        "coincidencia pregunta": 1
     },
     {
-        "User": "mouse",
+        "User": "ayuda",
+        "Bot": "Hola, como puedo ayudarte?",
+        "Date": "2023-05-28 23:11:27",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Programas incompatibles",
+        "Bot": "1. . Accede a la solapa Compatibilidad y marca la casilla Ejecutar este programa en modo de compatibilidad para.\n\n3. A continuacion en el menu emergente elige el sistema operativo mas cercano a la fecha de lanzamiento de ese programa: Windows XP, Windows Vista, Windows 7, etc. Puedes probar varios de ellos hasta que encuentres uno que funcione",
+        "Date": "2023-05-28 23:11:37",
+        "Tag": "programasNoCompatibles",
+        "idTag": 14,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "arbol",
         "Bot": "Que bueno verte de nuevo",
-        "Date": "2023-05-28 19:59:25",
+        "Date": "2023-05-28 23:12:28",
         "Tag": "saludo",
-        "idTag": 1
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "Mi dispositivo no carga correctamente",
+        "Bot": "Hay varios motivos por los que un telefono movil puede tener problemas de carga. Algunos de los mas comunes incluyen:\n\n1. Cable de carga defectuoso: Si el cable de carga esta defectuoso o desgastado, puede que no proporcione una carga adecuada al telefono movil.\n\n2. Puerto de carga defectuoso: Si el puerto de carga del telefono movil esta defectuoso, puede que el telefono movil no se cargue correctamente.\n\n3. Problemas con la bateria: Si la bateria del telefono movil esta defectuosa o esta llegando al final de su vida util, puede que no se cargue correctamente.\n\n4. Problemas de software: Los problemas de software pueden afectar a la carga del telefono movil. Por ejemplo, si hay problemas con el sistema operativo o con alguna aplicacion, puede que el telefono movil no se cargue correctamente.\n\n5. Temperatura ambiente inadecuada: Las baterias pueden ser sensibles a las temperaturas extremas, por lo que si el telefono movil se carga en un ambiente demasiado caliente o demasiado frio, esto puede afectar a su capacidad de carga.",
+        "Date": "2023-05-28 23:13:02",
+        "Tag": "problemasDeCarga",
+        "idTag": 7,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Mi telefono no dura mucho tiempo con la carga de la bateria",
+        "Bot": "Hay varios motivos por los que un telefono movil puede tener problemas de carga. Algunos de los mas comunes incluyen:\n\n1. Cable de carga defectuoso: Si el cable de carga esta defectuoso o desgastado, puede que no proporcione una carga adecuada al telefono movil.\n\n2. Puerto de carga defectuoso: Si el puerto de carga del telefono movil esta defectuoso, puede que el telefono movil no se cargue correctamente.\n\n3. Problemas con la bateria: Si la bateria del telefono movil esta defectuosa o esta llegando al final de su vida util, puede que no se cargue correctamente.\n\n4. Problemas de software: Los problemas de software pueden afectar a la carga del telefono movil. Por ejemplo, si hay problemas con el sistema operativo o con alguna aplicacion, puede que el telefono movil no se cargue correctamente.\n\n5. Temperatura ambiente inadecuada: Las baterias pueden ser sensibles a las temperaturas extremas, por lo que si el telefono movil se carga en un ambiente demasiado caliente o demasiado frio, esto puede afectar a su capacidad de carga.",
+        "Date": "2023-05-28 23:14:17",
+        "Tag": "problemasDeCarga",
+        "idTag": 7,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Tengo problemas de velocidad en mi PC",
+        "Bot": "Hay varios motivos por los que un telefono movil puede tener problemas de carga. Algunos de los mas comunes incluyen:\n\n1. Cable de carga defectuoso: Si el cable de carga esta defectuoso o desgastado, puede que no proporcione una carga adecuada al telefono movil.\n\n2. Puerto de carga defectuoso: Si el puerto de carga del telefono movil esta defectuoso, puede que el telefono movil no se cargue correctamente.\n\n3. Problemas con la bateria: Si la bateria del telefono movil esta defectuosa o esta llegando al final de su vida util, puede que no se cargue correctamente.\n\n4. Problemas de software: Los problemas de software pueden afectar a la carga del telefono movil. Por ejemplo, si hay problemas con el sistema operativo o con alguna aplicacion, puede que el telefono movil no se cargue correctamente.\n\n5. Temperatura ambiente inadecuada: Las baterias pueden ser sensibles a las temperaturas extremas, por lo que si el telefono movil se carga en un ambiente demasiado caliente o demasiado frio, esto puede afectar a su capacidad de carga.",
+        "Date": "2023-05-28 23:14:31",
+        "Tag": "problemasDeCarga",
+        "idTag": 7,
+        "coincidencia pregunta": 1
     }
 ]
