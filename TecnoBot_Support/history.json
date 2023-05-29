@@ -1,42 +1,2274 @@
 [
     {
-        "User": "hola",
-        "Bot": "Hola, como puedo ayudarte?",
-        "Date": "2023-05-28 23:33:02",
-        "Tag": "saludo",
-        "idTag": 1,
-        "coincidencia pregunta": 1
-    },
-    {
-        "User": "mierda",
+        "User": "Hola",
         "Bot": "Hola, gracias por preguntar",
-        "Date": "2023-05-28 23:33:12",
+        "Date": "2023-05-28 23:35:04",
         "Tag": "saludo",
         "idTag": 1,
-        "coincidencia pregunta": 0
+        "coincidencia pregunta": 1
     },
     {
-        "User": "ayudame",
+        "User": "Hola",
+        "Bot": "Hola, gracias por preguntar",
+        "Date": "2023-05-28 23:35:05",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Hola",
         "Bot": "Que bueno verte de nuevo",
-        "Date": "2023-05-28 23:33:19",
+        "Date": "2023-05-28 23:35:06",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Hola",
+        "Bot": "Hola, gracias por preguntar",
+        "Date": "2023-05-28 23:35:07",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Hola",
+        "Bot": "Hola, como puedo ayudarte?",
+        "Date": "2023-05-28 23:35:07",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Hola",
+        "Bot": "Hola, gracias por preguntar",
+        "Date": "2023-05-28 23:35:08",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Nos vemos",
+        "Bot": "Si estas experimentando una conexion WiFi lenta, hay algunas cosas que puedes intentar para mejorarla. \n\n1. asegurate de estar cerca del enrutador para obtener una senal mas fuerte.\n\n2. Verifica si hay interferencias de otros dispositivos electronicos cerca del enrutador, como los microondas.\n\n3. Reiniciar el enrutador tambien puede ayudar a solucionar problemas temporales.\n\n4. Si el problema persiste, es posible que desees considerar ponerse en contacto con tu proveedor de servicios de Internet para obtener mas asistencia tecnica.",
+        "Date": "2023-05-28 23:35:23",
+        "Tag": "WiFi",
+        "idTag": 15,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Nos vemos",
+        "Bot": "Si tienes problemas para conectar tu dispositivo a Wi-Fi, verifica que la contrasena sea correcta y que estes dentro del rango de senal. Si la conexion Bluetooth no funciona, verifica que el dispositivo este emparejado correctamente y que no haya interferencias cercanas. Si no puedes acceder a Internet, verifica la conexion de red y reinicia tu enrutador o modem.",
+        "Date": "2023-05-28 23:35:23",
+        "Tag": "WiFi",
+        "idTag": 15,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Nos vemos",
+        "Bot": "Si tienes problemas para conectar tu dispositivo a Wi-Fi, verifica que la contrasena sea correcta y que estes dentro del rango de senal. Si la conexion Bluetooth no funciona, verifica que el dispositivo este emparejado correctamente y que no haya interferencias cercanas. Si no puedes acceder a Internet, verifica la conexion de red y reinicia tu enrutador o modem.",
+        "Date": "2023-05-28 23:35:24",
+        "Tag": "WiFi",
+        "idTag": 15,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Nos vemos",
+        "Bot": "Si estas experimentando una conexion WiFi lenta, hay algunas cosas que puedes intentar para mejorarla. \n\n1. asegurate de estar cerca del enrutador para obtener una senal mas fuerte.\n\n2. Verifica si hay interferencias de otros dispositivos electronicos cerca del enrutador, como los microondas.\n\n3. Reiniciar el enrutador tambien puede ayudar a solucionar problemas temporales.\n\n4. Si el problema persiste, es posible que desees considerar ponerse en contacto con tu proveedor de servicios de Internet para obtener mas asistencia tecnica.",
+        "Date": "2023-05-28 23:35:24",
+        "Tag": "WiFi",
+        "idTag": 15,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Nos vemos",
+        "Bot": "Si tienes problemas para conectar tu dispositivo a Wi-Fi, verifica que la contrasena sea correcta y que estes dentro del rango de senal. Si la conexion Bluetooth no funciona, verifica que el dispositivo este emparejado correctamente y que no haya interferencias cercanas. Si no puedes acceder a Internet, verifica la conexion de red y reinicia tu enrutador o modem.",
+        "Date": "2023-05-28 23:35:25",
+        "Tag": "WiFi",
+        "idTag": 15,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Nos vemos",
+        "Bot": "Si estas experimentando una conexion WiFi lenta, hay algunas cosas que puedes intentar para mejorarla. \n\n1. asegurate de estar cerca del enrutador para obtener una senal mas fuerte.\n\n2. Verifica si hay interferencias de otros dispositivos electronicos cerca del enrutador, como los microondas.\n\n3. Reiniciar el enrutador tambien puede ayudar a solucionar problemas temporales.\n\n4. Si el problema persiste, es posible que desees considerar ponerse en contacto con tu proveedor de servicios de Internet para obtener mas asistencia tecnica.",
+        "Date": "2023-05-28 23:35:26",
+        "Tag": "WiFi",
+        "idTag": 15,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Nos vemos",
+        "Bot": "Si estas experimentando una conexion WiFi lenta, hay algunas cosas que puedes intentar para mejorarla. \n\n1. asegurate de estar cerca del enrutador para obtener una senal mas fuerte.\n\n2. Verifica si hay interferencias de otros dispositivos electronicos cerca del enrutador, como los microondas.\n\n3. Reiniciar el enrutador tambien puede ayudar a solucionar problemas temporales.\n\n4. Si el problema persiste, es posible que desees considerar ponerse en contacto con tu proveedor de servicios de Internet para obtener mas asistencia tecnica.",
+        "Date": "2023-05-28 23:35:26",
+        "Tag": "WiFi",
+        "idTag": 15,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Nos vemos",
+        "Bot": "Si estas experimentando una conexion WiFi lenta, hay algunas cosas que puedes intentar para mejorarla. \n\n1. asegurate de estar cerca del enrutador para obtener una senal mas fuerte.\n\n2. Verifica si hay interferencias de otros dispositivos electronicos cerca del enrutador, como los microondas.\n\n3. Reiniciar el enrutador tambien puede ayudar a solucionar problemas temporales.\n\n4. Si el problema persiste, es posible que desees considerar ponerse en contacto con tu proveedor de servicios de Internet para obtener mas asistencia tecnica.",
+        "Date": "2023-05-28 23:35:27",
+        "Tag": "WiFi",
+        "idTag": 15,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Nos vemos",
+        "Bot": "Si estas experimentando una conexion WiFi lenta, hay algunas cosas que puedes intentar para mejorarla. \n\n1. asegurate de estar cerca del enrutador para obtener una senal mas fuerte.\n\n2. Verifica si hay interferencias de otros dispositivos electronicos cerca del enrutador, como los microondas.\n\n3. Reiniciar el enrutador tambien puede ayudar a solucionar problemas temporales.\n\n4. Si el problema persiste, es posible que desees considerar ponerse en contacto con tu proveedor de servicios de Internet para obtener mas asistencia tecnica.",
+        "Date": "2023-05-28 23:35:27",
+        "Tag": "WiFi",
+        "idTag": 15,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Nos vemos",
+        "Bot": "Si tienes problemas para conectar tu dispositivo a Wi-Fi, verifica que la contrasena sea correcta y que estes dentro del rango de senal. Si la conexion Bluetooth no funciona, verifica que el dispositivo este emparejado correctamente y que no haya interferencias cercanas. Si no puedes acceder a Internet, verifica la conexion de red y reinicia tu enrutador o modem.",
+        "Date": "2023-05-28 23:35:28",
+        "Tag": "WiFi",
+        "idTag": 15,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Nos vemos",
+        "Bot": "Si tienes problemas para conectar tu dispositivo a Wi-Fi, verifica que la contrasena sea correcta y que estes dentro del rango de senal. Si la conexion Bluetooth no funciona, verifica que el dispositivo este emparejado correctamente y que no haya interferencias cercanas. Si no puedes acceder a Internet, verifica la conexion de red y reinicia tu enrutador o modem.",
+        "Date": "2023-05-28 23:35:28",
+        "Tag": "WiFi",
+        "idTag": 15,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Nos vemos",
+        "Bot": "Si tienes problemas para conectar tu dispositivo a Wi-Fi, verifica que la contrasena sea correcta y que estes dentro del rango de senal. Si la conexion Bluetooth no funciona, verifica que el dispositivo este emparejado correctamente y que no haya interferencias cercanas. Si no puedes acceder a Internet, verifica la conexion de red y reinicia tu enrutador o modem.",
+        "Date": "2023-05-28 23:35:29",
+        "Tag": "WiFi",
+        "idTag": 15,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Nos vemos",
+        "Bot": "Si estas experimentando una conexion WiFi lenta, hay algunas cosas que puedes intentar para mejorarla. \n\n1. asegurate de estar cerca del enrutador para obtener una senal mas fuerte.\n\n2. Verifica si hay interferencias de otros dispositivos electronicos cerca del enrutador, como los microondas.\n\n3. Reiniciar el enrutador tambien puede ayudar a solucionar problemas temporales.\n\n4. Si el problema persiste, es posible que desees considerar ponerse en contacto con tu proveedor de servicios de Internet para obtener mas asistencia tecnica.",
+        "Date": "2023-05-28 23:35:30",
+        "Tag": "WiFi",
+        "idTag": 15,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Gracias",
+        "Bot": "No dudes en preguntarme!",
+        "Date": "2023-05-28 23:35:41",
+        "Tag": "gracias",
+        "idTag": 3,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Gracias",
+        "Bot": "No dudes en preguntarme!",
+        "Date": "2023-05-28 23:35:42",
+        "Tag": "gracias",
+        "idTag": 3,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Gracias",
+        "Bot": "Fue un placer servirte",
+        "Date": "2023-05-28 23:35:42",
+        "Tag": "gracias",
+        "idTag": 3,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Gracias",
+        "Bot": "Feliz de ayudarte!",
+        "Date": "2023-05-28 23:35:43",
+        "Tag": "gracias",
+        "idTag": 3,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Gracias",
+        "Bot": "No dudes en preguntarme!",
+        "Date": "2023-05-28 23:35:43",
+        "Tag": "gracias",
+        "idTag": 3,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Gracias",
+        "Bot": "Fue un placer servirte",
+        "Date": "2023-05-28 23:35:44",
+        "Tag": "gracias",
+        "idTag": 3,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Gracias",
+        "Bot": "Feliz de ayudarte!",
+        "Date": "2023-05-28 23:35:44",
+        "Tag": "gracias",
+        "idTag": 3,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Gracias",
+        "Bot": "No dudes en preguntarme!",
+        "Date": "2023-05-28 23:35:45",
+        "Tag": "gracias",
+        "idTag": 3,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Gracias",
+        "Bot": "Feliz de ayudarte!",
+        "Date": "2023-05-28 23:35:45",
+        "Tag": "gracias",
+        "idTag": 3,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Como puedes ayudarme?",
+        "Bot": "Hola, soy TecnoBot Support. Y estoy aqui para ayudarte con el soporte o asesoramiento de los errores que comunmente se presentan en dispositivos como celulares, computadores de escritorio y portatiles.",
+        "Date": "2023-05-28 23:36:55",
+        "Tag": "opciones",
+        "idTag": 5,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Como puedes ayudarme?",
+        "Bot": "Hola, soy TecnoBot Support. Y estoy aqui para ayudarte con el soporte o asesoramiento de los errores que comunmente se presentan en dispositivos como celulares, computadores de escritorio y portatiles.",
+        "Date": "2023-05-28 23:36:56",
+        "Tag": "opciones",
+        "idTag": 5,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Como puedes ayudarme?",
+        "Bot": "Hola, soy TecnoBot Support. Y estoy aqui para ayudarte con el soporte o asesoramiento de los errores que comunmente se presentan en dispositivos como celulares, computadores de escritorio y portatiles.",
+        "Date": "2023-05-28 23:36:57",
+        "Tag": "opciones",
+        "idTag": 5,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Como puedes ayudarme?",
+        "Bot": "Hola, soy TecnoBot Support. Y estoy aqui para ayudarte con el soporte o asesoramiento de los errores que comunmente se presentan en dispositivos como celulares, computadores de escritorio y portatiles.",
+        "Date": "2023-05-28 23:36:57",
+        "Tag": "opciones",
+        "idTag": 5,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Como puedes ayudarme?",
+        "Bot": "Hola, soy TecnoBot Support. Y estoy aqui para ayudarte con el soporte o asesoramiento de los errores que comunmente se presentan en dispositivos como celulares, computadores de escritorio y portatiles.",
+        "Date": "2023-05-28 23:36:58",
+        "Tag": "opciones",
+        "idTag": 5,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Como puedes ayudarme?",
+        "Bot": "Hola, soy TecnoBot Support. Y estoy aqui para ayudarte con el soporte o asesoramiento de los errores que comunmente se presentan en dispositivos como celulares, computadores de escritorio y portatiles.",
+        "Date": "2023-05-28 23:36:58",
+        "Tag": "opciones",
+        "idTag": 5,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Como puedes ayudarme?",
+        "Bot": "Hola, soy TecnoBot Support. Y estoy aqui para ayudarte con el soporte o asesoramiento de los errores que comunmente se presentan en dispositivos como celulares, computadores de escritorio y portatiles.",
+        "Date": "2023-05-28 23:36:58",
+        "Tag": "opciones",
+        "idTag": 5,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Como puedes ayudarme?",
+        "Bot": "Hola, soy TecnoBot Support. Y estoy aqui para ayudarte con el soporte o asesoramiento de los errores que comunmente se presentan en dispositivos como celulares, computadores de escritorio y portatiles.",
+        "Date": "2023-05-28 23:36:59",
+        "Tag": "opciones",
+        "idTag": 5,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Como puedes ayudarme?",
+        "Bot": "Hola, soy TecnoBot Support. Y estoy aqui para ayudarte con el soporte o asesoramiento de los errores que comunmente se presentan en dispositivos como celulares, computadores de escritorio y portatiles.",
+        "Date": "2023-05-28 23:36:59",
+        "Tag": "opciones",
+        "idTag": 5,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Como puedes ayudarme?",
+        "Bot": "Hola, soy TecnoBot Support. Y estoy aqui para ayudarte con el soporte o asesoramiento de los errores que comunmente se presentan en dispositivos como celulares, computadores de escritorio y portatiles.",
+        "Date": "2023-05-28 23:36:59",
+        "Tag": "opciones",
+        "idTag": 5,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Como puedes ayudarme?",
+        "Bot": "Hola, soy TecnoBot Support. Y estoy aqui para ayudarte con el soporte o asesoramiento de los errores que comunmente se presentan en dispositivos como celulares, computadores de escritorio y portatiles.",
+        "Date": "2023-05-28 23:37:00",
+        "Tag": "opciones",
+        "idTag": 5,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Como puedes ayudarme?",
+        "Bot": "Hola, soy TecnoBot Support. Y estoy aqui para ayudarte con el soporte o asesoramiento de los errores que comunmente se presentan en dispositivos como celulares, computadores de escritorio y portatiles.",
+        "Date": "2023-05-28 23:37:00",
+        "Tag": "opciones",
+        "idTag": 5,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "v",
+        "Bot": "Que bueno verte de nuevo",
+        "Date": "2023-05-28 23:37:00",
         "Tag": "saludo",
         "idTag": 1,
         "coincidencia pregunta": 0
     },
     {
-        "User": "ayuda",
+        "User": "Como puedes ayudarme?",
+        "Bot": "Hola, soy TecnoBot Support. Y estoy aqui para ayudarte con el soporte o asesoramiento de los errores que comunmente se presentan en dispositivos como celulares, computadores de escritorio y portatiles.",
+        "Date": "2023-05-28 23:37:01",
+        "Tag": "opciones",
+        "idTag": 5,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Pantalla azul",
+        "Bot": "La pantalla azul, tambien conocida como Pantalla de la Muerte o Blue Screen of Death (BSOD),es un error comun en los sistemas operativos de Windows. Si estas experimentando una pantalla azul en tu computadora, aqui te dejamos algunos pasos que puedes seguir para solucionar el problema: \n\n1. Reinicia la computadora: A veces, simplemente reiniciar la computadora puede solucionar problemas menores. \n\n2. Actualiza los controladores: Asegurate de tener los ultimos controladores instalados para tus dispositivos de hardware. Los controladores desactualizados pueden causar problemas de estabilidad. \n\n3. Realiza una comprobacion de errores del disco: Los errores en el disco duro pueden causar problemas de estabilidad en el sistema operativo. Realiza una comprobacion de errores del disco para reparar cualquier error presente. \n\n4. Reinstala el sistema operativo: Si ninguno de los pasos anteriores funciona, considera reinstalar el sistema operativo. Esto eliminara todos los datos de la computadora, por lo que asegurate de hacer una copia de seguridad antes de proceder. \n\nEspero que estos pasos te ayuden a solucionar el problema de la pantalla azul en tu computadora. Si el problema persiste, es recomendable llevar la computadora a un servicio tecnico especializado para diagnosticar y resolver el problema.",
+        "Date": "2023-05-28 23:37:12",
+        "Tag": "software",
+        "idTag": 6,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Pantalla azul",
+        "Bot": "La pantalla azul, tambien conocida como Pantalla de la Muerte o Blue Screen of Death (BSOD),es un error comun en los sistemas operativos de Windows. Si estas experimentando una pantalla azul en tu computadora, aqui te dejamos algunos pasos que puedes seguir para solucionar el problema: \n\n1. Reinicia la computadora: A veces, simplemente reiniciar la computadora puede solucionar problemas menores. \n\n2. Actualiza los controladores: Asegurate de tener los ultimos controladores instalados para tus dispositivos de hardware. Los controladores desactualizados pueden causar problemas de estabilidad. \n\n3. Realiza una comprobacion de errores del disco: Los errores en el disco duro pueden causar problemas de estabilidad en el sistema operativo. Realiza una comprobacion de errores del disco para reparar cualquier error presente. \n\n4. Reinstala el sistema operativo: Si ninguno de los pasos anteriores funciona, considera reinstalar el sistema operativo. Esto eliminara todos los datos de la computadora, por lo que asegurate de hacer una copia de seguridad antes de proceder. \n\nEspero que estos pasos te ayuden a solucionar el problema de la pantalla azul en tu computadora. Si el problema persiste, es recomendable llevar la computadora a un servicio tecnico especializado para diagnosticar y resolver el problema.",
+        "Date": "2023-05-28 23:37:12",
+        "Tag": "software",
+        "idTag": 6,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El telefono movil tiene problemas de carga",
+        "Bot": "Hay varios motivos por los que un telefono movil puede tener problemas de carga. Algunos de los mas comunes incluyen:\n\n1. Cable de carga defectuoso: Si el cable de carga esta defectuoso o desgastado, puede que no proporcione una carga adecuada al telefono movil.\n\n2. Puerto de carga defectuoso: Si el puerto de carga del telefono movil esta defectuoso, puede que el telefono movil no se cargue correctamente.\n\n3. Problemas con la bateria: Si la bateria del telefono movil esta defectuosa o esta llegando al final de su vida util, puede que no se cargue correctamente.\n\n4. Problemas de software: Los problemas de software pueden afectar a la carga del telefono movil. Por ejemplo, si hay problemas con el sistema operativo o con alguna aplicacion, puede que el telefono movil no se cargue correctamente.\n\n5. Temperatura ambiente inadecuada: Las baterias pueden ser sensibles a las temperaturas extremas, por lo que si el telefono movil se carga en un ambiente demasiado caliente o demasiado frio, esto puede afectar a su capacidad de carga.",
+        "Date": "2023-05-28 23:37:21",
+        "Tag": "problemasDeCarga",
+        "idTag": 7,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El telefono movil tiene problemas de carga",
+        "Bot": "Hay varios motivos por los que un telefono movil puede tener problemas de carga. Algunos de los mas comunes incluyen:\n\n1. Cable de carga defectuoso: Si el cable de carga esta defectuoso o desgastado, puede que no proporcione una carga adecuada al telefono movil.\n\n2. Puerto de carga defectuoso: Si el puerto de carga del telefono movil esta defectuoso, puede que el telefono movil no se cargue correctamente.\n\n3. Problemas con la bateria: Si la bateria del telefono movil esta defectuosa o esta llegando al final de su vida util, puede que no se cargue correctamente.\n\n4. Problemas de software: Los problemas de software pueden afectar a la carga del telefono movil. Por ejemplo, si hay problemas con el sistema operativo o con alguna aplicacion, puede que el telefono movil no se cargue correctamente.\n\n5. Temperatura ambiente inadecuada: Las baterias pueden ser sensibles a las temperaturas extremas, por lo que si el telefono movil se carga en un ambiente demasiado caliente o demasiado frio, esto puede afectar a su capacidad de carga.",
+        "Date": "2023-05-28 23:37:22",
+        "Tag": "problemasDeCarga",
+        "idTag": 7,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El telefono movil tiene problemas de carga",
+        "Bot": "Hay varios motivos por los que un telefono movil puede tener problemas de carga. Algunos de los mas comunes incluyen:\n\n1. Cable de carga defectuoso: Si el cable de carga esta defectuoso o desgastado, puede que no proporcione una carga adecuada al telefono movil.\n\n2. Puerto de carga defectuoso: Si el puerto de carga del telefono movil esta defectuoso, puede que el telefono movil no se cargue correctamente.\n\n3. Problemas con la bateria: Si la bateria del telefono movil esta defectuosa o esta llegando al final de su vida util, puede que no se cargue correctamente.\n\n4. Problemas de software: Los problemas de software pueden afectar a la carga del telefono movil. Por ejemplo, si hay problemas con el sistema operativo o con alguna aplicacion, puede que el telefono movil no se cargue correctamente.\n\n5. Temperatura ambiente inadecuada: Las baterias pueden ser sensibles a las temperaturas extremas, por lo que si el telefono movil se carga en un ambiente demasiado caliente o demasiado frio, esto puede afectar a su capacidad de carga.",
+        "Date": "2023-05-28 23:37:22",
+        "Tag": "problemasDeCarga",
+        "idTag": 7,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El telefono movil tiene problemas de carga",
+        "Bot": "Hay varios motivos por los que un telefono movil puede tener problemas de carga. Algunos de los mas comunes incluyen:\n\n1. Cable de carga defectuoso: Si el cable de carga esta defectuoso o desgastado, puede que no proporcione una carga adecuada al telefono movil.\n\n2. Puerto de carga defectuoso: Si el puerto de carga del telefono movil esta defectuoso, puede que el telefono movil no se cargue correctamente.\n\n3. Problemas con la bateria: Si la bateria del telefono movil esta defectuosa o esta llegando al final de su vida util, puede que no se cargue correctamente.\n\n4. Problemas de software: Los problemas de software pueden afectar a la carga del telefono movil. Por ejemplo, si hay problemas con el sistema operativo o con alguna aplicacion, puede que el telefono movil no se cargue correctamente.\n\n5. Temperatura ambiente inadecuada: Las baterias pueden ser sensibles a las temperaturas extremas, por lo que si el telefono movil se carga en un ambiente demasiado caliente o demasiado frio, esto puede afectar a su capacidad de carga.",
+        "Date": "2023-05-28 23:37:23",
+        "Tag": "problemasDeCarga",
+        "idTag": 7,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El telefono movil tiene problemas de carga",
+        "Bot": "Hay varios motivos por los que un telefono movil puede tener problemas de carga. Algunos de los mas comunes incluyen:\n\n1. Cable de carga defectuoso: Si el cable de carga esta defectuoso o desgastado, puede que no proporcione una carga adecuada al telefono movil.\n\n2. Puerto de carga defectuoso: Si el puerto de carga del telefono movil esta defectuoso, puede que el telefono movil no se cargue correctamente.\n\n3. Problemas con la bateria: Si la bateria del telefono movil esta defectuosa o esta llegando al final de su vida util, puede que no se cargue correctamente.\n\n4. Problemas de software: Los problemas de software pueden afectar a la carga del telefono movil. Por ejemplo, si hay problemas con el sistema operativo o con alguna aplicacion, puede que el telefono movil no se cargue correctamente.\n\n5. Temperatura ambiente inadecuada: Las baterias pueden ser sensibles a las temperaturas extremas, por lo que si el telefono movil se carga en un ambiente demasiado caliente o demasiado frio, esto puede afectar a su capacidad de carga.",
+        "Date": "2023-05-28 23:37:23",
+        "Tag": "problemasDeCarga",
+        "idTag": 7,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El telefono movil tiene problemas de carga",
+        "Bot": "Hay varios motivos por los que un telefono movil puede tener problemas de carga. Algunos de los mas comunes incluyen:\n\n1. Cable de carga defectuoso: Si el cable de carga esta defectuoso o desgastado, puede que no proporcione una carga adecuada al telefono movil.\n\n2. Puerto de carga defectuoso: Si el puerto de carga del telefono movil esta defectuoso, puede que el telefono movil no se cargue correctamente.\n\n3. Problemas con la bateria: Si la bateria del telefono movil esta defectuosa o esta llegando al final de su vida util, puede que no se cargue correctamente.\n\n4. Problemas de software: Los problemas de software pueden afectar a la carga del telefono movil. Por ejemplo, si hay problemas con el sistema operativo o con alguna aplicacion, puede que el telefono movil no se cargue correctamente.\n\n5. Temperatura ambiente inadecuada: Las baterias pueden ser sensibles a las temperaturas extremas, por lo que si el telefono movil se carga en un ambiente demasiado caliente o demasiado frio, esto puede afectar a su capacidad de carga.",
+        "Date": "2023-05-28 23:37:23",
+        "Tag": "problemasDeCarga",
+        "idTag": 7,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El telefono movil tiene problemas de carga",
+        "Bot": "Hay varios motivos por los que un telefono movil puede tener problemas de carga. Algunos de los mas comunes incluyen:\n\n1. Cable de carga defectuoso: Si el cable de carga esta defectuoso o desgastado, puede que no proporcione una carga adecuada al telefono movil.\n\n2. Puerto de carga defectuoso: Si el puerto de carga del telefono movil esta defectuoso, puede que el telefono movil no se cargue correctamente.\n\n3. Problemas con la bateria: Si la bateria del telefono movil esta defectuosa o esta llegando al final de su vida util, puede que no se cargue correctamente.\n\n4. Problemas de software: Los problemas de software pueden afectar a la carga del telefono movil. Por ejemplo, si hay problemas con el sistema operativo o con alguna aplicacion, puede que el telefono movil no se cargue correctamente.\n\n5. Temperatura ambiente inadecuada: Las baterias pueden ser sensibles a las temperaturas extremas, por lo que si el telefono movil se carga en un ambiente demasiado caliente o demasiado frio, esto puede afectar a su capacidad de carga.",
+        "Date": "2023-05-28 23:37:23",
+        "Tag": "problemasDeCarga",
+        "idTag": 7,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El telefono movil tiene problemas de carga",
+        "Bot": "Hay varios motivos por los que un telefono movil puede tener problemas de carga. Algunos de los mas comunes incluyen:\n\n1. Cable de carga defectuoso: Si el cable de carga esta defectuoso o desgastado, puede que no proporcione una carga adecuada al telefono movil.\n\n2. Puerto de carga defectuoso: Si el puerto de carga del telefono movil esta defectuoso, puede que el telefono movil no se cargue correctamente.\n\n3. Problemas con la bateria: Si la bateria del telefono movil esta defectuosa o esta llegando al final de su vida util, puede que no se cargue correctamente.\n\n4. Problemas de software: Los problemas de software pueden afectar a la carga del telefono movil. Por ejemplo, si hay problemas con el sistema operativo o con alguna aplicacion, puede que el telefono movil no se cargue correctamente.\n\n5. Temperatura ambiente inadecuada: Las baterias pueden ser sensibles a las temperaturas extremas, por lo que si el telefono movil se carga en un ambiente demasiado caliente o demasiado frio, esto puede afectar a su capacidad de carga.",
+        "Date": "2023-05-28 23:37:23",
+        "Tag": "problemasDeCarga",
+        "idTag": 7,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El telefono movil tiene problemas de carga",
+        "Bot": "Hay varios motivos por los que un telefono movil puede tener problemas de carga. Algunos de los mas comunes incluyen:\n\n1. Cable de carga defectuoso: Si el cable de carga esta defectuoso o desgastado, puede que no proporcione una carga adecuada al telefono movil.\n\n2. Puerto de carga defectuoso: Si el puerto de carga del telefono movil esta defectuoso, puede que el telefono movil no se cargue correctamente.\n\n3. Problemas con la bateria: Si la bateria del telefono movil esta defectuosa o esta llegando al final de su vida util, puede que no se cargue correctamente.\n\n4. Problemas de software: Los problemas de software pueden afectar a la carga del telefono movil. Por ejemplo, si hay problemas con el sistema operativo o con alguna aplicacion, puede que el telefono movil no se cargue correctamente.\n\n5. Temperatura ambiente inadecuada: Las baterias pueden ser sensibles a las temperaturas extremas, por lo que si el telefono movil se carga en un ambiente demasiado caliente o demasiado frio, esto puede afectar a su capacidad de carga.",
+        "Date": "2023-05-28 23:37:24",
+        "Tag": "problemasDeCarga",
+        "idTag": 7,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El telefono movil tiene problemas de carga",
+        "Bot": "Hay varios motivos por los que un telefono movil puede tener problemas de carga. Algunos de los mas comunes incluyen:\n\n1. Cable de carga defectuoso: Si el cable de carga esta defectuoso o desgastado, puede que no proporcione una carga adecuada al telefono movil.\n\n2. Puerto de carga defectuoso: Si el puerto de carga del telefono movil esta defectuoso, puede que el telefono movil no se cargue correctamente.\n\n3. Problemas con la bateria: Si la bateria del telefono movil esta defectuosa o esta llegando al final de su vida util, puede que no se cargue correctamente.\n\n4. Problemas de software: Los problemas de software pueden afectar a la carga del telefono movil. Por ejemplo, si hay problemas con el sistema operativo o con alguna aplicacion, puede que el telefono movil no se cargue correctamente.\n\n5. Temperatura ambiente inadecuada: Las baterias pueden ser sensibles a las temperaturas extremas, por lo que si el telefono movil se carga en un ambiente demasiado caliente o demasiado frio, esto puede afectar a su capacidad de carga.",
+        "Date": "2023-05-28 23:37:24",
+        "Tag": "problemasDeCarga",
+        "idTag": 7,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El telefono movil tiene problemas de carga",
+        "Bot": "Hay varios motivos por los que un telefono movil puede tener problemas de carga. Algunos de los mas comunes incluyen:\n\n1. Cable de carga defectuoso: Si el cable de carga esta defectuoso o desgastado, puede que no proporcione una carga adecuada al telefono movil.\n\n2. Puerto de carga defectuoso: Si el puerto de carga del telefono movil esta defectuoso, puede que el telefono movil no se cargue correctamente.\n\n3. Problemas con la bateria: Si la bateria del telefono movil esta defectuosa o esta llegando al final de su vida util, puede que no se cargue correctamente.\n\n4. Problemas de software: Los problemas de software pueden afectar a la carga del telefono movil. Por ejemplo, si hay problemas con el sistema operativo o con alguna aplicacion, puede que el telefono movil no se cargue correctamente.\n\n5. Temperatura ambiente inadecuada: Las baterias pueden ser sensibles a las temperaturas extremas, por lo que si el telefono movil se carga en un ambiente demasiado caliente o demasiado frio, esto puede afectar a su capacidad de carga.",
+        "Date": "2023-05-28 23:37:24",
+        "Tag": "problemasDeCarga",
+        "idTag": 7,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El telefono movil tiene problemas de carga",
+        "Bot": "Hay varios motivos por los que un telefono movil puede tener problemas de carga. Algunos de los mas comunes incluyen:\n\n1. Cable de carga defectuoso: Si el cable de carga esta defectuoso o desgastado, puede que no proporcione una carga adecuada al telefono movil.\n\n2. Puerto de carga defectuoso: Si el puerto de carga del telefono movil esta defectuoso, puede que el telefono movil no se cargue correctamente.\n\n3. Problemas con la bateria: Si la bateria del telefono movil esta defectuosa o esta llegando al final de su vida util, puede que no se cargue correctamente.\n\n4. Problemas de software: Los problemas de software pueden afectar a la carga del telefono movil. Por ejemplo, si hay problemas con el sistema operativo o con alguna aplicacion, puede que el telefono movil no se cargue correctamente.\n\n5. Temperatura ambiente inadecuada: Las baterias pueden ser sensibles a las temperaturas extremas, por lo que si el telefono movil se carga en un ambiente demasiado caliente o demasiado frio, esto puede afectar a su capacidad de carga.",
+        "Date": "2023-05-28 23:37:24",
+        "Tag": "problemasDeCarga",
+        "idTag": 7,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "v",
         "Bot": "Hola, como puedo ayudarte?",
-        "Date": "2023-05-28 23:33:24",
+        "Date": "2023-05-28 23:37:25",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "El telefono movil tiene problemas de carga",
+        "Bot": "Hay varios motivos por los que un telefono movil puede tener problemas de carga. Algunos de los mas comunes incluyen:\n\n1. Cable de carga defectuoso: Si el cable de carga esta defectuoso o desgastado, puede que no proporcione una carga adecuada al telefono movil.\n\n2. Puerto de carga defectuoso: Si el puerto de carga del telefono movil esta defectuoso, puede que el telefono movil no se cargue correctamente.\n\n3. Problemas con la bateria: Si la bateria del telefono movil esta defectuosa o esta llegando al final de su vida util, puede que no se cargue correctamente.\n\n4. Problemas de software: Los problemas de software pueden afectar a la carga del telefono movil. Por ejemplo, si hay problemas con el sistema operativo o con alguna aplicacion, puede que el telefono movil no se cargue correctamente.\n\n5. Temperatura ambiente inadecuada: Las baterias pueden ser sensibles a las temperaturas extremas, por lo que si el telefono movil se carga en un ambiente demasiado caliente o demasiado frio, esto puede afectar a su capacidad de carga.",
+        "Date": "2023-05-28 23:37:25",
+        "Tag": "problemasDeCarga",
+        "idTag": 7,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El telefono movil tiene problemas de carga",
+        "Bot": "Hay varios motivos por los que un telefono movil puede tener problemas de carga. Algunos de los mas comunes incluyen:\n\n1. Cable de carga defectuoso: Si el cable de carga esta defectuoso o desgastado, puede que no proporcione una carga adecuada al telefono movil.\n\n2. Puerto de carga defectuoso: Si el puerto de carga del telefono movil esta defectuoso, puede que el telefono movil no se cargue correctamente.\n\n3. Problemas con la bateria: Si la bateria del telefono movil esta defectuosa o esta llegando al final de su vida util, puede que no se cargue correctamente.\n\n4. Problemas de software: Los problemas de software pueden afectar a la carga del telefono movil. Por ejemplo, si hay problemas con el sistema operativo o con alguna aplicacion, puede que el telefono movil no se cargue correctamente.\n\n5. Temperatura ambiente inadecuada: Las baterias pueden ser sensibles a las temperaturas extremas, por lo que si el telefono movil se carga en un ambiente demasiado caliente o demasiado frio, esto puede afectar a su capacidad de carga.",
+        "Date": "2023-05-28 23:37:25",
+        "Tag": "problemasDeCarga",
+        "idTag": 7,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El telefono movil tiene problemas de carga",
+        "Bot": "Hay varios motivos por los que un telefono movil puede tener problemas de carga. Algunos de los mas comunes incluyen:\n\n1. Cable de carga defectuoso: Si el cable de carga esta defectuoso o desgastado, puede que no proporcione una carga adecuada al telefono movil.\n\n2. Puerto de carga defectuoso: Si el puerto de carga del telefono movil esta defectuoso, puede que el telefono movil no se cargue correctamente.\n\n3. Problemas con la bateria: Si la bateria del telefono movil esta defectuosa o esta llegando al final de su vida util, puede que no se cargue correctamente.\n\n4. Problemas de software: Los problemas de software pueden afectar a la carga del telefono movil. Por ejemplo, si hay problemas con el sistema operativo o con alguna aplicacion, puede que el telefono movil no se cargue correctamente.\n\n5. Temperatura ambiente inadecuada: Las baterias pueden ser sensibles a las temperaturas extremas, por lo que si el telefono movil se carga en un ambiente demasiado caliente o demasiado frio, esto puede afectar a su capacidad de carga.",
+        "Date": "2023-05-28 23:37:25",
+        "Tag": "problemasDeCarga",
+        "idTag": 7,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El telefono movil tiene problemas de carga",
+        "Bot": "Hay varios motivos por los que un telefono movil puede tener problemas de carga. Algunos de los mas comunes incluyen:\n\n1. Cable de carga defectuoso: Si el cable de carga esta defectuoso o desgastado, puede que no proporcione una carga adecuada al telefono movil.\n\n2. Puerto de carga defectuoso: Si el puerto de carga del telefono movil esta defectuoso, puede que el telefono movil no se cargue correctamente.\n\n3. Problemas con la bateria: Si la bateria del telefono movil esta defectuosa o esta llegando al final de su vida util, puede que no se cargue correctamente.\n\n4. Problemas de software: Los problemas de software pueden afectar a la carga del telefono movil. Por ejemplo, si hay problemas con el sistema operativo o con alguna aplicacion, puede que el telefono movil no se cargue correctamente.\n\n5. Temperatura ambiente inadecuada: Las baterias pueden ser sensibles a las temperaturas extremas, por lo que si el telefono movil se carga en un ambiente demasiado caliente o demasiado frio, esto puede afectar a su capacidad de carga.",
+        "Date": "2023-05-28 23:37:25",
+        "Tag": "problemasDeCarga",
+        "idTag": 7,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El telefono movil tiene problemas de carga",
+        "Bot": "Hay varios motivos por los que un telefono movil puede tener problemas de carga. Algunos de los mas comunes incluyen:\n\n1. Cable de carga defectuoso: Si el cable de carga esta defectuoso o desgastado, puede que no proporcione una carga adecuada al telefono movil.\n\n2. Puerto de carga defectuoso: Si el puerto de carga del telefono movil esta defectuoso, puede que el telefono movil no se cargue correctamente.\n\n3. Problemas con la bateria: Si la bateria del telefono movil esta defectuosa o esta llegando al final de su vida util, puede que no se cargue correctamente.\n\n4. Problemas de software: Los problemas de software pueden afectar a la carga del telefono movil. Por ejemplo, si hay problemas con el sistema operativo o con alguna aplicacion, puede que el telefono movil no se cargue correctamente.\n\n5. Temperatura ambiente inadecuada: Las baterias pueden ser sensibles a las temperaturas extremas, por lo que si el telefono movil se carga en un ambiente demasiado caliente o demasiado frio, esto puede afectar a su capacidad de carga.",
+        "Date": "2023-05-28 23:37:26",
+        "Tag": "problemasDeCarga",
+        "idTag": 7,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El telefono movil tiene problemas de carga",
+        "Bot": "Hay varios motivos por los que un telefono movil puede tener problemas de carga. Algunos de los mas comunes incluyen:\n\n1. Cable de carga defectuoso: Si el cable de carga esta defectuoso o desgastado, puede que no proporcione una carga adecuada al telefono movil.\n\n2. Puerto de carga defectuoso: Si el puerto de carga del telefono movil esta defectuoso, puede que el telefono movil no se cargue correctamente.\n\n3. Problemas con la bateria: Si la bateria del telefono movil esta defectuosa o esta llegando al final de su vida util, puede que no se cargue correctamente.\n\n4. Problemas de software: Los problemas de software pueden afectar a la carga del telefono movil. Por ejemplo, si hay problemas con el sistema operativo o con alguna aplicacion, puede que el telefono movil no se cargue correctamente.\n\n5. Temperatura ambiente inadecuada: Las baterias pueden ser sensibles a las temperaturas extremas, por lo que si el telefono movil se carga en un ambiente demasiado caliente o demasiado frio, esto puede afectar a su capacidad de carga.",
+        "Date": "2023-05-28 23:37:26",
+        "Tag": "problemasDeCarga",
+        "idTag": 7,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El telefono movil tiene problemas de carga",
+        "Bot": "Hay varios motivos por los que un telefono movil puede tener problemas de carga. Algunos de los mas comunes incluyen:\n\n1. Cable de carga defectuoso: Si el cable de carga esta defectuoso o desgastado, puede que no proporcione una carga adecuada al telefono movil.\n\n2. Puerto de carga defectuoso: Si el puerto de carga del telefono movil esta defectuoso, puede que el telefono movil no se cargue correctamente.\n\n3. Problemas con la bateria: Si la bateria del telefono movil esta defectuosa o esta llegando al final de su vida util, puede que no se cargue correctamente.\n\n4. Problemas de software: Los problemas de software pueden afectar a la carga del telefono movil. Por ejemplo, si hay problemas con el sistema operativo o con alguna aplicacion, puede que el telefono movil no se cargue correctamente.\n\n5. Temperatura ambiente inadecuada: Las baterias pueden ser sensibles a las temperaturas extremas, por lo que si el telefono movil se carga en un ambiente demasiado caliente o demasiado frio, esto puede afectar a su capacidad de carga.",
+        "Date": "2023-05-28 23:37:26",
+        "Tag": "problemasDeCarga",
+        "idTag": 7,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El telefono movil tiene problemas de carga",
+        "Bot": "Hay varios motivos por los que un telefono movil puede tener problemas de carga. Algunos de los mas comunes incluyen:\n\n1. Cable de carga defectuoso: Si el cable de carga esta defectuoso o desgastado, puede que no proporcione una carga adecuada al telefono movil.\n\n2. Puerto de carga defectuoso: Si el puerto de carga del telefono movil esta defectuoso, puede que el telefono movil no se cargue correctamente.\n\n3. Problemas con la bateria: Si la bateria del telefono movil esta defectuosa o esta llegando al final de su vida util, puede que no se cargue correctamente.\n\n4. Problemas de software: Los problemas de software pueden afectar a la carga del telefono movil. Por ejemplo, si hay problemas con el sistema operativo o con alguna aplicacion, puede que el telefono movil no se cargue correctamente.\n\n5. Temperatura ambiente inadecuada: Las baterias pueden ser sensibles a las temperaturas extremas, por lo que si el telefono movil se carga en un ambiente demasiado caliente o demasiado frio, esto puede afectar a su capacidad de carga.",
+        "Date": "2023-05-28 23:37:26",
+        "Tag": "problemasDeCarga",
+        "idTag": 7,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El telefono movil tiene problemas de carga",
+        "Bot": "Hay varios motivos por los que un telefono movil puede tener problemas de carga. Algunos de los mas comunes incluyen:\n\n1. Cable de carga defectuoso: Si el cable de carga esta defectuoso o desgastado, puede que no proporcione una carga adecuada al telefono movil.\n\n2. Puerto de carga defectuoso: Si el puerto de carga del telefono movil esta defectuoso, puede que el telefono movil no se cargue correctamente.\n\n3. Problemas con la bateria: Si la bateria del telefono movil esta defectuosa o esta llegando al final de su vida util, puede que no se cargue correctamente.\n\n4. Problemas de software: Los problemas de software pueden afectar a la carga del telefono movil. Por ejemplo, si hay problemas con el sistema operativo o con alguna aplicacion, puede que el telefono movil no se cargue correctamente.\n\n5. Temperatura ambiente inadecuada: Las baterias pueden ser sensibles a las temperaturas extremas, por lo que si el telefono movil se carga en un ambiente demasiado caliente o demasiado frio, esto puede afectar a su capacidad de carga.",
+        "Date": "2023-05-28 23:37:26",
+        "Tag": "problemasDeCarga",
+        "idTag": 7,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El telefono movil tiene problemas de carga",
+        "Bot": "Hay varios motivos por los que un telefono movil puede tener problemas de carga. Algunos de los mas comunes incluyen:\n\n1. Cable de carga defectuoso: Si el cable de carga esta defectuoso o desgastado, puede que no proporcione una carga adecuada al telefono movil.\n\n2. Puerto de carga defectuoso: Si el puerto de carga del telefono movil esta defectuoso, puede que el telefono movil no se cargue correctamente.\n\n3. Problemas con la bateria: Si la bateria del telefono movil esta defectuosa o esta llegando al final de su vida util, puede que no se cargue correctamente.\n\n4. Problemas de software: Los problemas de software pueden afectar a la carga del telefono movil. Por ejemplo, si hay problemas con el sistema operativo o con alguna aplicacion, puede que el telefono movil no se cargue correctamente.\n\n5. Temperatura ambiente inadecuada: Las baterias pueden ser sensibles a las temperaturas extremas, por lo que si el telefono movil se carga en un ambiente demasiado caliente o demasiado frio, esto puede afectar a su capacidad de carga.",
+        "Date": "2023-05-28 23:37:27",
+        "Tag": "problemasDeCarga",
+        "idTag": 7,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El telefono movil tiene problemas de carga",
+        "Bot": "Hay varios motivos por los que un telefono movil puede tener problemas de carga. Algunos de los mas comunes incluyen:\n\n1. Cable de carga defectuoso: Si el cable de carga esta defectuoso o desgastado, puede que no proporcione una carga adecuada al telefono movil.\n\n2. Puerto de carga defectuoso: Si el puerto de carga del telefono movil esta defectuoso, puede que el telefono movil no se cargue correctamente.\n\n3. Problemas con la bateria: Si la bateria del telefono movil esta defectuosa o esta llegando al final de su vida util, puede que no se cargue correctamente.\n\n4. Problemas de software: Los problemas de software pueden afectar a la carga del telefono movil. Por ejemplo, si hay problemas con el sistema operativo o con alguna aplicacion, puede que el telefono movil no se cargue correctamente.\n\n5. Temperatura ambiente inadecuada: Las baterias pueden ser sensibles a las temperaturas extremas, por lo que si el telefono movil se carga en un ambiente demasiado caliente o demasiado frio, esto puede afectar a su capacidad de carga.",
+        "Date": "2023-05-28 23:37:27",
+        "Tag": "problemasDeCarga",
+        "idTag": 7,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El telefono movil tiene problemas de carga",
+        "Bot": "Hay varios motivos por los que un telefono movil puede tener problemas de carga. Algunos de los mas comunes incluyen:\n\n1. Cable de carga defectuoso: Si el cable de carga esta defectuoso o desgastado, puede que no proporcione una carga adecuada al telefono movil.\n\n2. Puerto de carga defectuoso: Si el puerto de carga del telefono movil esta defectuoso, puede que el telefono movil no se cargue correctamente.\n\n3. Problemas con la bateria: Si la bateria del telefono movil esta defectuosa o esta llegando al final de su vida util, puede que no se cargue correctamente.\n\n4. Problemas de software: Los problemas de software pueden afectar a la carga del telefono movil. Por ejemplo, si hay problemas con el sistema operativo o con alguna aplicacion, puede que el telefono movil no se cargue correctamente.\n\n5. Temperatura ambiente inadecuada: Las baterias pueden ser sensibles a las temperaturas extremas, por lo que si el telefono movil se carga en un ambiente demasiado caliente o demasiado frio, esto puede afectar a su capacidad de carga.",
+        "Date": "2023-05-28 23:37:27",
+        "Tag": "problemasDeCarga",
+        "idTag": 7,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El telefono movil tiene problemas de carga",
+        "Bot": "Hay varios motivos por los que un telefono movil puede tener problemas de carga. Algunos de los mas comunes incluyen:\n\n1. Cable de carga defectuoso: Si el cable de carga esta defectuoso o desgastado, puede que no proporcione una carga adecuada al telefono movil.\n\n2. Puerto de carga defectuoso: Si el puerto de carga del telefono movil esta defectuoso, puede que el telefono movil no se cargue correctamente.\n\n3. Problemas con la bateria: Si la bateria del telefono movil esta defectuosa o esta llegando al final de su vida util, puede que no se cargue correctamente.\n\n4. Problemas de software: Los problemas de software pueden afectar a la carga del telefono movil. Por ejemplo, si hay problemas con el sistema operativo o con alguna aplicacion, puede que el telefono movil no se cargue correctamente.\n\n5. Temperatura ambiente inadecuada: Las baterias pueden ser sensibles a las temperaturas extremas, por lo que si el telefono movil se carga en un ambiente demasiado caliente o demasiado frio, esto puede afectar a su capacidad de carga.",
+        "Date": "2023-05-28 23:37:27",
+        "Tag": "problemasDeCarga",
+        "idTag": 7,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "v",
+        "Bot": "Hola, gracias por preguntar",
+        "Date": "2023-05-28 23:37:27",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "fvb",
+        "Bot": "Hola, como puedo ayudarte?",
+        "Date": "2023-05-28 23:37:27",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "fgb",
+        "Bot": "Que bueno verte de nuevo",
+        "Date": "2023-05-28 23:37:28",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "xcfg",
+        "Bot": "Hola, gracias por preguntar",
+        "Date": "2023-05-28 23:37:28",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "nf",
+        "Bot": "Que bueno verte de nuevo",
+        "Date": "2023-05-28 23:37:28",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "hn",
+        "Bot": "Hola, gracias por preguntar",
+        "Date": "2023-05-28 23:37:28",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "cvgh",
+        "Bot": "Hola, gracias por preguntar",
+        "Date": "2023-05-28 23:37:29",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "cgh",
+        "Bot": "Que bueno verte de nuevo",
+        "Date": "2023-05-28 23:37:29",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "c",
+        "Bot": "Hola, como puedo ayudarte?",
+        "Date": "2023-05-28 23:37:29",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "ghn",
+        "Bot": "Hola, como puedo ayudarte?",
+        "Date": "2023-05-28 23:37:29",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "cghn",
+        "Bot": "Que bueno verte de nuevo",
+        "Date": "2023-05-28 23:37:30",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "cn",
+        "Bot": "Hola, gracias por preguntar",
+        "Date": "2023-05-28 23:37:30",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "ghn",
+        "Bot": "Hola, como puedo ayudarte?",
+        "Date": "2023-05-28 23:37:30",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "jm",
+        "Bot": "Hola, como puedo ayudarte?",
+        "Date": "2023-05-28 23:37:30",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "chn",
+        "Bot": "Hola, como puedo ayudarte?",
+        "Date": "2023-05-28 23:37:30",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "cfg",
+        "Bot": "Hola, como puedo ayudarte?",
+        "Date": "2023-05-28 23:37:31",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "ghn",
+        "Bot": "Que bueno verte de nuevo",
+        "Date": "2023-05-28 23:37:31",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "vhn",
+        "Bot": "Hola, gracias por preguntar",
+        "Date": "2023-05-28 23:37:31",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "fg",
+        "Bot": "Hola, como puedo ayudarte?",
+        "Date": "2023-05-28 23:37:32",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "hb",
+        "Bot": "Hola, como puedo ayudarte?",
+        "Date": "2023-05-28 23:37:32",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "xcf",
+        "Bot": "Que bueno verte de nuevo",
+        "Date": "2023-05-28 23:37:33",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "hg",
+        "Bot": "Hola, como puedo ayudarte?",
+        "Date": "2023-05-28 23:37:33",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "chnj",
+        "Bot": "Hola, como puedo ayudarte?",
+        "Date": "2023-05-28 23:37:33",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "cg",
+        "Bot": "Hola, como puedo ayudarte?",
+        "Date": "2023-05-28 23:37:33",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "gxbn",
+        "Bot": "Que bueno verte de nuevo",
+        "Date": "2023-05-28 23:37:33",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "g",
+        "Bot": "Hola, gracias por preguntar",
+        "Date": "2023-05-28 23:37:34",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "bc",
+        "Bot": "Hola, como puedo ayudarte?",
+        "Date": "2023-05-28 23:37:34",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "ghn",
+        "Bot": "Hola, gracias por preguntar",
+        "Date": "2023-05-28 23:37:34",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "cg",
+        "Bot": "Hola, como puedo ayudarte?",
+        "Date": "2023-05-28 23:37:34",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "n",
+        "Bot": "Que bueno verte de nuevo",
+        "Date": "2023-05-28 23:37:35",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "c",
+        "Bot": "Hola, como puedo ayudarte?",
+        "Date": "2023-05-28 23:37:35",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "hnc",
+        "Bot": "Hola, gracias por preguntar",
+        "Date": "2023-05-28 23:37:35",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "h m",
+        "Bot": "Hola, como puedo ayudarte?",
+        "Date": "2023-05-28 23:37:35",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "c",
+        "Bot": "Hola, gracias por preguntar",
+        "Date": "2023-05-28 23:37:36",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "n",
+        "Bot": "Hola, como puedo ayudarte?",
+        "Date": "2023-05-28 23:37:36",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "vg hx",
+        "Bot": "Hola, como puedo ayudarte?",
+        "Date": "2023-05-28 23:37:36",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "fvg",
+        "Bot": "Que bueno verte de nuevo",
+        "Date": "2023-05-28 23:37:37",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "hb",
+        "Bot": "Hola, gracias por preguntar",
+        "Date": "2023-05-28 23:37:37",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "cfghnfgh",
+        "Bot": "Hola, gracias por preguntar",
+        "Date": "2023-05-28 23:37:37",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "nm",
+        "Bot": "Que bueno verte de nuevo",
+        "Date": "2023-05-28 23:37:37",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "fghjm",
+        "Bot": "Que bueno verte de nuevo",
+        "Date": "2023-05-28 23:37:38",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "gj",
+        "Bot": "Que bueno verte de nuevo",
+        "Date": "2023-05-28 23:37:38",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "El telefono movil tiene problemas de carga sgdrfgdthgdrthdtyhsdrtgwrthsg",
+        "Bot": "Hay varios motivos por los que un telefono movil puede tener problemas de carga. Algunos de los mas comunes incluyen:\n\n1. Cable de carga defectuoso: Si el cable de carga esta defectuoso o desgastado, puede que no proporcione una carga adecuada al telefono movil.\n\n2. Puerto de carga defectuoso: Si el puerto de carga del telefono movil esta defectuoso, puede que el telefono movil no se cargue correctamente.\n\n3. Problemas con la bateria: Si la bateria del telefono movil esta defectuosa o esta llegando al final de su vida util, puede que no se cargue correctamente.\n\n4. Problemas de software: Los problemas de software pueden afectar a la carga del telefono movil. Por ejemplo, si hay problemas con el sistema operativo o con alguna aplicacion, puede que el telefono movil no se cargue correctamente.\n\n5. Temperatura ambiente inadecuada: Las baterias pueden ser sensibles a las temperaturas extremas, por lo que si el telefono movil se carga en un ambiente demasiado caliente o demasiado frio, esto puede afectar a su capacidad de carga.",
+        "Date": "2023-05-28 23:37:44",
+        "Tag": "problemasDeCarga",
+        "idTag": 7,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El telefono movil tiene bajo rendimiento",
+        "Bot": "Hay varios motivos por los que un telefono movil puede tener problemas de carga. Algunos de los mas comunes incluyen:\n\n1. Cable de carga defectuoso: Si el cable de carga esta defectuoso o desgastado, puede que no proporcione una carga adecuada al telefono movil.\n\n2. Puerto de carga defectuoso: Si el puerto de carga del telefono movil esta defectuoso, puede que el telefono movil no se cargue correctamente.\n\n3. Problemas con la bateria: Si la bateria del telefono movil esta defectuosa o esta llegando al final de su vida util, puede que no se cargue correctamente.\n\n4. Problemas de software: Los problemas de software pueden afectar a la carga del telefono movil. Por ejemplo, si hay problemas con el sistema operativo o con alguna aplicacion, puede que el telefono movil no se cargue correctamente.\n\n5. Temperatura ambiente inadecuada: Las baterias pueden ser sensibles a las temperaturas extremas, por lo que si el telefono movil se carga en un ambiente demasiado caliente o demasiado frio, esto puede afectar a su capacidad de carga.",
+        "Date": "2023-05-28 23:37:58",
+        "Tag": "problemasDeCarga",
+        "idTag": 7,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El telefono movil tiene bajo rendimiento",
+        "Bot": "Hay varios motivos por los que un telefono movil puede tener problemas de carga. Algunos de los mas comunes incluyen:\n\n1. Cable de carga defectuoso: Si el cable de carga esta defectuoso o desgastado, puede que no proporcione una carga adecuada al telefono movil.\n\n2. Puerto de carga defectuoso: Si el puerto de carga del telefono movil esta defectuoso, puede que el telefono movil no se cargue correctamente.\n\n3. Problemas con la bateria: Si la bateria del telefono movil esta defectuosa o esta llegando al final de su vida util, puede que no se cargue correctamente.\n\n4. Problemas de software: Los problemas de software pueden afectar a la carga del telefono movil. Por ejemplo, si hay problemas con el sistema operativo o con alguna aplicacion, puede que el telefono movil no se cargue correctamente.\n\n5. Temperatura ambiente inadecuada: Las baterias pueden ser sensibles a las temperaturas extremas, por lo que si el telefono movil se carga en un ambiente demasiado caliente o demasiado frio, esto puede afectar a su capacidad de carga.",
+        "Date": "2023-05-28 23:37:58",
+        "Tag": "problemasDeCarga",
+        "idTag": 7,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El telefono movil tiene bajo rendimiento",
+        "Bot": "Hay varios motivos por los que un telefono movil puede tener problemas de carga. Algunos de los mas comunes incluyen:\n\n1. Cable de carga defectuoso: Si el cable de carga esta defectuoso o desgastado, puede que no proporcione una carga adecuada al telefono movil.\n\n2. Puerto de carga defectuoso: Si el puerto de carga del telefono movil esta defectuoso, puede que el telefono movil no se cargue correctamente.\n\n3. Problemas con la bateria: Si la bateria del telefono movil esta defectuosa o esta llegando al final de su vida util, puede que no se cargue correctamente.\n\n4. Problemas de software: Los problemas de software pueden afectar a la carga del telefono movil. Por ejemplo, si hay problemas con el sistema operativo o con alguna aplicacion, puede que el telefono movil no se cargue correctamente.\n\n5. Temperatura ambiente inadecuada: Las baterias pueden ser sensibles a las temperaturas extremas, por lo que si el telefono movil se carga en un ambiente demasiado caliente o demasiado frio, esto puede afectar a su capacidad de carga.",
+        "Date": "2023-05-28 23:37:58",
+        "Tag": "problemasDeCarga",
+        "idTag": 7,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El telefono movil tiene bajo rendimiento",
+        "Bot": "Hay varios motivos por los que un telefono movil puede tener problemas de carga. Algunos de los mas comunes incluyen:\n\n1. Cable de carga defectuoso: Si el cable de carga esta defectuoso o desgastado, puede que no proporcione una carga adecuada al telefono movil.\n\n2. Puerto de carga defectuoso: Si el puerto de carga del telefono movil esta defectuoso, puede que el telefono movil no se cargue correctamente.\n\n3. Problemas con la bateria: Si la bateria del telefono movil esta defectuosa o esta llegando al final de su vida util, puede que no se cargue correctamente.\n\n4. Problemas de software: Los problemas de software pueden afectar a la carga del telefono movil. Por ejemplo, si hay problemas con el sistema operativo o con alguna aplicacion, puede que el telefono movil no se cargue correctamente.\n\n5. Temperatura ambiente inadecuada: Las baterias pueden ser sensibles a las temperaturas extremas, por lo que si el telefono movil se carga en un ambiente demasiado caliente o demasiado frio, esto puede afectar a su capacidad de carga.",
+        "Date": "2023-05-28 23:37:59",
+        "Tag": "problemasDeCarga",
+        "idTag": 7,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El telefono movil tiene bajo rendimiento",
+        "Bot": "Hay varios motivos por los que un telefono movil puede tener problemas de carga. Algunos de los mas comunes incluyen:\n\n1. Cable de carga defectuoso: Si el cable de carga esta defectuoso o desgastado, puede que no proporcione una carga adecuada al telefono movil.\n\n2. Puerto de carga defectuoso: Si el puerto de carga del telefono movil esta defectuoso, puede que el telefono movil no se cargue correctamente.\n\n3. Problemas con la bateria: Si la bateria del telefono movil esta defectuosa o esta llegando al final de su vida util, puede que no se cargue correctamente.\n\n4. Problemas de software: Los problemas de software pueden afectar a la carga del telefono movil. Por ejemplo, si hay problemas con el sistema operativo o con alguna aplicacion, puede que el telefono movil no se cargue correctamente.\n\n5. Temperatura ambiente inadecuada: Las baterias pueden ser sensibles a las temperaturas extremas, por lo que si el telefono movil se carga en un ambiente demasiado caliente o demasiado frio, esto puede afectar a su capacidad de carga.",
+        "Date": "2023-05-28 23:37:59",
+        "Tag": "problemasDeCarga",
+        "idTag": 7,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El telefono movil tiene bajo rendimiento",
+        "Bot": "Hay varios motivos por los que un telefono movil puede tener problemas de carga. Algunos de los mas comunes incluyen:\n\n1. Cable de carga defectuoso: Si el cable de carga esta defectuoso o desgastado, puede que no proporcione una carga adecuada al telefono movil.\n\n2. Puerto de carga defectuoso: Si el puerto de carga del telefono movil esta defectuoso, puede que el telefono movil no se cargue correctamente.\n\n3. Problemas con la bateria: Si la bateria del telefono movil esta defectuosa o esta llegando al final de su vida util, puede que no se cargue correctamente.\n\n4. Problemas de software: Los problemas de software pueden afectar a la carga del telefono movil. Por ejemplo, si hay problemas con el sistema operativo o con alguna aplicacion, puede que el telefono movil no se cargue correctamente.\n\n5. Temperatura ambiente inadecuada: Las baterias pueden ser sensibles a las temperaturas extremas, por lo que si el telefono movil se carga en un ambiente demasiado caliente o demasiado frio, esto puede afectar a su capacidad de carga.",
+        "Date": "2023-05-28 23:37:59",
+        "Tag": "problemasDeCarga",
+        "idTag": 7,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El telefono movil tiene bajo rendimiento",
+        "Bot": "Hay varios motivos por los que un telefono movil puede tener problemas de carga. Algunos de los mas comunes incluyen:\n\n1. Cable de carga defectuoso: Si el cable de carga esta defectuoso o desgastado, puede que no proporcione una carga adecuada al telefono movil.\n\n2. Puerto de carga defectuoso: Si el puerto de carga del telefono movil esta defectuoso, puede que el telefono movil no se cargue correctamente.\n\n3. Problemas con la bateria: Si la bateria del telefono movil esta defectuosa o esta llegando al final de su vida util, puede que no se cargue correctamente.\n\n4. Problemas de software: Los problemas de software pueden afectar a la carga del telefono movil. Por ejemplo, si hay problemas con el sistema operativo o con alguna aplicacion, puede que el telefono movil no se cargue correctamente.\n\n5. Temperatura ambiente inadecuada: Las baterias pueden ser sensibles a las temperaturas extremas, por lo que si el telefono movil se carga en un ambiente demasiado caliente o demasiado frio, esto puede afectar a su capacidad de carga.",
+        "Date": "2023-05-28 23:37:59",
+        "Tag": "problemasDeCarga",
+        "idTag": 7,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El telefono movil tiene bajo rendimiento",
+        "Bot": "Hay varios motivos por los que un telefono movil puede tener problemas de carga. Algunos de los mas comunes incluyen:\n\n1. Cable de carga defectuoso: Si el cable de carga esta defectuoso o desgastado, puede que no proporcione una carga adecuada al telefono movil.\n\n2. Puerto de carga defectuoso: Si el puerto de carga del telefono movil esta defectuoso, puede que el telefono movil no se cargue correctamente.\n\n3. Problemas con la bateria: Si la bateria del telefono movil esta defectuosa o esta llegando al final de su vida util, puede que no se cargue correctamente.\n\n4. Problemas de software: Los problemas de software pueden afectar a la carga del telefono movil. Por ejemplo, si hay problemas con el sistema operativo o con alguna aplicacion, puede que el telefono movil no se cargue correctamente.\n\n5. Temperatura ambiente inadecuada: Las baterias pueden ser sensibles a las temperaturas extremas, por lo que si el telefono movil se carga en un ambiente demasiado caliente o demasiado frio, esto puede afectar a su capacidad de carga.",
+        "Date": "2023-05-28 23:38:00",
+        "Tag": "problemasDeCarga",
+        "idTag": 7,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El telefono movil tiene bajo rendimiento",
+        "Bot": "Hay varios motivos por los que un telefono movil puede tener problemas de carga. Algunos de los mas comunes incluyen:\n\n1. Cable de carga defectuoso: Si el cable de carga esta defectuoso o desgastado, puede que no proporcione una carga adecuada al telefono movil.\n\n2. Puerto de carga defectuoso: Si el puerto de carga del telefono movil esta defectuoso, puede que el telefono movil no se cargue correctamente.\n\n3. Problemas con la bateria: Si la bateria del telefono movil esta defectuosa o esta llegando al final de su vida util, puede que no se cargue correctamente.\n\n4. Problemas de software: Los problemas de software pueden afectar a la carga del telefono movil. Por ejemplo, si hay problemas con el sistema operativo o con alguna aplicacion, puede que el telefono movil no se cargue correctamente.\n\n5. Temperatura ambiente inadecuada: Las baterias pueden ser sensibles a las temperaturas extremas, por lo que si el telefono movil se carga en un ambiente demasiado caliente o demasiado frio, esto puede afectar a su capacidad de carga.",
+        "Date": "2023-05-28 23:38:00",
+        "Tag": "problemasDeCarga",
+        "idTag": 7,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El computador se congela",
+        "Bot": "Posiblemente se deba a la memoria ram",
+        "Date": "2023-05-28 23:38:12",
+        "Tag": "hardware",
+        "idTag": 10,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El computador se congela",
+        "Bot": "Posiblemente se deba a la memoria ram",
+        "Date": "2023-05-28 23:38:13",
+        "Tag": "hardware",
+        "idTag": 10,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El computador se congela",
+        "Bot": "Posiblemente se deba a la memoria ram",
+        "Date": "2023-05-28 23:38:13",
+        "Tag": "hardware",
+        "idTag": 10,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El computador se congela",
+        "Bot": "Posiblemente se deba a la memoria ram",
+        "Date": "2023-05-28 23:38:14",
+        "Tag": "hardware",
+        "idTag": 10,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El computador se congela",
+        "Bot": "La memoria ram posiblemente este causando esto",
+        "Date": "2023-05-28 23:38:14",
+        "Tag": "hardware",
+        "idTag": 10,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El computador se congela",
+        "Bot": "La memoria ram posiblemente este causando esto",
+        "Date": "2023-05-28 23:38:15",
+        "Tag": "hardware",
+        "idTag": 10,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El computador se congela",
+        "Bot": "La memoria ram posiblemente este causando esto",
+        "Date": "2023-05-28 23:38:15",
+        "Tag": "hardware",
+        "idTag": 10,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "v",
+        "Bot": "Hola, gracias por preguntar",
+        "Date": "2023-05-28 23:38:15",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "v",
+        "Bot": "Hola, gracias por preguntar",
+        "Date": "2023-05-28 23:38:15",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "El computador se congela",
+        "Bot": "La memoria ram posiblemente este causando esto",
+        "Date": "2023-05-28 23:38:15",
+        "Tag": "hardware",
+        "idTag": 10,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El computador se congela",
+        "Bot": "Posiblemente se deba a la memoria ram",
+        "Date": "2023-05-28 23:38:16",
+        "Tag": "hardware",
+        "idTag": 10,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El computador se congela",
+        "Bot": "La memoria ram posiblemente este causando esto",
+        "Date": "2023-05-28 23:38:16",
+        "Tag": "hardware",
+        "idTag": 10,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "v",
+        "Bot": "Hola, como puedo ayudarte?",
+        "Date": "2023-05-28 23:38:16",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "El computador se congela",
+        "Bot": "Posiblemente se deba a la memoria ram",
+        "Date": "2023-05-28 23:38:16",
+        "Tag": "hardware",
+        "idTag": 10,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El computador se congela",
+        "Bot": "Posiblemente se deba a la memoria ram",
+        "Date": "2023-05-28 23:38:16",
+        "Tag": "hardware",
+        "idTag": 10,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El computador se congela",
+        "Bot": "Posiblemente se deba a la memoria ram",
+        "Date": "2023-05-28 23:38:17",
+        "Tag": "hardware",
+        "idTag": 10,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El computador se congela",
+        "Bot": "La memoria ram posiblemente este causando esto",
+        "Date": "2023-05-28 23:38:17",
+        "Tag": "hardware",
+        "idTag": 10,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El computador se congela",
+        "Bot": "Posiblemente se deba a la memoria ram",
+        "Date": "2023-05-28 23:38:17",
+        "Tag": "hardware",
+        "idTag": 10,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El computador se congela",
+        "Bot": "Posiblemente se deba a la memoria ram",
+        "Date": "2023-05-28 23:38:17",
+        "Tag": "hardware",
+        "idTag": 10,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El computador se congela",
+        "Bot": "Posiblemente se deba a la memoria ram",
+        "Date": "2023-05-28 23:38:17",
+        "Tag": "hardware",
+        "idTag": 10,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El computador se congela",
+        "Bot": "Posiblemente se deba a la memoria ram",
+        "Date": "2023-05-28 23:38:18",
+        "Tag": "hardware",
+        "idTag": 10,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El computador se congela",
+        "Bot": "La memoria ram posiblemente este causando esto",
+        "Date": "2023-05-28 23:38:18",
+        "Tag": "hardware",
+        "idTag": 10,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El computador se congela",
+        "Bot": "La memoria ram posiblemente este causando esto",
+        "Date": "2023-05-28 23:38:18",
+        "Tag": "hardware",
+        "idTag": 10,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El computador se congela",
+        "Bot": "La memoria ram posiblemente este causando esto",
+        "Date": "2023-05-28 23:38:18",
+        "Tag": "hardware",
+        "idTag": 10,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El computador se congela",
+        "Bot": "Posiblemente se deba a la memoria ram",
+        "Date": "2023-05-28 23:38:18",
+        "Tag": "hardware",
+        "idTag": 10,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El computador se congela",
+        "Bot": "La memoria ram posiblemente este causando esto",
+        "Date": "2023-05-28 23:38:19",
+        "Tag": "hardware",
+        "idTag": 10,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El computador se congela",
+        "Bot": "La memoria ram posiblemente este causando esto",
+        "Date": "2023-05-28 23:38:19",
+        "Tag": "hardware",
+        "idTag": 10,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El computador se congela",
+        "Bot": "Posiblemente se deba a la memoria ram",
+        "Date": "2023-05-28 23:38:19",
+        "Tag": "hardware",
+        "idTag": 10,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El computador se congela",
+        "Bot": "La memoria ram posiblemente este causando esto",
+        "Date": "2023-05-28 23:38:19",
+        "Tag": "hardware",
+        "idTag": 10,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El computador se congela",
+        "Bot": "Posiblemente se deba a la memoria ram",
+        "Date": "2023-05-28 23:38:19",
+        "Tag": "hardware",
+        "idTag": 10,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El computador se congela",
+        "Bot": "La memoria ram posiblemente este causando esto",
+        "Date": "2023-05-28 23:38:30",
+        "Tag": "hardware",
+        "idTag": 10,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "stg",
+        "Bot": "Que bueno verte de nuevo",
+        "Date": "2023-05-28 23:38:31",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "wsrt",
+        "Bot": "Hola, como puedo ayudarte?",
+        "Date": "2023-05-28 23:38:31",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "st",
+        "Bot": "Que bueno verte de nuevo",
+        "Date": "2023-05-28 23:38:32",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "srt",
+        "Bot": "Que bueno verte de nuevo",
+        "Date": "2023-05-28 23:38:32",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "thrs",
+        "Bot": "Hola, gracias por preguntar",
+        "Date": "2023-05-28 23:38:32",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "hrt",
+        "Bot": "Que bueno verte de nuevo",
+        "Date": "2023-05-28 23:38:33",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "hsrt",
+        "Bot": "Que bueno verte de nuevo",
+        "Date": "2023-05-28 23:38:33",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "srth",
+        "Bot": "Que bueno verte de nuevo",
+        "Date": "2023-05-28 23:38:33",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "hsrt",
+        "Bot": "Hola, gracias por preguntar",
+        "Date": "2023-05-28 23:38:33",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "thr",
+        "Bot": "Hola, gracias por preguntar",
+        "Date": "2023-05-28 23:38:34",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "srth",
+        "Bot": "Que bueno verte de nuevo",
+        "Date": "2023-05-28 23:38:34",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "srth",
+        "Bot": "Hola, como puedo ayudarte?",
+        "Date": "2023-05-28 23:38:34",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "thsr",
+        "Bot": "Hola, como puedo ayudarte?",
+        "Date": "2023-05-28 23:38:35",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "bsfg",
+        "Bot": "Que bueno verte de nuevo",
+        "Date": "2023-05-28 23:38:35",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "sgb",
+        "Bot": "Hola, como puedo ayudarte?",
+        "Date": "2023-05-28 23:38:35",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "bg",
+        "Bot": "Que bueno verte de nuevo",
+        "Date": "2023-05-28 23:38:35",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "sbsb",
+        "Bot": "Que bueno verte de nuevo",
+        "Date": "2023-05-28 23:38:36",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "fgs",
+        "Bot": "Hola, gracias por preguntar",
+        "Date": "2023-05-28 23:38:36",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "t",
+        "Bot": "Hola, gracias por preguntar",
+        "Date": "2023-05-28 23:38:36",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "thh",
+        "Bot": "Que bueno verte de nuevo",
+        "Date": "2023-05-28 23:38:36",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "y",
+        "Bot": "Que bueno verte de nuevo",
+        "Date": "2023-05-28 23:38:37",
         "Tag": "saludo",
         "idTag": 1,
         "coincidencia pregunta": 1
     },
     {
-        "User": "adios",
-        "Bot": "Ten un buen dia",
-        "Date": "2023-05-28 23:33:29",
-        "Tag": "adios",
-        "idTag": 2,
+        "User": "hst",
+        "Bot": "Hola, como puedo ayudarte?",
+        "Date": "2023-05-28 23:38:37",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "hsrt",
+        "Bot": "Hola, gracias por preguntar",
+        "Date": "2023-05-28 23:38:37",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "as",
+        "Bot": "Que bueno verte de nuevo",
+        "Date": "2023-05-28 23:38:38",
+        "Tag": "saludo",
+        "idTag": 1,
         "coincidencia pregunta": 1
+    },
+    {
+        "User": "srth",
+        "Bot": "Hola, como puedo ayudarte?",
+        "Date": "2023-05-28 23:38:38",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "srth",
+        "Bot": "Hola, gracias por preguntar",
+        "Date": "2023-05-28 23:38:38",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "sh",
+        "Bot": "Hola, gracias por preguntar",
+        "Date": "2023-05-28 23:38:38",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "styh",
+        "Bot": "Hola, gracias por preguntar",
+        "Date": "2023-05-28 23:38:39",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "srth",
+        "Bot": "Hola, gracias por preguntar",
+        "Date": "2023-05-28 23:38:39",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "t",
+        "Bot": "Hola, gracias por preguntar",
+        "Date": "2023-05-28 23:38:39",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "fbs",
+        "Bot": "Que bueno verte de nuevo",
+        "Date": "2023-05-28 23:38:39",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "ndy",
+        "Bot": "Hola, como puedo ayudarte?",
+        "Date": "2023-05-28 23:38:40",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "dtyj",
+        "Bot": "Hola, como puedo ayudarte?",
+        "Date": "2023-05-28 23:38:40",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "tyj",
+        "Bot": "Hola, como puedo ayudarte?",
+        "Date": "2023-05-28 23:38:40",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "hsd",
+        "Bot": "Hola, como puedo ayudarte?",
+        "Date": "2023-05-28 23:38:41",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "n",
+        "Bot": "Hola, como puedo ayudarte?",
+        "Date": "2023-05-28 23:38:41",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "dtyty",
+        "Bot": "Hola, gracias por preguntar",
+        "Date": "2023-05-28 23:38:41",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "fshn",
+        "Bot": "Hola, como puedo ayudarte?",
+        "Date": "2023-05-28 23:38:42",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "mf",
+        "Bot": "Hola, gracias por preguntar",
+        "Date": "2023-05-28 23:38:42",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "huj",
+        "Bot": "Hola, como puedo ayudarte?",
+        "Date": "2023-05-28 23:38:42",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "dty",
+        "Bot": "Que bueno verte de nuevo",
+        "Date": "2023-05-28 23:38:43",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "gyhn",
+        "Bot": "Que bueno verte de nuevo",
+        "Date": "2023-05-28 23:38:43",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "gyhuf",
+        "Bot": "Hola, gracias por preguntar",
+        "Date": "2023-05-28 23:38:43",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "dt",
+        "Bot": "Que bueno verte de nuevo",
+        "Date": "2023-05-28 23:38:44",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "xdf",
+        "Bot": "Que bueno verte de nuevo",
+        "Date": "2023-05-28 23:38:44",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "tg n",
+        "Bot": "Hola, gracias por preguntar",
+        "Date": "2023-05-28 23:38:44",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "ghtyj",
+        "Bot": "Hola, como puedo ayudarte?",
+        "Date": "2023-05-28 23:38:44",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "n",
+        "Bot": "Hola, gracias por preguntar",
+        "Date": "2023-05-28 23:38:45",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "xdcghn",
+        "Bot": "Que bueno verte de nuevo",
+        "Date": "2023-05-28 23:38:45",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "dgh",
+        "Bot": "Que bueno verte de nuevo",
+        "Date": "2023-05-28 23:38:45",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "njdy",
+        "Bot": "Hola, como puedo ayudarte?",
+        "Date": "2023-05-28 23:38:46",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "njxty",
+        "Bot": "Hola, como puedo ayudarte?",
+        "Date": "2023-05-28 23:38:46",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "jnmdtyu",
+        "Bot": "Que bueno verte de nuevo",
+        "Date": "2023-05-28 23:38:46",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "Programas incompatibles",
+        "Bot": "1. . Accede a la solapa Compatibilidad y marca la casilla Ejecutar este programa en modo de compatibilidad para.\n\n3. A continuacion en el menu emergente elige el sistema operativo mas cercano a la fecha de lanzamiento de ese programa: Windows XP, Windows Vista, Windows 7, etc. Puedes probar varios de ellos hasta que encuentres uno que funcione",
+        "Date": "2023-05-28 23:38:57",
+        "Tag": "programasNoCompatibles",
+        "idTag": 14,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Programas incompatibles",
+        "Bot": "1. . Accede a la solapa Compatibilidad y marca la casilla Ejecutar este programa en modo de compatibilidad para.\n\n3. A continuacion en el menu emergente elige el sistema operativo mas cercano a la fecha de lanzamiento de ese programa: Windows XP, Windows Vista, Windows 7, etc. Puedes probar varios de ellos hasta que encuentres uno que funcione",
+        "Date": "2023-05-28 23:38:57",
+        "Tag": "programasNoCompatibles",
+        "idTag": 14,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Programas incompatibles",
+        "Bot": "1. . Accede a la solapa Compatibilidad y marca la casilla Ejecutar este programa en modo de compatibilidad para.\n\n3. A continuacion en el menu emergente elige el sistema operativo mas cercano a la fecha de lanzamiento de ese programa: Windows XP, Windows Vista, Windows 7, etc. Puedes probar varios de ellos hasta que encuentres uno que funcione",
+        "Date": "2023-05-28 23:38:58",
+        "Tag": "programasNoCompatibles",
+        "idTag": 14,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Programas incompatibles",
+        "Bot": "1. . Accede a la solapa Compatibilidad y marca la casilla Ejecutar este programa en modo de compatibilidad para.\n\n3. A continuacion en el menu emergente elige el sistema operativo mas cercano a la fecha de lanzamiento de ese programa: Windows XP, Windows Vista, Windows 7, etc. Puedes probar varios de ellos hasta que encuentres uno que funcione",
+        "Date": "2023-05-28 23:38:58",
+        "Tag": "programasNoCompatibles",
+        "idTag": 14,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Programas incompatibles",
+        "Bot": "1. . Accede a la solapa Compatibilidad y marca la casilla Ejecutar este programa en modo de compatibilidad para.\n\n3. A continuacion en el menu emergente elige el sistema operativo mas cercano a la fecha de lanzamiento de ese programa: Windows XP, Windows Vista, Windows 7, etc. Puedes probar varios de ellos hasta que encuentres uno que funcione",
+        "Date": "2023-05-28 23:38:58",
+        "Tag": "programasNoCompatibles",
+        "idTag": 14,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Programas incompatibles",
+        "Bot": "1. . Accede a la solapa Compatibilidad y marca la casilla Ejecutar este programa en modo de compatibilidad para.\n\n3. A continuacion en el menu emergente elige el sistema operativo mas cercano a la fecha de lanzamiento de ese programa: Windows XP, Windows Vista, Windows 7, etc. Puedes probar varios de ellos hasta que encuentres uno que funcione",
+        "Date": "2023-05-28 23:38:58",
+        "Tag": "programasNoCompatibles",
+        "idTag": 14,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Programas incompatibles",
+        "Bot": "1. . Accede a la solapa Compatibilidad y marca la casilla Ejecutar este programa en modo de compatibilidad para.\n\n3. A continuacion en el menu emergente elige el sistema operativo mas cercano a la fecha de lanzamiento de ese programa: Windows XP, Windows Vista, Windows 7, etc. Puedes probar varios de ellos hasta que encuentres uno que funcione",
+        "Date": "2023-05-28 23:38:58",
+        "Tag": "programasNoCompatibles",
+        "idTag": 14,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Programas incompatibles",
+        "Bot": "1. . Accede a la solapa Compatibilidad y marca la casilla Ejecutar este programa en modo de compatibilidad para.\n\n3. A continuacion en el menu emergente elige el sistema operativo mas cercano a la fecha de lanzamiento de ese programa: Windows XP, Windows Vista, Windows 7, etc. Puedes probar varios de ellos hasta que encuentres uno que funcione",
+        "Date": "2023-05-28 23:38:59",
+        "Tag": "programasNoCompatibles",
+        "idTag": 14,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Programas incompatibles",
+        "Bot": "1. . Accede a la solapa Compatibilidad y marca la casilla Ejecutar este programa en modo de compatibilidad para.\n\n3. A continuacion en el menu emergente elige el sistema operativo mas cercano a la fecha de lanzamiento de ese programa: Windows XP, Windows Vista, Windows 7, etc. Puedes probar varios de ellos hasta que encuentres uno que funcione",
+        "Date": "2023-05-28 23:38:59",
+        "Tag": "programasNoCompatibles",
+        "idTag": 14,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Programas incompatibles",
+        "Bot": "1. . Accede a la solapa Compatibilidad y marca la casilla Ejecutar este programa en modo de compatibilidad para.\n\n3. A continuacion en el menu emergente elige el sistema operativo mas cercano a la fecha de lanzamiento de ese programa: Windows XP, Windows Vista, Windows 7, etc. Puedes probar varios de ellos hasta que encuentres uno que funcione",
+        "Date": "2023-05-28 23:38:59",
+        "Tag": "programasNoCompatibles",
+        "idTag": 14,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Programas incompatibles",
+        "Bot": "1. . Accede a la solapa Compatibilidad y marca la casilla Ejecutar este programa en modo de compatibilidad para.\n\n3. A continuacion en el menu emergente elige el sistema operativo mas cercano a la fecha de lanzamiento de ese programa: Windows XP, Windows Vista, Windows 7, etc. Puedes probar varios de ellos hasta que encuentres uno que funcione",
+        "Date": "2023-05-28 23:38:59",
+        "Tag": "programasNoCompatibles",
+        "idTag": 14,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Programas incompatibles",
+        "Bot": "1. . Accede a la solapa Compatibilidad y marca la casilla Ejecutar este programa en modo de compatibilidad para.\n\n3. A continuacion en el menu emergente elige el sistema operativo mas cercano a la fecha de lanzamiento de ese programa: Windows XP, Windows Vista, Windows 7, etc. Puedes probar varios de ellos hasta que encuentres uno que funcione",
+        "Date": "2023-05-28 23:38:59",
+        "Tag": "programasNoCompatibles",
+        "idTag": 14,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Programas incompatibles",
+        "Bot": "1. . Accede a la solapa Compatibilidad y marca la casilla Ejecutar este programa en modo de compatibilidad para.\n\n3. A continuacion en el menu emergente elige el sistema operativo mas cercano a la fecha de lanzamiento de ese programa: Windows XP, Windows Vista, Windows 7, etc. Puedes probar varios de ellos hasta que encuentres uno que funcione",
+        "Date": "2023-05-28 23:39:00",
+        "Tag": "programasNoCompatibles",
+        "idTag": 14,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Programas incompatibles",
+        "Bot": "1. . Accede a la solapa Compatibilidad y marca la casilla Ejecutar este programa en modo de compatibilidad para.\n\n3. A continuacion en el menu emergente elige el sistema operativo mas cercano a la fecha de lanzamiento de ese programa: Windows XP, Windows Vista, Windows 7, etc. Puedes probar varios de ellos hasta que encuentres uno que funcione",
+        "Date": "2023-05-28 23:39:00",
+        "Tag": "programasNoCompatibles",
+        "idTag": 14,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Programas incompatibles",
+        "Bot": "1. . Accede a la solapa Compatibilidad y marca la casilla Ejecutar este programa en modo de compatibilidad para.\n\n3. A continuacion en el menu emergente elige el sistema operativo mas cercano a la fecha de lanzamiento de ese programa: Windows XP, Windows Vista, Windows 7, etc. Puedes probar varios de ellos hasta que encuentres uno que funcione",
+        "Date": "2023-05-28 23:39:00",
+        "Tag": "programasNoCompatibles",
+        "idTag": 14,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Programas incompatibles",
+        "Bot": "1. . Accede a la solapa Compatibilidad y marca la casilla Ejecutar este programa en modo de compatibilidad para.\n\n3. A continuacion en el menu emergente elige el sistema operativo mas cercano a la fecha de lanzamiento de ese programa: Windows XP, Windows Vista, Windows 7, etc. Puedes probar varios de ellos hasta que encuentres uno que funcione",
+        "Date": "2023-05-28 23:39:00",
+        "Tag": "programasNoCompatibles",
+        "idTag": 14,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Programas incompatibles",
+        "Bot": "1. . Accede a la solapa Compatibilidad y marca la casilla Ejecutar este programa en modo de compatibilidad para.\n\n3. A continuacion en el menu emergente elige el sistema operativo mas cercano a la fecha de lanzamiento de ese programa: Windows XP, Windows Vista, Windows 7, etc. Puedes probar varios de ellos hasta que encuentres uno que funcione",
+        "Date": "2023-05-28 23:39:00",
+        "Tag": "programasNoCompatibles",
+        "idTag": 14,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "Programas incompatibles",
+        "Bot": "1. . Accede a la solapa Compatibilidad y marca la casilla Ejecutar este programa en modo de compatibilidad para.\n\n3. A continuacion en el menu emergente elige el sistema operativo mas cercano a la fecha de lanzamiento de ese programa: Windows XP, Windows Vista, Windows 7, etc. Puedes probar varios de ellos hasta que encuentres uno que funcione",
+        "Date": "2023-05-28 23:39:01",
+        "Tag": "programasNoCompatibles",
+        "idTag": 14,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "hola",
+        "Bot": "Hola, gracias por preguntar",
+        "Date": "2023-05-28 23:39:02",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "holi",
+        "Bot": "Que bueno verte de nuevo",
+        "Date": "2023-05-28 23:39:04",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "holi",
+        "Bot": "Que bueno verte de nuevo",
+        "Date": "2023-05-28 23:39:06",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "No puedo acceder a InternetNo puedo acceder a Internet",
+        "Bot": "Si estas experimentando una conexion WiFi lenta, hay algunas cosas que puedes intentar para mejorarla. \n\n1. asegurate de estar cerca del enrutador para obtener una senal mas fuerte.\n\n2. Verifica si hay interferencias de otros dispositivos electronicos cerca del enrutador, como los microondas.\n\n3. Reiniciar el enrutador tambien puede ayudar a solucionar problemas temporales.\n\n4. Si el problema persiste, es posible que desees considerar ponerse en contacto con tu proveedor de servicios de Internet para obtener mas asistencia tecnica.",
+        "Date": "2023-05-28 23:39:41",
+        "Tag": "WiFi",
+        "idTag": 15,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "No puedo acceder a Internet",
+        "Bot": "Si tienes problemas para conectar tu dispositivo a Wi-Fi, verifica que la contrasena sea correcta y que estes dentro del rango de senal. Si la conexion Bluetooth no funciona, verifica que el dispositivo este emparejado correctamente y que no haya interferencias cercanas. Si no puedes acceder a Internet, verifica la conexion de red y reinicia tu enrutador o modem.",
+        "Date": "2023-05-28 23:39:41",
+        "Tag": "WiFi",
+        "idTag": 15,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "No puedo acceder a Internet",
+        "Bot": "Si tienes problemas para conectar tu dispositivo a Wi-Fi, verifica que la contrasena sea correcta y que estes dentro del rango de senal. Si la conexion Bluetooth no funciona, verifica que el dispositivo este emparejado correctamente y que no haya interferencias cercanas. Si no puedes acceder a Internet, verifica la conexion de red y reinicia tu enrutador o modem.",
+        "Date": "2023-05-28 23:39:42",
+        "Tag": "WiFi",
+        "idTag": 15,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "v",
+        "Bot": "Hola, como puedo ayudarte?",
+        "Date": "2023-05-28 23:39:42",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "No puedo acceder a Internet",
+        "Bot": "Si estas experimentando una conexion WiFi lenta, hay algunas cosas que puedes intentar para mejorarla. \n\n1. asegurate de estar cerca del enrutador para obtener una senal mas fuerte.\n\n2. Verifica si hay interferencias de otros dispositivos electronicos cerca del enrutador, como los microondas.\n\n3. Reiniciar el enrutador tambien puede ayudar a solucionar problemas temporales.\n\n4. Si el problema persiste, es posible que desees considerar ponerse en contacto con tu proveedor de servicios de Internet para obtener mas asistencia tecnica.",
+        "Date": "2023-05-28 23:39:42",
+        "Tag": "WiFi",
+        "idTag": 15,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "v",
+        "Bot": "Hola, gracias por preguntar",
+        "Date": "2023-05-28 23:39:42",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "No puedo acceder a Internet",
+        "Bot": "Si tienes problemas para conectar tu dispositivo a Wi-Fi, verifica que la contrasena sea correcta y que estes dentro del rango de senal. Si la conexion Bluetooth no funciona, verifica que el dispositivo este emparejado correctamente y que no haya interferencias cercanas. Si no puedes acceder a Internet, verifica la conexion de red y reinicia tu enrutador o modem.",
+        "Date": "2023-05-28 23:39:43",
+        "Tag": "WiFi",
+        "idTag": 15,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "No puedo acceder a Internet",
+        "Bot": "Si tienes problemas para conectar tu dispositivo a Wi-Fi, verifica que la contrasena sea correcta y que estes dentro del rango de senal. Si la conexion Bluetooth no funciona, verifica que el dispositivo este emparejado correctamente y que no haya interferencias cercanas. Si no puedes acceder a Internet, verifica la conexion de red y reinicia tu enrutador o modem.",
+        "Date": "2023-05-28 23:39:43",
+        "Tag": "WiFi",
+        "idTag": 15,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "No puedo acceder a Internet",
+        "Bot": "Si estas experimentando una conexion WiFi lenta, hay algunas cosas que puedes intentar para mejorarla. \n\n1. asegurate de estar cerca del enrutador para obtener una senal mas fuerte.\n\n2. Verifica si hay interferencias de otros dispositivos electronicos cerca del enrutador, como los microondas.\n\n3. Reiniciar el enrutador tambien puede ayudar a solucionar problemas temporales.\n\n4. Si el problema persiste, es posible que desees considerar ponerse en contacto con tu proveedor de servicios de Internet para obtener mas asistencia tecnica.",
+        "Date": "2023-05-28 23:39:43",
+        "Tag": "WiFi",
+        "idTag": 15,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "No puedo acceder a Internet",
+        "Bot": "Si estas experimentando una conexion WiFi lenta, hay algunas cosas que puedes intentar para mejorarla. \n\n1. asegurate de estar cerca del enrutador para obtener una senal mas fuerte.\n\n2. Verifica si hay interferencias de otros dispositivos electronicos cerca del enrutador, como los microondas.\n\n3. Reiniciar el enrutador tambien puede ayudar a solucionar problemas temporales.\n\n4. Si el problema persiste, es posible que desees considerar ponerse en contacto con tu proveedor de servicios de Internet para obtener mas asistencia tecnica.",
+        "Date": "2023-05-28 23:39:43",
+        "Tag": "WiFi",
+        "idTag": 15,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "No puedo acceder a Internet",
+        "Bot": "Si estas experimentando una conexion WiFi lenta, hay algunas cosas que puedes intentar para mejorarla. \n\n1. asegurate de estar cerca del enrutador para obtener una senal mas fuerte.\n\n2. Verifica si hay interferencias de otros dispositivos electronicos cerca del enrutador, como los microondas.\n\n3. Reiniciar el enrutador tambien puede ayudar a solucionar problemas temporales.\n\n4. Si el problema persiste, es posible que desees considerar ponerse en contacto con tu proveedor de servicios de Internet para obtener mas asistencia tecnica.",
+        "Date": "2023-05-28 23:39:43",
+        "Tag": "WiFi",
+        "idTag": 15,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "v",
+        "Bot": "Hola, gracias por preguntar",
+        "Date": "2023-05-28 23:39:43",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "No puedo acceder a Internet",
+        "Bot": "Si estas experimentando una conexion WiFi lenta, hay algunas cosas que puedes intentar para mejorarla. \n\n1. asegurate de estar cerca del enrutador para obtener una senal mas fuerte.\n\n2. Verifica si hay interferencias de otros dispositivos electronicos cerca del enrutador, como los microondas.\n\n3. Reiniciar el enrutador tambien puede ayudar a solucionar problemas temporales.\n\n4. Si el problema persiste, es posible que desees considerar ponerse en contacto con tu proveedor de servicios de Internet para obtener mas asistencia tecnica.",
+        "Date": "2023-05-28 23:39:44",
+        "Tag": "WiFi",
+        "idTag": 15,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "No puedo acceder a Internet",
+        "Bot": "Si estas experimentando una conexion WiFi lenta, hay algunas cosas que puedes intentar para mejorarla. \n\n1. asegurate de estar cerca del enrutador para obtener una senal mas fuerte.\n\n2. Verifica si hay interferencias de otros dispositivos electronicos cerca del enrutador, como los microondas.\n\n3. Reiniciar el enrutador tambien puede ayudar a solucionar problemas temporales.\n\n4. Si el problema persiste, es posible que desees considerar ponerse en contacto con tu proveedor de servicios de Internet para obtener mas asistencia tecnica.",
+        "Date": "2023-05-28 23:39:44",
+        "Tag": "WiFi",
+        "idTag": 15,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "No puedo acceder a Internet",
+        "Bot": "Si estas experimentando una conexion WiFi lenta, hay algunas cosas que puedes intentar para mejorarla. \n\n1. asegurate de estar cerca del enrutador para obtener una senal mas fuerte.\n\n2. Verifica si hay interferencias de otros dispositivos electronicos cerca del enrutador, como los microondas.\n\n3. Reiniciar el enrutador tambien puede ayudar a solucionar problemas temporales.\n\n4. Si el problema persiste, es posible que desees considerar ponerse en contacto con tu proveedor de servicios de Internet para obtener mas asistencia tecnica.",
+        "Date": "2023-05-28 23:39:44",
+        "Tag": "WiFi",
+        "idTag": 15,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "No puedo acceder a Internet",
+        "Bot": "Si tienes problemas para conectar tu dispositivo a Wi-Fi, verifica que la contrasena sea correcta y que estes dentro del rango de senal. Si la conexion Bluetooth no funciona, verifica que el dispositivo este emparejado correctamente y que no haya interferencias cercanas. Si no puedes acceder a Internet, verifica la conexion de red y reinicia tu enrutador o modem.",
+        "Date": "2023-05-28 23:39:44",
+        "Tag": "WiFi",
+        "idTag": 15,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "v",
+        "Bot": "Que bueno verte de nuevo",
+        "Date": "2023-05-28 23:39:44",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "No puedo acceder a Internet",
+        "Bot": "Si tienes problemas para conectar tu dispositivo a Wi-Fi, verifica que la contrasena sea correcta y que estes dentro del rango de senal. Si la conexion Bluetooth no funciona, verifica que el dispositivo este emparejado correctamente y que no haya interferencias cercanas. Si no puedes acceder a Internet, verifica la conexion de red y reinicia tu enrutador o modem.",
+        "Date": "2023-05-28 23:39:45",
+        "Tag": "WiFi",
+        "idTag": 15,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "No puedo acceder a Internet",
+        "Bot": "Si estas experimentando una conexion WiFi lenta, hay algunas cosas que puedes intentar para mejorarla. \n\n1. asegurate de estar cerca del enrutador para obtener una senal mas fuerte.\n\n2. Verifica si hay interferencias de otros dispositivos electronicos cerca del enrutador, como los microondas.\n\n3. Reiniciar el enrutador tambien puede ayudar a solucionar problemas temporales.\n\n4. Si el problema persiste, es posible que desees considerar ponerse en contacto con tu proveedor de servicios de Internet para obtener mas asistencia tecnica.",
+        "Date": "2023-05-28 23:39:45",
+        "Tag": "WiFi",
+        "idTag": 15,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "No puedo acceder a Internet",
+        "Bot": "Si tienes problemas para conectar tu dispositivo a Wi-Fi, verifica que la contrasena sea correcta y que estes dentro del rango de senal. Si la conexion Bluetooth no funciona, verifica que el dispositivo este emparejado correctamente y que no haya interferencias cercanas. Si no puedes acceder a Internet, verifica la conexion de red y reinicia tu enrutador o modem.",
+        "Date": "2023-05-28 23:39:45",
+        "Tag": "WiFi",
+        "idTag": 15,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "v",
+        "Bot": "Hola, como puedo ayudarte?",
+        "Date": "2023-05-28 23:39:45",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "No puedo acceder a Internet",
+        "Bot": "Si estas experimentando una conexion WiFi lenta, hay algunas cosas que puedes intentar para mejorarla. \n\n1. asegurate de estar cerca del enrutador para obtener una senal mas fuerte.\n\n2. Verifica si hay interferencias de otros dispositivos electronicos cerca del enrutador, como los microondas.\n\n3. Reiniciar el enrutador tambien puede ayudar a solucionar problemas temporales.\n\n4. Si el problema persiste, es posible que desees considerar ponerse en contacto con tu proveedor de servicios de Internet para obtener mas asistencia tecnica.",
+        "Date": "2023-05-28 23:39:45",
+        "Tag": "WiFi",
+        "idTag": 15,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "No puedo acceder a Internet",
+        "Bot": "Si estas experimentando una conexion WiFi lenta, hay algunas cosas que puedes intentar para mejorarla. \n\n1. asegurate de estar cerca del enrutador para obtener una senal mas fuerte.\n\n2. Verifica si hay interferencias de otros dispositivos electronicos cerca del enrutador, como los microondas.\n\n3. Reiniciar el enrutador tambien puede ayudar a solucionar problemas temporales.\n\n4. Si el problema persiste, es posible que desees considerar ponerse en contacto con tu proveedor de servicios de Internet para obtener mas asistencia tecnica.",
+        "Date": "2023-05-28 23:39:46",
+        "Tag": "WiFi",
+        "idTag": 15,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "No puedo acceder a Internet",
+        "Bot": "Si tienes problemas para conectar tu dispositivo a Wi-Fi, verifica que la contrasena sea correcta y que estes dentro del rango de senal. Si la conexion Bluetooth no funciona, verifica que el dispositivo este emparejado correctamente y que no haya interferencias cercanas. Si no puedes acceder a Internet, verifica la conexion de red y reinicia tu enrutador o modem.",
+        "Date": "2023-05-28 23:39:46",
+        "Tag": "WiFi",
+        "idTag": 15,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "No puedo acceder a Internet",
+        "Bot": "Si tienes problemas para conectar tu dispositivo a Wi-Fi, verifica que la contrasena sea correcta y que estes dentro del rango de senal. Si la conexion Bluetooth no funciona, verifica que el dispositivo este emparejado correctamente y que no haya interferencias cercanas. Si no puedes acceder a Internet, verifica la conexion de red y reinicia tu enrutador o modem.",
+        "Date": "2023-05-28 23:39:46",
+        "Tag": "WiFi",
+        "idTag": 15,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "856378",
+        "Bot": "Que bueno verte de nuevo",
+        "Date": "2023-05-28 23:39:49",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "El audio de mi dispositivo no funciona",
+        "Bot": "1. Verifica si los altavoces o auriculares est\u00e1n correctamente conectados a la computadora.\n\n2. Aseg\u00farate de que el volumen no est\u00e9 en silencio y est\u00e9 configurado en un nivel adecuado.\n\n3. Comprueba si hay actualizaciones de controladores de sonido disponibles y actualiza los controladores si es necesario.\n\n4. Reinicia la computadora para ver si el problema se soluciona.",
+        "Date": "2023-05-28 23:39:57",
+        "Tag": "Problemasdesonido",
+        "idTag": 16,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El audio de mi dispositivo no funciona",
+        "Bot": "1. Verifica si los altavoces o auriculares est\u00e1n correctamente conectados a la computadora.\n\n2. Aseg\u00farate de que el volumen no est\u00e9 en silencio y est\u00e9 configurado en un nivel adecuado.\n\n3. Comprueba si hay actualizaciones de controladores de sonido disponibles y actualiza los controladores si es necesario.\n\n4. Reinicia la computadora para ver si el problema se soluciona.",
+        "Date": "2023-05-28 23:39:57",
+        "Tag": "Problemasdesonido",
+        "idTag": 16,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "v",
+        "Bot": "Hola, gracias por preguntar",
+        "Date": "2023-05-28 23:39:58",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "v",
+        "Bot": "Hola, gracias por preguntar",
+        "Date": "2023-05-28 23:39:58",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "El audio de mi dispositivo no funciona",
+        "Bot": "1. Verifica si los altavoces o auriculares est\u00e1n correctamente conectados a la computadora.\n\n2. Aseg\u00farate de que el volumen no est\u00e9 en silencio y est\u00e9 configurado en un nivel adecuado.\n\n3. Comprueba si hay actualizaciones de controladores de sonido disponibles y actualiza los controladores si es necesario.\n\n4. Reinicia la computadora para ver si el problema se soluciona.",
+        "Date": "2023-05-28 23:39:58",
+        "Tag": "Problemasdesonido",
+        "idTag": 16,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El audio de mi dispositivo no funciona",
+        "Bot": "1. Verifica si los altavoces o auriculares est\u00e1n correctamente conectados a la computadora.\n\n2. Aseg\u00farate de que el volumen no est\u00e9 en silencio y est\u00e9 configurado en un nivel adecuado.\n\n3. Comprueba si hay actualizaciones de controladores de sonido disponibles y actualiza los controladores si es necesario.\n\n4. Reinicia la computadora para ver si el problema se soluciona.",
+        "Date": "2023-05-28 23:39:58",
+        "Tag": "Problemasdesonido",
+        "idTag": 16,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El audio de mi dispositivo no funciona",
+        "Bot": "1. Verifica si los altavoces o auriculares est\u00e1n correctamente conectados a la computadora.\n\n2. Aseg\u00farate de que el volumen no est\u00e9 en silencio y est\u00e9 configurado en un nivel adecuado.\n\n3. Comprueba si hay actualizaciones de controladores de sonido disponibles y actualiza los controladores si es necesario.\n\n4. Reinicia la computadora para ver si el problema se soluciona.",
+        "Date": "2023-05-28 23:39:59",
+        "Tag": "Problemasdesonido",
+        "idTag": 16,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El audio de mi dispositivo no funciona",
+        "Bot": "1. Verifica si los altavoces o auriculares est\u00e1n correctamente conectados a la computadora.\n\n2. Aseg\u00farate de que el volumen no est\u00e9 en silencio y est\u00e9 configurado en un nivel adecuado.\n\n3. Comprueba si hay actualizaciones de controladores de sonido disponibles y actualiza los controladores si es necesario.\n\n4. Reinicia la computadora para ver si el problema se soluciona.",
+        "Date": "2023-05-28 23:39:59",
+        "Tag": "Problemasdesonido",
+        "idTag": 16,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El audio de mi dispositivo no funciona",
+        "Bot": "1. Verifica si los altavoces o auriculares est\u00e1n correctamente conectados a la computadora.\n\n2. Aseg\u00farate de que el volumen no est\u00e9 en silencio y est\u00e9 configurado en un nivel adecuado.\n\n3. Comprueba si hay actualizaciones de controladores de sonido disponibles y actualiza los controladores si es necesario.\n\n4. Reinicia la computadora para ver si el problema se soluciona.",
+        "Date": "2023-05-28 23:39:59",
+        "Tag": "Problemasdesonido",
+        "idTag": 16,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El audio de mi dispositivo no funciona",
+        "Bot": "1. Verifica si los altavoces o auriculares est\u00e1n correctamente conectados a la computadora.\n\n2. Aseg\u00farate de que el volumen no est\u00e9 en silencio y est\u00e9 configurado en un nivel adecuado.\n\n3. Comprueba si hay actualizaciones de controladores de sonido disponibles y actualiza los controladores si es necesario.\n\n4. Reinicia la computadora para ver si el problema se soluciona.",
+        "Date": "2023-05-28 23:39:59",
+        "Tag": "Problemasdesonido",
+        "idTag": 16,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El audio de mi dispositivo no funciona",
+        "Bot": "1. Verifica si los altavoces o auriculares est\u00e1n correctamente conectados a la computadora.\n\n2. Aseg\u00farate de que el volumen no est\u00e9 en silencio y est\u00e9 configurado en un nivel adecuado.\n\n3. Comprueba si hay actualizaciones de controladores de sonido disponibles y actualiza los controladores si es necesario.\n\n4. Reinicia la computadora para ver si el problema se soluciona.",
+        "Date": "2023-05-28 23:39:59",
+        "Tag": "Problemasdesonido",
+        "idTag": 16,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El audio de mi dispositivo no funciona",
+        "Bot": "1. Verifica si los altavoces o auriculares est\u00e1n correctamente conectados a la computadora.\n\n2. Aseg\u00farate de que el volumen no est\u00e9 en silencio y est\u00e9 configurado en un nivel adecuado.\n\n3. Comprueba si hay actualizaciones de controladores de sonido disponibles y actualiza los controladores si es necesario.\n\n4. Reinicia la computadora para ver si el problema se soluciona.",
+        "Date": "2023-05-28 23:39:59",
+        "Tag": "Problemasdesonido",
+        "idTag": 16,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El audio de mi dispositivo no funciona",
+        "Bot": "1. Verifica si los altavoces o auriculares est\u00e1n correctamente conectados a la computadora.\n\n2. Aseg\u00farate de que el volumen no est\u00e9 en silencio y est\u00e9 configurado en un nivel adecuado.\n\n3. Comprueba si hay actualizaciones de controladores de sonido disponibles y actualiza los controladores si es necesario.\n\n4. Reinicia la computadora para ver si el problema se soluciona.",
+        "Date": "2023-05-28 23:40:00",
+        "Tag": "Problemasdesonido",
+        "idTag": 16,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El audio de mi dispositivo no funciona",
+        "Bot": "1. Verifica si los altavoces o auriculares est\u00e1n correctamente conectados a la computadora.\n\n2. Aseg\u00farate de que el volumen no est\u00e9 en silencio y est\u00e9 configurado en un nivel adecuado.\n\n3. Comprueba si hay actualizaciones de controladores de sonido disponibles y actualiza los controladores si es necesario.\n\n4. Reinicia la computadora para ver si el problema se soluciona.",
+        "Date": "2023-05-28 23:40:00",
+        "Tag": "Problemasdesonido",
+        "idTag": 16,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El audio de mi dispositivo no funciona",
+        "Bot": "1. Verifica si los altavoces o auriculares est\u00e1n correctamente conectados a la computadora.\n\n2. Aseg\u00farate de que el volumen no est\u00e9 en silencio y est\u00e9 configurado en un nivel adecuado.\n\n3. Comprueba si hay actualizaciones de controladores de sonido disponibles y actualiza los controladores si es necesario.\n\n4. Reinicia la computadora para ver si el problema se soluciona.",
+        "Date": "2023-05-28 23:40:00",
+        "Tag": "Problemasdesonido",
+        "idTag": 16,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El audio de mi dispositivo no funciona",
+        "Bot": "1. Verifica si los altavoces o auriculares est\u00e1n correctamente conectados a la computadora.\n\n2. Aseg\u00farate de que el volumen no est\u00e9 en silencio y est\u00e9 configurado en un nivel adecuado.\n\n3. Comprueba si hay actualizaciones de controladores de sonido disponibles y actualiza los controladores si es necesario.\n\n4. Reinicia la computadora para ver si el problema se soluciona.",
+        "Date": "2023-05-28 23:40:00",
+        "Tag": "Problemasdesonido",
+        "idTag": 16,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El audio de mi dispositivo no funciona",
+        "Bot": "1. Verifica si los altavoces o auriculares est\u00e1n correctamente conectados a la computadora.\n\n2. Aseg\u00farate de que el volumen no est\u00e9 en silencio y est\u00e9 configurado en un nivel adecuado.\n\n3. Comprueba si hay actualizaciones de controladores de sonido disponibles y actualiza los controladores si es necesario.\n\n4. Reinicia la computadora para ver si el problema se soluciona.",
+        "Date": "2023-05-28 23:40:00",
+        "Tag": "Problemasdesonido",
+        "idTag": 16,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "v",
+        "Bot": "Hola, gracias por preguntar",
+        "Date": "2023-05-28 23:40:01",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
+    },
+    {
+        "User": "El audio de mi dispositivo no funciona",
+        "Bot": "1. Verifica si los altavoces o auriculares est\u00e1n correctamente conectados a la computadora.\n\n2. Aseg\u00farate de que el volumen no est\u00e9 en silencio y est\u00e9 configurado en un nivel adecuado.\n\n3. Comprueba si hay actualizaciones de controladores de sonido disponibles y actualiza los controladores si es necesario.\n\n4. Reinicia la computadora para ver si el problema se soluciona.",
+        "Date": "2023-05-28 23:40:01",
+        "Tag": "Problemasdesonido",
+        "idTag": 16,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El audio de mi dispositivo no funciona",
+        "Bot": "1. Verifica si los altavoces o auriculares est\u00e1n correctamente conectados a la computadora.\n\n2. Aseg\u00farate de que el volumen no est\u00e9 en silencio y est\u00e9 configurado en un nivel adecuado.\n\n3. Comprueba si hay actualizaciones de controladores de sonido disponibles y actualiza los controladores si es necesario.\n\n4. Reinicia la computadora para ver si el problema se soluciona.",
+        "Date": "2023-05-28 23:40:01",
+        "Tag": "Problemasdesonido",
+        "idTag": 16,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El audio de mi dispositivo no funciona",
+        "Bot": "1. Verifica si los altavoces o auriculares est\u00e1n correctamente conectados a la computadora.\n\n2. Aseg\u00farate de que el volumen no est\u00e9 en silencio y est\u00e9 configurado en un nivel adecuado.\n\n3. Comprueba si hay actualizaciones de controladores de sonido disponibles y actualiza los controladores si es necesario.\n\n4. Reinicia la computadora para ver si el problema se soluciona.",
+        "Date": "2023-05-28 23:40:01",
+        "Tag": "Problemasdesonido",
+        "idTag": 16,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El audio de mi dispositivo no funciona",
+        "Bot": "1. Verifica si los altavoces o auriculares est\u00e1n correctamente conectados a la computadora.\n\n2. Aseg\u00farate de que el volumen no est\u00e9 en silencio y est\u00e9 configurado en un nivel adecuado.\n\n3. Comprueba si hay actualizaciones de controladores de sonido disponibles y actualiza los controladores si es necesario.\n\n4. Reinicia la computadora para ver si el problema se soluciona.",
+        "Date": "2023-05-28 23:40:01",
+        "Tag": "Problemasdesonido",
+        "idTag": 16,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El audio de mi dispositivo no funciona",
+        "Bot": "1. Verifica si los altavoces o auriculares est\u00e1n correctamente conectados a la computadora.\n\n2. Aseg\u00farate de que el volumen no est\u00e9 en silencio y est\u00e9 configurado en un nivel adecuado.\n\n3. Comprueba si hay actualizaciones de controladores de sonido disponibles y actualiza los controladores si es necesario.\n\n4. Reinicia la computadora para ver si el problema se soluciona.",
+        "Date": "2023-05-28 23:40:02",
+        "Tag": "Problemasdesonido",
+        "idTag": 16,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El audio de mi dispositivo no funciona",
+        "Bot": "1. Verifica si los altavoces o auriculares est\u00e1n correctamente conectados a la computadora.\n\n2. Aseg\u00farate de que el volumen no est\u00e9 en silencio y est\u00e9 configurado en un nivel adecuado.\n\n3. Comprueba si hay actualizaciones de controladores de sonido disponibles y actualiza los controladores si es necesario.\n\n4. Reinicia la computadora para ver si el problema se soluciona.",
+        "Date": "2023-05-28 23:40:02",
+        "Tag": "Problemasdesonido",
+        "idTag": 16,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El audio de mi dispositivo no funciona",
+        "Bot": "1. Verifica si los altavoces o auriculares est\u00e1n correctamente conectados a la computadora.\n\n2. Aseg\u00farate de que el volumen no est\u00e9 en silencio y est\u00e9 configurado en un nivel adecuado.\n\n3. Comprueba si hay actualizaciones de controladores de sonido disponibles y actualiza los controladores si es necesario.\n\n4. Reinicia la computadora para ver si el problema se soluciona.",
+        "Date": "2023-05-28 23:40:02",
+        "Tag": "Problemasdesonido",
+        "idTag": 16,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El audio de mi dispositivo no funciona",
+        "Bot": "1. Verifica si los altavoces o auriculares est\u00e1n correctamente conectados a la computadora.\n\n2. Aseg\u00farate de que el volumen no est\u00e9 en silencio y est\u00e9 configurado en un nivel adecuado.\n\n3. Comprueba si hay actualizaciones de controladores de sonido disponibles y actualiza los controladores si es necesario.\n\n4. Reinicia la computadora para ver si el problema se soluciona.",
+        "Date": "2023-05-28 23:40:02",
+        "Tag": "Problemasdesonido",
+        "idTag": 16,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El audio de mi dispositivo no funciona",
+        "Bot": "1. Verifica si los altavoces o auriculares est\u00e1n correctamente conectados a la computadora.\n\n2. Aseg\u00farate de que el volumen no est\u00e9 en silencio y est\u00e9 configurado en un nivel adecuado.\n\n3. Comprueba si hay actualizaciones de controladores de sonido disponibles y actualiza los controladores si es necesario.\n\n4. Reinicia la computadora para ver si el problema se soluciona.",
+        "Date": "2023-05-28 23:40:02",
+        "Tag": "Problemasdesonido",
+        "idTag": 16,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El audio de mi dispositivo no funciona",
+        "Bot": "1. Verifica si los altavoces o auriculares est\u00e1n correctamente conectados a la computadora.\n\n2. Aseg\u00farate de que el volumen no est\u00e9 en silencio y est\u00e9 configurado en un nivel adecuado.\n\n3. Comprueba si hay actualizaciones de controladores de sonido disponibles y actualiza los controladores si es necesario.\n\n4. Reinicia la computadora para ver si el problema se soluciona.",
+        "Date": "2023-05-28 23:40:03",
+        "Tag": "Problemasdesonido",
+        "idTag": 16,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El audio de mi dispositivo no funcionaEl audio de mi dispositivo no funciona",
+        "Bot": "1. Verifica si los altavoces o auriculares est\u00e1n correctamente conectados a la computadora.\n\n2. Aseg\u00farate de que el volumen no est\u00e9 en silencio y est\u00e9 configurado en un nivel adecuado.\n\n3. Comprueba si hay actualizaciones de controladores de sonido disponibles y actualiza los controladores si es necesario.\n\n4. Reinicia la computadora para ver si el problema se soluciona.",
+        "Date": "2023-05-28 23:40:03",
+        "Tag": "Problemasdesonido",
+        "idTag": 16,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "El audio de mi dispositivo no funciona",
+        "Bot": "1. Verifica si los altavoces o auriculares est\u00e1n correctamente conectados a la computadora.\n\n2. Aseg\u00farate de que el volumen no est\u00e9 en silencio y est\u00e9 configurado en un nivel adecuado.\n\n3. Comprueba si hay actualizaciones de controladores de sonido disponibles y actualiza los controladores si es necesario.\n\n4. Reinicia la computadora para ver si el problema se soluciona.",
+        "Date": "2023-05-28 23:40:03",
+        "Tag": "Problemasdesonido",
+        "idTag": 16,
+        "coincidencia pregunta": 1
+    },
+    {
+        "User": "zrgsrtgh",
+        "Bot": "Hola, gracias por preguntar",
+        "Date": "2023-05-28 23:40:05",
+        "Tag": "saludo",
+        "idTag": 1,
+        "coincidencia pregunta": 0
     }
 ]
