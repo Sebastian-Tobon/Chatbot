@@ -14,7 +14,7 @@ words = pickle.load(open('words.pkl','rb'))
 classes = pickle.load(open('classes.pkl','rb'))
 tag_response = ""
 id_tag_response = 0
-
+coincidencia = 0
 
 def clean_up_sentence(sentence):
     sentence_words = nltk.word_tokenize(sentence)
@@ -66,6 +66,17 @@ def getResponse(ints, intents_json):
 def chatbot_response(msg):
     ints = predict_class(msg, model)
     res = getResponse(ints, intents)
+    
+    # Imprimir el bag de palabras
+    bag_of_words = bow(msg, words, show_details=True)
+    print("Bag of Words:", bag_of_words)
+    print(type(bag_of_words))
+    global coincidencia
+    if 1 in bag_of_words:
+        print(True)
+        coincidencia = 1
+    else:
+        coincidencia = 0
     return res
 
 
@@ -98,8 +109,7 @@ def send(e):
         except (FileNotFoundError, json.JSONDecodeError):
             history = []
 
-
-        history.append({'User': msg, 'Bot': res, 'Date': hora_actual_str, 'Tag': tag_response, 'idTag': id_tag_response})
+        history.append({'User': msg, 'Bot': res, 'Date': hora_actual_str, 'Tag': tag_response, 'idTag': id_tag_response, 'coincidencia pregunta': coincidencia})
 
         with open('history.json', 'w') as f:
             json.dump(history, f, indent=4)

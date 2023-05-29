@@ -140,9 +140,8 @@
       "idTag": 13,
       "tag": "ordenadorNoDespierta",
       "patterns": ["El ordenador no despierta de la hibernacion"],
-      "responses": ["Please provide hospital type"],
+      "responses": ["Una forma de minimizar el problema es impedir que el ordenador entre en hibernacion de forma automatica.\n\n1. Para ello pincha con el boton derecho en el Boton de Inicio, y elige Opciones de Energia. \n\n2. A continuacion marca la casilla Alto rendimiento.\n\n3. incha en la opcion Cambiar la configuracion del plan y asegurate de que la casilla Poner el equipo en suspension indica Nunca\n"],
       "context": [
-        "Una forma de minimizar el problema es impedir que el ordenador entre en hibernacion de forma automatica.\n\n1. Para ello pincha con el boton derecho en el Boton de Inicio, y elige Opciones de Energia. \n\n2. A continuacion marca la casilla Alto rendimiento.\n\n3. incha en la opcion Cambiar la configuracion del plan y asegurate de que la casilla Poner el equipo en suspension indica Nunca\n"
       ]
     },
     {
@@ -150,7 +149,275 @@
       "tag": "programasNoCompatibles",
       "patterns": ["Programas incompatibles"],
       "responses": [
-        "1. Para arreglarlo, pulsa con el boton derecho en el icono de arranque del programa y selecciona Propiedades.\n\n2. Accede a la solapa Compatibilidad y marca la casilla Ejecutar este programa en modo de compatibilidad para.\n\n3. A continuacion en el menu emergente elige el sistema operativo mas cercano a la fecha de lanzamiento de ese programa: Windows XP, Windows Vista, Windows 7, etc. Puedes probar varios de ellos hasta que encuentres uno que funcione"
+        "1. . Accede a la solapa Compatibilidad y marca la casilla Ejecutar este programa en modo de compatibilidad para.\n\n3. A continuacion en el menu emergente elige el sistema operativo mas cercano a la fecha de lanzamiento de ese programa: Windows XP, Windows Vista, Windows 7, etc. Puedes probar varios de ellos hasta que encuentres uno que funcione"
+      ],
+      "context": [""]
+    },
+    {
+      "idTag": 15,
+      "tag": "WiFi",
+      "patterns": ["Mi conexion WiFi es muy lenta",
+      "No puedo conectar mi dispositivo a Wi-Fi",
+      "No puedo acceder a Internet",
+      "Problemas de conexión Wi-Fi",
+      "Wi-Fi no funciona",
+      "No detecta redes Wi-Fi"],
+      "responses": [
+        "Si estas experimentando una conexion WiFi lenta, hay algunas cosas que puedes intentar para mejorarla. \n\n1. asegurate de estar cerca del enrutador para obtener una senal mas fuerte.\n\n2. Verifica si hay interferencias de otros dispositivos electronicos cerca del enrutador, como los microondas.\n\n3. Reiniciar el enrutador tambien puede ayudar a solucionar problemas temporales.\n\n4. Si el problema persiste, es posible que desees considerar ponerse en contacto con tu proveedor de servicios de Internet para obtener mas asistencia tecnica.",
+        "Si tienes problemas para conectar tu dispositivo a Wi-Fi, verifica que la contrasena sea correcta y que estes dentro del rango de senal. Si la conexion Bluetooth no funciona, verifica que el dispositivo este emparejado correctamente y que no haya interferencias cercanas. Si no puedes acceder a Internet, verifica la conexion de red y reinicia tu enrutador o modem."
+      ],
+      "context": [""]
+    },
+    {
+      "idTag": 16,
+      "tag": "Problemasdesonido",
+      "patterns": ["No tengo sonido en mi computadora", 
+      "El audio de mi dispositivo no funciona"],
+      "responses": [
+        "1. Verifica si los altavoces o auriculares están correctamente conectados a la computadora.\n\n2. Asegúrate de que el volumen no esté en silencio y esté configurado en un nivel adecuado.\n\n3. Comprueba si hay actualizaciones de controladores de sonido disponibles y actualiza los controladores si es necesario.\n\n4. Reinicia la computadora para ver si el problema se soluciona."
+      ],
+      "context": [""]
+    },
+    {
+      "idTag": 17,
+      "tag": "contrasena",
+      "patterns": [
+        "Olvide mi contrasena",
+        "No puedo acceder a mi cuenta",
+        "Necesito cambiar mi contrasena",
+        "Como recupero mi contrasena",
+        "Como puedo restablecer mi contrasena",
+        "He olvidado la contrasena de mi dispositivo"
+      ],
+      "responses": [
+        "Para recuperar tu contrasena, generalmente puedes hacerlo a traves de la opcion '¿Olvidaste tu contrasena?' en la pagina de inicio de sesion.",
+        "Si deseas cambiar tu contrasena, normalmente puedes hacerlo desde la configuracion de tu cuenta o dispositivo.",
+        "Para restablecer tu contrasena, te recomendaria seguir los pasos de recuperacion proporcionados por el proveedor de servicios o el fabricante del dispositivo."
+      ],
+      "context": []
+    },
+    {
+      "idTag": 18,
+      "tag": "almacenamiento",
+      "patterns": [
+        "No tengo suficiente espacio de almacenamiento",
+        "Mi disco duro esta lleno",
+        "Como puedo liberar espacio en mi dispositivo?",
+        "Como puedo eliminar archivos innecesarios?"
+      ],
+      "responses": [
+        "Si tienes poco espacio de almacenamiento, puedes liberar espacio eliminando archivos innecesarios o moviéndolos a otro dispositivo de almacenamiento. Que tipo de dispositivo estas usando?",
+        "Cuando el disco duro esta lleno, es recomendable eliminar archivos no utilizados o transferirlos a otro dispositivo de almacenamiento.",
+        "Para liberar espacio en tu dispositivo, puedes intentar eliminar archivos y programas que ya no necesites, vaciar la papelera de reciclaje y utilizar herramientas de limpieza de disco.",
+        "Para eliminar archivos innecesarios, puedes revisar tus carpetas y eliminar aquellos que ya no necesites. Tambien puedes utilizar herramientas de limpieza de disco para encontrar archivos grandes o duplicados."
+      ],
+      "context": []
+    },
+    {
+      "idTag": 19,
+      "tag": "Problemasdeimpresion",
+      "patterns": [
+        "La impresora no imprime",
+        "Error al imprimir",
+        "Problemas de impresion",
+        "No se detecta la impresora"
+      ],
+      "responses": [
+        "Puedo ayudarte con eso. Asegurate de que la impresora este encendida y correctamente conectada a la computadora. Tambien verifica que haya suficiente papel y tinta/toner. Si el problema persiste, puedes intentar reiniciar la impresora y la computadora.",
+        "Es posible que haya un problema de conexion. Asegurate de que la impresora este correctamente conectada a la computadora y que los controladores esten actualizados. Si eso no funciona, podria ser util desinstalar y reinstalar la impresora.",
+        "Has verificado si hay algun mensaje de error en la pantalla de la impresora? A veces, los problemas de impresion se deben a atascos de papel o cartuchos de tinta vacios. Revisa cuidadosamente la impresora en busca de cualquier problema fisico."
+      ],
+      "context": []
+    },
+    {
+      "idTag": 20,
+      "tag": "Problemasdevideo",
+      "patterns": [
+        "No puedo reproducir videos en mi dispositivo",
+        "La pantalla se queda en blanco al intentar ver un video"
+      ],
+      "responses": [
+        "Entiendo tu situación. Para solucionar problemas de reproducción de video, te sugiero seguir estos pasos: \n\n1. Verifica tu conexión a Internet. \n\n2. Asegúrate de tener instalado un reproductor de video actualizado. \n\n3. Reinicia tu dispositivo y vuelve a intentarlo. \n\n4. Si el problema persiste, intenta reproducir el video en otro dispositivo o con otro reproductor para determinar si el problema está relacionado con el archivo o el dispositivo. En caso de necesitar más ayuda, no dudes en contactar al soporte técnico correspondiente.",
+        "Lamento que estés experimentando problemas con la reproducción de videos. Para solucionar este inconveniente, te recomendaría seguir estos pasos: \n\n1. Verifica tu conexión a Internet para asegurarte de que tienes una buena velocidad y estabilidad. \n\n2. Asegúrate de tener instalado el reproductor de video adecuado y actualizado en tu dispositivo. \n\n3. Reinicia tu dispositivo y vuelve a intentar reproducir el video. \n\n4. Si el problema persiste, verifica si el video está en un formato compatible y si el archivo no está dañado. También puedes intentar reproducir otros videos para determinar si el problema es específico de un archivo o generalizado. Si necesitas más ayuda, te recomiendo contactar al soporte técnico de tu dispositivo o aplicación de reproducción de video."
+      ]
+    },
+    {
+      "idTag": 21,
+      "tag": "Problemasdecargadebateria",
+      "patterns": [
+        "Mi dispositivo no carga correctamente",
+        "La batería de mi dispositivo se descarga muy rápido",
+        "Tengo problemas con la carga de mi batería"
+      ],
+      "responses": [
+        "Entiendo tu situación. Para solucionar problemas de carga de la batería, te recomiendo seguir estos pasos: \n\n1. Asegúrate de utilizar un cable y adaptador de carga originales o certificados. \n\n2. Limpia los puertos de carga del dispositivo y del cable para asegurarte de que no haya suciedad o residuos. \n\n3. Reinicia tu dispositivo y vuelve a intentar cargarlo. \n\n4. Si el problema persiste, intenta cargar tu dispositivo en otra toma de corriente o utilizando otro cable y adaptador de carga. \n\n5. Si ninguna de estas soluciones funciona, es posible que necesites reemplazar la batería de tu dispositivo. Te recomiendo contactar al soporte técnico correspondiente para obtener más ayuda."
+      ]
+    },
+    {
+      "idTag": 22,
+      "tag": "SeguridaIinformatica",
+      "patterns": [
+        "Como proteger mi dispositivo contra virus y malware?",
+        "Que debo hacer si creo que mi cuenta ha sido pirateada?",
+        "Cuales son las mejores practicas de seguridad en linea?"
+      ],
+      "responses": [
+        "La seguridad informatica es de vital importancia para proteger tus dispositivos y datos. Aqui tienes algunas recomendaciones para protegerte contra virus, malware y pirateria informatica: \n\n1. Manten tus sistemas operativos y programas actualizados. \n\n2. Utiliza un software antivirus confiable y mantenlo actualizado. \n\n3. Evita hacer clic en enlaces sospechosos o descargar archivos de fuentes no confiables. \n\n4. Utiliza contraseñas seguras y cambialas regularmente. \n\n5. No compartas informacion personal o confidencial en linea sin asegurarte de la seguridad del sitio web. \n\n6. Manten copias de seguridad regulares de tus archivos importantes. \n\n7. Utiliza una conexion segura y encriptada al navegar en internet. Si crees que tu cuenta ha sido pirateada, cambia tus contraseñas de inmediato y contacta al soporte tecnico correspondiente. Recuerda estar siempre atento a posibles amenazas y adoptar buenas practicas de seguridad en linea."
+      ]
+    },
+    {
+      "idTag": 23,
+      "tag": "SoporteTecnicoBasico",
+      "patterns": [
+        "No puedo encender mi dispositivo",
+        "Mi dispositivo se congela",
+        "Necesito ayuda con la configuracion inicial"
+      ],
+      "responses": [
+        "Para problemas de encendido, asegurate de que la bateria este cargada y prueba a presionar el boton de encendido durante unos segundos. Si tu dispositivo se congela, intenta reiniciarlo manteniendo presionado el boton de encendido. Si necesitas ayuda con la configuracion inicial, asegurate de seguir las instrucciones proporcionadas en el manual del dispositivo."
+      ],
+      "context": []
+    },
+    {
+      "idTag": 24,
+      "tag": "ActualizacionesdeSoftware",
+      "patterns": [
+        "Como actualizar el sistema operativo?",
+        "No puedo instalar las actualizaciones",
+        "Que debo hacer despues de actualizar el software?"
+      ],
+      "responses": [
+        "Para actualizar el sistema operativo, ve a la configuracion y busca la opcion de actualizacion de software. Si no puedes instalar las actualizaciones, asegurate de tener suficiente espacio de almacenamiento y una conexion estable a Internet. Despues de actualizar el software, es recomendable reiniciar el dispositivo para aplicar los cambios correctamente."
+      ],
+      "context": []
+    },
+    {
+      "idTag": 25,
+      "tag": "problemasEmail",
+      "patterns": [
+        "No puedo enviar correos electronicos",
+        "Problemas con mi cuenta de correo electronico",
+        "No recibo nuevos mensajes en mi bandeja de entrada"
+      ],
+      "responses": [
+        "Si estas experimentando problemas con tu cuenta de correo electronico, puedes intentar los siguientes pasos para solucionarlos:\n\n1. Verifica tu conexion a internet: Asegurate de tener una conexion estable a internet, ya que la falta de conexion puede afectar el envio y recepcion de correos electronicos.\n\n2. Comprueba la configuracion de tu cuenta: Verifica que la configuracion de tu cuenta de correo electronico este correctamente ingresada en tu cliente de correo o aplicacion. Asegurate de haber ingresado correctamente el servidor de correo entrante y saliente, asi como los nombres de usuario y contrasenas.\n\n3. Verifica la capacidad de almacenamiento: Si no recibes nuevos mensajes en tu bandeja de entrada, es posible que hayas alcanzado el limite de capacidad de almacenamiento. Elimina correos electronicos no deseados o vacia la papelera para liberar espacio.\n\n4. Verifica la configuracion de filtros y reglas: Si tus correos electronicos se estan redirigiendo automaticamente a otras carpetas o estan siendo marcados como spam, revisa la configuracion de filtros y reglas en tu cuenta de correo electronico.\n\nSi los pasos anteriores no resuelven el problema, es recomendable contactar al proveedor de servicios de correo electronico o al soporte tecnico para obtener asistencia adicional."
+      ],
+      "context": [""]
+    },
+    {
+      "idTag": 26,
+      "tag": "informacionCuenta",
+      "patterns": [
+        "Quiero cambiar mi contraseña",
+        "Olvidé mi nombre de usuario",
+        "Cómo actualizar la información de mi cuenta"
+      ],
+      "responses": [
+        "Si deseas cambiar tu contraseña, puedes seguir estos pasos:\n\n1. Inicia sesión en tu cuenta.\n\n2. Navega hasta la sección de configuración de la cuenta.\n\n3. Busca la opción 'Cambiar contraseña' o similar.\n\n4. Ingresa tu contraseña actual y luego la nueva contraseña deseada.\n\n5. Guarda los cambios.\n\nSi olvidaste tu nombre de usuario, te recomendamos seguir estos pasos:\n\n1. Ve a la página de inicio de sesión.\n\n2. Busca y haz clic en la opción '¿Olvidaste tu nombre de usuario?'.\n\n3. Sigue las instrucciones proporcionadas para recuperar tu nombre de usuario.\n\nSi deseas actualizar la información de tu cuenta, estos pasos pueden ayudarte:\n\n1. Inicia sesión en tu cuenta.\n\n2. Navega hasta la sección de configuración de la cuenta.\n\n3. Busca las opciones correspondientes para actualizar la información que desees (por ejemplo, dirección de correo electrónico, número de teléfono, etc.).\n\n4. Realiza los cambios necesarios.\n\nRecuerda guardar los cambios después de realizar cualquier actualización en tu cuenta."
+      ],
+      "context": [""]
+    },
+    {
+      "idTag": 27,
+      "tag": "problemasArranque",
+      "patterns": [
+        "Mi computadora no enciende",
+        "Tengo problemas al iniciar mi PC",
+        "La pantalla de mi ordenador permanece en negro al encenderlo"
+      ],
+      "responses": [
+        "Si tu computadora no enciende, puedes intentar los siguientes pasos para solucionar el problema de arranque:\n\n1. Verifica que el cable de alimentacion este correctamente conectado a la toma de corriente y a tu computadora. Asegurate de que no haya cortes de energia o problemas con el enchufe.\n\n2. Comprueba el boton de encendido. Asegurate de presionarlo correctamente y mantenerlo presionado el tiempo suficiente para que la computadora arranque.\n\n3. Verifica si hay luces o indicadores en tu computadora. Si no hay ninguna senal de energia o actividad, es posible que haya un problema con la fuente de alimentacion o la placa base. En este caso, es recomendable contactar a un tecnico especializado.\n\nSi los pasos anteriores no resuelven el problema, es recomendable buscar asistencia tecnica para diagnosticar y reparar cualquier problema relacionado con el arranque de tu computadora."
+      ],
+      "context": [""]
+    },
+    {
+      "idTag": 28,
+      "tag": "problemasConexiones",
+      "patterns": [
+        "No puedo conectar mi computadora a Internet",
+        "Tengo problemas con la conexion Wi-Fi",
+        "Mi computadora no reconoce los dispositivos USB"
+      ],
+      "responses": [
+        "Si estas experimentando problemas con las conexiones en tu computadora, considera los siguientes pasos para solucionarlos:\n\n1. Verifica tu conexion a Internet. Asegurate de estar dentro del alcance del router Wi-Fi y de que la contrasena ingresada sea correcta. Si estas utilizando una conexion por cable, asegurate de que los cables esten correctamente conectados.\n\n2. Reinicia el router y la computadora. A veces, reiniciar estos dispositivos puede resolver problemas de conexion temporales.\n\n3. Verifica los controladores o drivers de red. Asegurate de tener los controladores actualizados para el adaptador Wi-Fi o el controlador de Ethernet. Puedes buscar en linea la pagina de soporte del fabricante de tu computadora para descargar los controladores mas recientes.\n\n4. Si tu computadora no reconoce los dispositivos USB, intenta conectarlos a otros puertos USB. A veces, un puerto USB especifico puede tener problemas. Tambien puedes probar los dispositivos en otra computadora para determinar si el problema esta relacionado con los dispositivos o con tu computadora.\n\nSi los pasos anteriores no resuelven los problemas de conexion, es recomendable buscar ayuda de un tecnico especializado para diagnosticar y solucionar cualquier problema relacionado con las conexiones en tu computadora."
+      ],
+      "context": [""]
+    },
+    {
+      "idTag": 29,
+      "tag": "problemasLentitud",
+      "patterns": [
+        "Mi computadora esta demasiado lenta",
+        "Tengo problemas de rendimiento en mi PC",
+        "Los programas se ejecutan con lentitud en mi ordenador"
+      ],
+      "responses": [
+        "Si tu computadora presenta problemas de lentitud, puedes probar los siguientes pasos para mejorar su rendimiento:\n\n1. Realiza una limpieza de archivos temporales y basura. Utiliza herramientas como el Liberador de Espacio en Disco para eliminar archivos temporales, cachés y otros elementos innecesarios.\n\n2. Verifica el uso de los recursos del sistema. Abre el Administrador de Tareas para verificar si hay programas o procesos que esten consumiendo demasiada memoria o capacidad de procesamiento. Si identificas alguno, considera cerrarlo o desinstalarlo.\n\n3. Actualiza los controladores. Asegurate de tener los controladores mas recientes para los componentes importantes de tu computadora, como la tarjeta grafica, el chipset y el disco duro. Puedes visitar el sitio web del fabricante o utilizar programas de actualizacion de controladores.\n\n4. Escanea tu computadora en busca de malware. Utiliza un programa antivirus confiable para realizar un escaneo completo del sistema y eliminar cualquier amenaza que pueda estar afectando el rendimiento.\n\nSi los pasos anteriores no resuelven el problema de lentitud, es recomendable buscar asistencia técnica para realizar una evaluacion mas detallada del sistema y aplicar soluciones especificas."
+      ],
+      "context": [""]
+    },
+    {
+      "idTag": 30,
+      "tag": "problemasPantalla",
+      "patterns": [
+        "Mi pantalla muestra colores extraños",
+        "Tengo problemas de visualizacion en mi monitor",
+        "La pantalla de mi computadora parpadea"
+      ],
+      "responses": [
+        "Si estas experimentando problemas con la pantalla de tu computadora, considera los siguientes pasos para solucionarlos:\n\n1. Verifica los cables de conexion. Asegurate de que los cables de video esten correctamente conectados tanto a tu computadora como al monitor. Si es posible, prueba con cables diferentes para descartar problemas de conexion.\n\n2. Ajusta la configuracion de la pantalla. Accede a la configuracion de pantalla de tu sistema operativo y verifica la resolucion, la frecuencia de actualizacion y otros ajustes relevantes. Asegurate de que esten configurados correctamente para tu monitor.\n\n3. Actualiza los controladores de la tarjeta grafica. Visita el sitio web del fabricante de tu tarjeta grafica y descarga los controladores mas recientes. Una version desactualizada de los controladores puede causar problemas de visualizacion.\n\n4. Comprueba si el problema persiste en otro monitor o pantalla. Conecta tu computadora a otro monitor para ver si el problema se reproduce. Si el problema desaparece en otro monitor, es probable que el problema este relacionado con el monitor original.\n\nSi los pasos anteriores no resuelven el problema de la pantalla, es recomendable buscar asistencia técnica"
+      ],
+      "context": [""]
+    },
+    {
+      "idTag": 31,
+      "tag": "pantallaRota",
+      "patterns": [
+        "La pantalla de mi celular esta rota",
+        "Se me cayo el telefono y la pantalla se rompio",
+        "Necesito reparar la pantalla de mi celular"
+      ],
+      "responses": [
+        "Si la pantalla de tu celular está rota, es recomendable seguir estos pasos:\n\n1. Evalua el daño. Observa si solo la pantalla está rota o si también hay daños en el panel táctil o en otras partes del celular. Esto te ayudará a determinar el tipo de reparación necesario.\n\n2. Protege tu celular. Si la pantalla está rota pero el teléfono aún funciona, puedes protegerlo colocando una película de vidrio templado u otro protector de pantalla para evitar que se dañe aún más.\n\n3. Contacta a un servicio técnico autorizado. Si la pantalla está seriamente dañada o si no te sientes cómodo realizando la reparación tú mismo, es recomendable llevar tu celular a un servicio técnico autorizado para que lo evalúen y realicen la reparación necesaria.\n\nRecuerda que cada marca y modelo de celular puede tener procedimientos específicos de reparación, por lo que es importante seguir las recomendaciones del fabricante o del servicio técnico autorizado."
+      ],
+      "context": [""]
+    },
+    {
+      "idTag": 32,
+      "tag": "problemasBateria",
+      "patterns": [
+        "La bateria de mi celular se descarga rapidamente",
+        "Mi telefono no dura mucho tiempo con la carga de la bateria",
+        "Tengo problemas con la duracion de la bateria de mi celular"
+      ],
+      "responses": [
+        "Si estas experimentando problemas con la duración de la batería de tu celular, puedes intentar los siguientes pasos para mejorarla:\n\n1. Verifica las aplicaciones en segundo plano. Algunas aplicaciones pueden consumir mucha energía incluso cuando no las estas utilizando. Revisa la lista de aplicaciones en segundo plano y cierra aquellas que no necesites.\n\n2. Ajusta el brillo de la pantalla. Reducir el brillo de la pantalla puede ayudar a ahorrar energía de la batería. También considera activar la función de brillo automático para que se ajuste según las condiciones de iluminación.\n\n3. Desactiva funciones y conexiones innecesarias. Si no estas utilizando Wi-Fi, Bluetooth o GPS, es recomendable desactivar estas funciones, ya que pueden consumir energía de la batería.\n\n4. Actualiza el software del celular. Las actualizaciones de software a menudo incluyen optimizaciones de energía que pueden mejorar la duración de la batería. Verifica si hay actualizaciones disponibles e instálalas.\n\nSi los pasos anteriores no mejoran la duración de la batería, es recomendable contactar al soporte técnico del fabricante para obtener asistencia adicional."
+      ],
+      "context": [""]
+    },
+    {
+      "idTag": 34,
+      "tag": "noCarga",
+      "patterns": [
+        "Mi celular no carga",
+        "El cargador de mi telefono no funciona",
+        "Tengo problemas para cargar la bateria de mi celular"
+      ],
+      "responses": [
+        "Si tu celular no carga, puedes intentar los siguientes pasos para solucionar el problema:\n\n1. Verifica el cable y el cargador. Asegurate de que el cable de carga y el cargador esten en buen estado y correctamente conectados. Prueba con otro cable y cargador para descartar un posible fallo en los accesorios.\n\n2. Limpia el puerto de carga. En algunos casos, la acumulacion de suciedad o polvo en el puerto de carga puede interferir con la conexion. Utiliza un hisopo de algodon o un cepillo suave para limpiar suavemente el puerto de carga.\n\n3. Reinicia tu celular. En ocasiones, reiniciar el telefono puede resolver problemas temporales y permitir que vuelva a cargar correctamente.\n\n4. Prueba con otra toma de corriente. Es posible que la toma de corriente donde estas intentando cargar el celular no este funcionando correctamente. Intenta conectar el cargador a otra toma de corriente para descartar un problema con la fuente de alimentacion.\n\nSi despues de realizar estos pasos el celular aun no carga, es recomendable contactar al soporte tecnico del fabricante para obtener asistencia adicional."
+      ],
+      "context": [""]
+    },
+    {
+      "idTag": 35,
+      "tag": "lentitud",
+      "patterns": [
+        "Mi computadora esta muy lenta",
+        "Tengo problemas de velocidad en mi PC",
+        "La computadora se tarda mucho en abrir programas"
+      ],
+      "responses": [
+        "Si tu computadora esta funcionando de manera lenta, puedes intentar los siguientes pasos para mejorar su rendimiento:\n\n1. Verifica los programas en segundo plano. Algunas aplicaciones o programas en ejecucion pueden consumir recursos y ralentizar tu computadora. Cierra los programas que no necesites y verifica si hay procesos innecesarios en el Administrador de tareas.\n\n2. Realiza una limpieza de archivos temporales. Utiliza la herramienta de limpieza de disco para eliminar archivos temporales y liberar espacio en tu disco duro. Tambien puedes considerar desinstalar programas que ya no utilizas.\n\n3. Escanea en busca de malware. Realiza un analisis completo del sistema con un programa antivirus confiable para detectar y eliminar posibles infecciones de malware que podrian afectar el rendimiento de tu computadora.\n\n4. Actualiza los controladores. Verifica si hay actualizaciones de controladores disponibles para tus dispositivos, como la tarjeta grafica o el chipset de la placa base, y asegurate de instalar las versiones mas recientes.\n\nSi despues de seguir estos pasos la computadora sigue siendo lenta, es recomendable buscar ayuda de un tecnico especializado o contactar al soporte tecnico de tu computadora para obtener asistencia adicional."
       ],
       "context": [""]
     },
@@ -165,5 +432,12 @@
       ],
       "context": [""]
     }
+    
+    
+    
+    
+  
+    
+    
   ]
 }

@@ -1,189 +1,42 @@
 [
     {
         "User": "hola",
-        "Bot": "Hola, gracias por preguntar",
-        "Date": "2023-05-28 22:45:59",
-        "Tag": "saludo",
-        "idTag": 1
-    },
-    {
-        "respuesta": 1,
-        "idTag": 1
-    },
-    {
-        "User": "s",
-        "Bot": "Hola, gracias por preguntar",
-        "Date": "2023-05-28 22:46:01",
-        "Tag": "saludo",
-        "idTag": 1
-    },
-    {
-        "respuesta": 1,
-        "idTag": 1
-    },
-    {
-        "User": "d",
         "Bot": "Hola, como puedo ayudarte?",
-        "Date": "2023-05-28 22:46:02",
+        "Date": "2023-05-28 23:33:02",
         "Tag": "saludo",
-        "idTag": 1
+        "idTag": 1,
+        "coincidencia pregunta": 1
     },
     {
-        "respuesta": 1,
-        "idTag": 1
-    },
-    {
-        "User": "f",
-        "Bot": "Hola, como puedo ayudarte?",
-        "Date": "2023-05-28 22:46:03",
-        "Tag": "saludo",
-        "idTag": 1
-    },
-    {
-        "respuesta": 1,
-        "idTag": 1
-    },
-    {
-        "User": "g",
-        "Bot": "Hola, como puedo ayudarte?",
-        "Date": "2023-05-28 22:46:04",
-        "Tag": "saludo",
-        "idTag": 1
-    },
-    {
-        "respuesta": 1,
-        "idTag": 1
-    },
-    {
-        "User": "v",
-        "Bot": "Que bueno verte de nuevo",
-        "Date": "2023-05-28 22:46:05",
-        "Tag": "saludo",
-        "idTag": 1
-    },
-    {
-        "respuesta": 1,
-        "idTag": 1
-    },
-    {
-        "User": "fu",
-        "Bot": "Que bueno verte de nuevo",
-        "Date": "2023-05-28 22:46:06",
-        "Tag": "saludo",
-        "idTag": 1
-    },
-    {
-        "respuesta": 1,
-        "idTag": 1
-    },
-    {
-        "User": "sd",
-        "Bot": "Que bueno verte de nuevo",
-        "Date": "2023-05-28 22:46:09",
-        "Tag": "saludo",
-        "idTag": 1
-    },
-    {
-        "respuesta": 1,
-        "idTag": 1
-    },
-    {
-        "User": "sd",
+        "User": "mierda",
         "Bot": "Hola, gracias por preguntar",
-        "Date": "2023-05-28 22:46:10",
+        "Date": "2023-05-28 23:33:12",
         "Tag": "saludo",
-        "idTag": 1
+        "idTag": 1,
+        "coincidencia pregunta": 0
     },
     {
-        "respuesta": 1,
-        "idTag": 1
-    },
-    {
-        "User": "sdfs",
-        "Bot": "Hola, como puedo ayudarte?",
-        "Date": "2023-05-28 22:46:11",
-        "Tag": "saludo",
-        "idTag": 1
-    },
-    {
-        "respuesta": 1,
-        "idTag": 1
-    },
-    {
-        "User": "vgvdf",
-        "Bot": "Hola, gracias por preguntar",
-        "Date": "2023-05-28 22:46:12",
-        "Tag": "saludo",
-        "idTag": 1
-    },
-    {
-        "respuesta": 1,
-        "idTag": 1
-    },
-    {
-        "User": "*",
-        "Bot": "Lo siento, no puedo entenderte",
-        "Date": "2023-05-28 22:46:15",
-        "Tag": "desconocido",
-        "idTag": 4
-    },
-    {
-        "respuesta": 1,
-        "idTag": 4
-    },
-    {
-        "User": "hola",
-        "Bot": "Hola, gracias por preguntar",
-        "Date": "2023-05-28 22:46:55",
-        "Tag": "saludo",
-        "idTag": 1
-    },
-    {
-        "respuesta": 1,
-        "idTag": 1
-    },
-    {
-        "User": "sdf",
-        "Bot": "Hola, como puedo ayudarte?",
-        "Date": "2023-05-28 22:46:57",
-        "Tag": "saludo",
-        "idTag": 1
-    },
-    {
-        "respuesta": 1,
-        "idTag": 1
-    },
-    {
-        "User": "vdfs",
+        "User": "ayudame",
         "Bot": "Que bueno verte de nuevo",
-        "Date": "2023-05-28 22:46:58",
+        "Date": "2023-05-28 23:33:19",
         "Tag": "saludo",
-        "idTag": 1
+        "idTag": 1,
+        "coincidencia pregunta": 0
     },
     {
-        "respuesta": 1,
-        "idTag": 1
-    },
-    {
-        "User": "vd dg",
-        "Bot": "Que bueno verte de nuevo",
-        "Date": "2023-05-28 22:47:00",
+        "User": "ayuda",
+        "Bot": "Hola, como puedo ayudarte?",
+        "Date": "2023-05-28 23:33:24",
         "Tag": "saludo",
-        "idTag": 1
+        "idTag": 1,
+        "coincidencia pregunta": 1
     },
     {
-        "respuesta": 1,
-        "idTag": 1
-    },
-    {
-        "User": "*",
-        "Bot": "Hola, gracias por preguntar",
-        "Date": "2023-05-28 22:47:07",
-        "Tag": "saludo",
-        "idTag": 1
-    },
-    {
-        "respuesta": 1,
-        "idTag": 1
+        "User": "adios",
+        "Bot": "Ten un buen dia",
+        "Date": "2023-05-28 23:33:29",
+        "Tag": "adios",
+        "idTag": 2,
+        "coincidencia pregunta": 1
     }
 ]
