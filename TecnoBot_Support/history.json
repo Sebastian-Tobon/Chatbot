@@ -19,5 +19,397 @@
         "Date": "2023-05-28 19:59:25",
         "Tag": "saludo",
         "idTag": 1
+    },
+    {
+        "User": "Como estas?",
+        "Bot": "Que bueno verte de nuevo",
+        "Date": "2023-05-28 21:04:21",
+        "Tag": "saludo",
+        "idTag": 1
+    },
+    {
+        "User": "h",
+        "Bot": "Que bueno verte de nuevo",
+        "Date": "2023-05-28 21:04:41",
+        "Tag": "saludo",
+        "idTag": 1
+    },
+    {
+        "User": "kjxdhtng",
+        "Bot": "Hola, como puedo ayudarte?",
+        "Date": "2023-05-28 21:04:45",
+        "Tag": "saludo",
+        "idTag": 1
+    },
+    {
+        "User": "respuesta",
+        "Bot": "Que bueno verte de nuevo",
+        "Date": "2023-05-28 21:05:01",
+        "Tag": "saludo",
+        "idTag": 1
+    },
+    {
+        "User": "opciones",
+        "Bot": "Que bueno verte de nuevo",
+        "Date": "2023-05-28 21:05:13",
+        "Tag": "saludo",
+        "idTag": 1
+    },
+    {
+        "User": "ayuda",
+        "Bot": "Que bueno verte de nuevo",
+        "Date": "2023-05-28 21:05:24",
+        "Tag": "saludo",
+        "idTag": 1
+    },
+    {
+        "User": "puedes ayudarme?",
+        "Bot": "Hola, soy TecnoBot Support. Y estoy aqui para ayudarte con el soporte o asesoramiento de los errores que comunmente se presentan en dispositivos como celulares, computadores de escritorio y portatiles.",
+        "Date": "2023-05-28 21:05:38",
+        "Tag": "opciones",
+        "idTag": 5
+    },
+    {
+        "User": "\u00f1",
+        "Bot": "Que bueno verte de nuevo",
+        "Date": "2023-05-28 21:05:49",
+        "Tag": "saludo",
+        "idTag": 1
+    },
+    {
+        "User": "no carga",
+        "Bot": "Que bueno verte de nuevo",
+        "Date": "2023-05-28 21:06:15",
+        "Tag": "saludo",
+        "idTag": 1
+    },
+    {
+        "User": "no carga",
+        "Bot": "Hola, como puedo ayudarte?",
+        "Date": "2023-05-28 21:06:20",
+        "Tag": "saludo",
+        "idTag": 1
+    },
+    {
+        "User": "Mi telefono movil tiene problemas de carga",
+        "Bot": "Hay varios motivos por los que un telefono movil puede tener problemas de carga. Algunos de los mas comunes incluyen:\n\n1. Cable de carga defectuoso: Si el cable de carga esta defectuoso o desgastado, puede que no proporcione una carga adecuada al telefono movil.\n\n2. Puerto de carga defectuoso: Si el puerto de carga del telefono movil esta defectuoso, puede que el telefono movil no se cargue correctamente.\n\n3. Problemas con la bateria: Si la bateria del telefono movil esta defectuosa o esta llegando al final de su vida util, puede que no se cargue correctamente.\n\n4. Problemas de software: Los problemas de software pueden afectar a la carga del telefono movil. Por ejemplo, si hay problemas con el sistema operativo o con alguna aplicacion, puede que el telefono movil no se cargue correctamente.\n\n5. Temperatura ambiente inadecuada: Las baterias pueden ser sensibles a las temperaturas extremas, por lo que si el telefono movil se carga en un ambiente demasiado caliente o demasiado frio, esto puede afectar a su capacidad de carga.",
+        "Date": "2023-05-28 21:06:38",
+        "Tag": "problemasDeCarga",
+        "idTag": 7
+    },
+    {
+        "User": "bajo rendimiento",
+        "Bot": "Que bueno verte de nuevo",
+        "Date": "2023-05-28 21:06:52",
+        "Tag": "saludo",
+        "idTag": 1
+    },
+    {
+        "User": "bajo rendimiento movil",
+        "Bot": "Hola, como puedo ayudarte?",
+        "Date": "2023-05-28 21:06:59",
+        "Tag": "saludo",
+        "idTag": 1
+    },
+    {
+        "User": "El telefono movil tiene bajo rendimiento",
+        "Bot": "Hay varios motivos por los que un telefono movil puede tener problemas de carga. Algunos de los mas comunes incluyen:\n\n1. Cable de carga defectuoso: Si el cable de carga esta defectuoso o desgastado, puede que no proporcione una carga adecuada al telefono movil.\n\n2. Puerto de carga defectuoso: Si el puerto de carga del telefono movil esta defectuoso, puede que el telefono movil no se cargue correctamente.\n\n3. Problemas con la bateria: Si la bateria del telefono movil esta defectuosa o esta llegando al final de su vida util, puede que no se cargue correctamente.\n\n4. Problemas de software: Los problemas de software pueden afectar a la carga del telefono movil. Por ejemplo, si hay problemas con el sistema operativo o con alguna aplicacion, puede que el telefono movil no se cargue correctamente.\n\n5. Temperatura ambiente inadecuada: Las baterias pueden ser sensibles a las temperaturas extremas, por lo que si el telefono movil se carga en un ambiente demasiado caliente o demasiado frio, esto puede afectar a su capacidad de carga.",
+        "Date": "2023-05-28 21:07:28",
+        "Tag": "problemasDeCarga",
+        "idTag": 7
+    },
+    {
+        "User": "El celular presenta inconvenientes con la conectividad",
+        "Bot": "Si estas experimentando problemas de conectividad con tu telefono movil, como problemas para conectarte a una red Wi-Fi o para usar datos moviles, aqui te dejamos algunos pasos que puedes seguir para solucionar el problema: \n\n1. Verifica la se\u00f1al: Asegurate de estar dentro del area de cobertura y de que tu telefono tenga una se\u00f1al adecuada. Si estas en un area con poca se\u00f1al, esto puede afectar la conectividad. \n\n2. Reinicia el telefono: A veces, simplemente reiniciar el telefono puede solucionar problemas menores. \n\n3. Verifica el modo de avion: Asegurate de que el modo de avion no este activado, ya que esto desactiva todas las conexiones de red. \n\n4. Verifica los ajustes de Wi-Fi y datos moviles: Asegurate de que los ajustes de Wi-Fi y datos moviles esten habilitados y configurados correctamente. \n\n5. Olvida y vuelve a conectarte a la red Wi-Fi: Si estas experimentando problemas para conectarte a una red Wi-Fi especifica, intenta olvidar la red y luego vuelve a conectarte ingresando la contrase\u00f1a correctamente. \n\n6. Restaura los ajustes de red: Si ninguno de los pasos anteriores funciona, intenta restaurar los ajustes de red de tu telefono a los valores predeterminados de fabrica. \n\nSi el problema persiste, es recomendable llevar el telefono a un servicio tecnico especializado para diagnosticar y resolver el problema.",
+        "Date": "2023-05-28 21:07:43",
+        "Tag": "fallaConectividadMovil",
+        "idTag": 9
+    },
+    {
+        "User": "El computador se traba",
+        "Bot": "Posiblemente se deba a la memoria ram",
+        "Date": "2023-05-28 21:08:19",
+        "Tag": "hardware",
+        "idTag": 10
+    },
+    {
+        "User": "El computador se traba",
+        "Bot": "Posiblemente se deba a la memoria ram",
+        "Date": "2023-05-28 21:08:19",
+        "Tag": "hardware",
+        "idTag": 10
+    },
+    {
+        "User": "El computador se traba",
+        "Bot": "La memoria ram posiblemente este causando esto",
+        "Date": "2023-05-28 21:08:20",
+        "Tag": "hardware",
+        "idTag": 10
+    },
+    {
+        "User": "El computador se traba",
+        "Bot": "La memoria ram posiblemente este causando esto",
+        "Date": "2023-05-28 21:08:21",
+        "Tag": "hardware",
+        "idTag": 10
+    },
+    {
+        "User": "El computador se traba",
+        "Bot": "Posiblemente se deba a la memoria ram",
+        "Date": "2023-05-28 21:08:22",
+        "Tag": "hardware",
+        "idTag": 10
+    },
+    {
+        "User": "El computador se traba",
+        "Bot": "Posiblemente se deba a la memoria ram",
+        "Date": "2023-05-28 21:08:22",
+        "Tag": "hardware",
+        "idTag": 10
+    },
+    {
+        "User": "El computador se traba",
+        "Bot": "La memoria ram posiblemente este causando esto",
+        "Date": "2023-05-28 21:08:23",
+        "Tag": "hardware",
+        "idTag": 10
+    },
+    {
+        "User": "El computador se traba",
+        "Bot": "Posiblemente se deba a la memoria ram",
+        "Date": "2023-05-28 21:08:24",
+        "Tag": "hardware",
+        "idTag": 10
+    },
+    {
+        "User": "El computador se traba",
+        "Bot": "La memoria ram posiblemente este causando esto",
+        "Date": "2023-05-28 21:08:24",
+        "Tag": "hardware",
+        "idTag": 10
+    },
+    {
+        "User": "El computador se traba",
+        "Bot": "Posiblemente se deba a la memoria ram",
+        "Date": "2023-05-28 21:08:25",
+        "Tag": "hardware",
+        "idTag": 10
+    },
+    {
+        "User": "El computador se traba",
+        "Bot": "La memoria ram posiblemente este causando esto",
+        "Date": "2023-05-28 21:08:25",
+        "Tag": "hardware",
+        "idTag": 10
+    },
+    {
+        "User": "El computador se traba",
+        "Bot": "La memoria ram posiblemente este causando esto",
+        "Date": "2023-05-28 21:08:26",
+        "Tag": "hardware",
+        "idTag": 10
+    },
+    {
+        "User": "El computador se traba",
+        "Bot": "La memoria ram posiblemente este causando esto",
+        "Date": "2023-05-28 21:08:26",
+        "Tag": "hardware",
+        "idTag": 10
+    },
+    {
+        "User": "El computador se traba",
+        "Bot": "Posiblemente se deba a la memoria ram",
+        "Date": "2023-05-28 21:08:26",
+        "Tag": "hardware",
+        "idTag": 10
+    },
+    {
+        "User": "El computador se traba",
+        "Bot": "Posiblemente se deba a la memoria ram",
+        "Date": "2023-05-28 21:08:27",
+        "Tag": "hardware",
+        "idTag": 10
+    },
+    {
+        "User": "El computador se traba",
+        "Bot": "La memoria ram posiblemente este causando esto",
+        "Date": "2023-05-28 21:08:27",
+        "Tag": "hardware",
+        "idTag": 10
+    },
+    {
+        "User": "El computador se traba",
+        "Bot": "Posiblemente se deba a la memoria ram",
+        "Date": "2023-05-28 21:08:27",
+        "Tag": "hardware",
+        "idTag": 10
+    },
+    {
+        "User": "El computador se traba",
+        "Bot": "Posiblemente se deba a la memoria ram",
+        "Date": "2023-05-28 21:08:28",
+        "Tag": "hardware",
+        "idTag": 10
+    },
+    {
+        "User": "El computador se traba",
+        "Bot": "La memoria ram posiblemente este causando esto",
+        "Date": "2023-05-28 21:08:28",
+        "Tag": "hardware",
+        "idTag": 10
+    },
+    {
+        "User": "Hola",
+        "Bot": "Hola, gracias por preguntar",
+        "Date": "2023-05-28 21:08:30",
+        "Tag": "saludo",
+        "idTag": 1
+    },
+    {
+        "User": "Holi",
+        "Bot": "Hola, gracias por preguntar",
+        "Date": "2023-05-28 21:08:31",
+        "Tag": "saludo",
+        "idTag": 1
+    },
+    {
+        "User": "Chao",
+        "Bot": "Que bueno verte de nuevo",
+        "Date": "2023-05-28 21:08:34",
+        "Tag": "saludo",
+        "idTag": 1
+    },
+    {
+        "User": "Gracias",
+        "Bot": "No dudes en preguntarme!",
+        "Date": "2023-05-28 21:08:36",
+        "Tag": "gracias",
+        "idTag": 3
+    },
+    {
+        "User": "Adios",
+        "Bot": "Un gusto chatear contigo, adios",
+        "Date": "2023-05-28 21:08:37",
+        "Tag": "adios",
+        "idTag": 2
+    },
+    {
+        "User": "hasta luego",
+        "Bot": "Ten un buen dia",
+        "Date": "2023-05-28 21:08:40",
+        "Tag": "adios",
+        "idTag": 2
+    },
+    {
+        "User": "que lo ba\u00f1en",
+        "Bot": "Hola, soy TecnoBot Support. Y estoy aqui para ayudarte con el soporte o asesoramiento de los errores que comunmente se presentan en dispositivos como celulares, computadores de escritorio y portatiles.",
+        "Date": "2023-05-28 21:08:45",
+        "Tag": "opciones",
+        "idTag": 5
+    },
+    {
+        "User": "que?",
+        "Bot": "Hola, soy TecnoBot Support. Y estoy aqui para ayudarte con el soporte o asesoramiento de los errores que comunmente se presentan en dispositivos como celulares, computadores de escritorio y portatiles.",
+        "Date": "2023-05-28 21:08:49",
+        "Tag": "opciones",
+        "idTag": 5
+    },
+    {
+        "User": "Bueno",
+        "Bot": "Hola, como puedo ayudarte?",
+        "Date": "2023-05-28 21:08:52",
+        "Tag": "saludo",
+        "idTag": 1
+    },
+    {
+        "User": "Jodete",
+        "Bot": "Hola, como puedo ayudarte?",
+        "Date": "2023-05-28 21:08:56",
+        "Tag": "saludo",
+        "idTag": 1
+    },
+    {
+        "User": "El ordenador no arranca o se bloquea",
+        "Bot": "Un elemento bloquea el uso o inicio de Windows 10, asi que hay que repararlo.\n\n1. En otro ordenador que funcione, ve al sitio web Descarga de software de Microsoft y descarga la herramienta de instalacion de Windows 10 en un pendrive o un disco DVD.\n\n2. Inserta dicho pendrive o USB en el ordenador estropeado y, a continuacion, reinicia el equipo.\n\n3. En la pantalla Instalar Windows, selecciona Reparar el equipo. (Si no ves esta pantalla es posible que el equipo PC no este configurado para arrancar desde una unidad. Consulta la informacion del fabricante del equipo en el sitio web acerca de como cambiar el orden de arranque en la BIOS y, a continuacion, prueba otra vez).\n\n4. En la pantalla Elegir una opcion, selecciona Solucionar problemas. Desde alli puedes usar el modo seguro. Selecciona Opciones avanzadas > Configuracion de inicio > Reiniciar.\n\n5. Una vez que se reinicie el equipo, selecciona 5 o F5 para reiniciar tu PC en Modo seguro con funciones de red. Si el equipo no se inicia en modo seguro con funciones de red, vuelve a intentar los pasos 2 y 4 y, cuando se reinicie el equipo, selecciona 3 o F3 para Habilitar el modo video de baja resolucion.\n\n6. Una vez que el equipo este en modo seguro, abre el Administrador de dispositivos escribiendo administrador de dispositivos en el cuadro de busqueda en la barra de tareas, selecciona Administrador de dispositivos y la flecha para ampliar los Adaptadores de pantalla. Si ves dos elementos en Adaptadores de pantalla, deshabilita uno de ellos. Si solo hay uno, con boton derecho entra en Propiedades y elige la opcion Revertir al controlador anterior. Tambien puedes desinstalarlo y volverlo a instalar.\n\n7. Reinicia el equipo para que los cambios surtan efecto.",
+        "Date": "2023-05-28 21:09:12",
+        "Tag": "noArranca_SeBloquea",
+        "idTag": 11
+    },
+    {
+        "User": "El ordenador no arranca o se bloquea",
+        "Bot": "Un elemento bloquea el uso o inicio de Windows 10, asi que hay que repararlo.\n\n1. En otro ordenador que funcione, ve al sitio web Descarga de software de Microsoft y descarga la herramienta de instalacion de Windows 10 en un pendrive o un disco DVD.\n\n2. Inserta dicho pendrive o USB en el ordenador estropeado y, a continuacion, reinicia el equipo.\n\n3. En la pantalla Instalar Windows, selecciona Reparar el equipo. (Si no ves esta pantalla es posible que el equipo PC no este configurado para arrancar desde una unidad. Consulta la informacion del fabricante del equipo en el sitio web acerca de como cambiar el orden de arranque en la BIOS y, a continuacion, prueba otra vez).\n\n4. En la pantalla Elegir una opcion, selecciona Solucionar problemas. Desde alli puedes usar el modo seguro. Selecciona Opciones avanzadas > Configuracion de inicio > Reiniciar.\n\n5. Una vez que se reinicie el equipo, selecciona 5 o F5 para reiniciar tu PC en Modo seguro con funciones de red. Si el equipo no se inicia en modo seguro con funciones de red, vuelve a intentar los pasos 2 y 4 y, cuando se reinicie el equipo, selecciona 3 o F3 para Habilitar el modo video de baja resolucion.\n\n6. Una vez que el equipo este en modo seguro, abre el Administrador de dispositivos escribiendo administrador de dispositivos en el cuadro de busqueda en la barra de tareas, selecciona Administrador de dispositivos y la flecha para ampliar los Adaptadores de pantalla. Si ves dos elementos en Adaptadores de pantalla, deshabilita uno de ellos. Si solo hay uno, con boton derecho entra en Propiedades y elige la opcion Revertir al controlador anterior. Tambien puedes desinstalarlo y volverlo a instalar.\n\n7. Reinicia el equipo para que los cambios surtan efecto.",
+        "Date": "2023-05-28 21:09:12",
+        "Tag": "noArranca_SeBloquea",
+        "idTag": 11
+    },
+    {
+        "User": "El ordenador no arranca o se bloquea",
+        "Bot": "Un elemento bloquea el uso o inicio de Windows 10, asi que hay que repararlo.\n\n1. En otro ordenador que funcione, ve al sitio web Descarga de software de Microsoft y descarga la herramienta de instalacion de Windows 10 en un pendrive o un disco DVD.\n\n2. Inserta dicho pendrive o USB en el ordenador estropeado y, a continuacion, reinicia el equipo.\n\n3. En la pantalla Instalar Windows, selecciona Reparar el equipo. (Si no ves esta pantalla es posible que el equipo PC no este configurado para arrancar desde una unidad. Consulta la informacion del fabricante del equipo en el sitio web acerca de como cambiar el orden de arranque en la BIOS y, a continuacion, prueba otra vez).\n\n4. En la pantalla Elegir una opcion, selecciona Solucionar problemas. Desde alli puedes usar el modo seguro. Selecciona Opciones avanzadas > Configuracion de inicio > Reiniciar.\n\n5. Una vez que se reinicie el equipo, selecciona 5 o F5 para reiniciar tu PC en Modo seguro con funciones de red. Si el equipo no se inicia en modo seguro con funciones de red, vuelve a intentar los pasos 2 y 4 y, cuando se reinicie el equipo, selecciona 3 o F3 para Habilitar el modo video de baja resolucion.\n\n6. Una vez que el equipo este en modo seguro, abre el Administrador de dispositivos escribiendo administrador de dispositivos en el cuadro de busqueda en la barra de tareas, selecciona Administrador de dispositivos y la flecha para ampliar los Adaptadores de pantalla. Si ves dos elementos en Adaptadores de pantalla, deshabilita uno de ellos. Si solo hay uno, con boton derecho entra en Propiedades y elige la opcion Revertir al controlador anterior. Tambien puedes desinstalarlo y volverlo a instalar.\n\n7. Reinicia el equipo para que los cambios surtan efecto.",
+        "Date": "2023-05-28 21:09:13",
+        "Tag": "noArranca_SeBloquea",
+        "idTag": 11
+    },
+    {
+        "User": "El ordenador no arranca o se bloquea",
+        "Bot": "Un elemento bloquea el uso o inicio de Windows 10, asi que hay que repararlo.\n\n1. En otro ordenador que funcione, ve al sitio web Descarga de software de Microsoft y descarga la herramienta de instalacion de Windows 10 en un pendrive o un disco DVD.\n\n2. Inserta dicho pendrive o USB en el ordenador estropeado y, a continuacion, reinicia el equipo.\n\n3. En la pantalla Instalar Windows, selecciona Reparar el equipo. (Si no ves esta pantalla es posible que el equipo PC no este configurado para arrancar desde una unidad. Consulta la informacion del fabricante del equipo en el sitio web acerca de como cambiar el orden de arranque en la BIOS y, a continuacion, prueba otra vez).\n\n4. En la pantalla Elegir una opcion, selecciona Solucionar problemas. Desde alli puedes usar el modo seguro. Selecciona Opciones avanzadas > Configuracion de inicio > Reiniciar.\n\n5. Una vez que se reinicie el equipo, selecciona 5 o F5 para reiniciar tu PC en Modo seguro con funciones de red. Si el equipo no se inicia en modo seguro con funciones de red, vuelve a intentar los pasos 2 y 4 y, cuando se reinicie el equipo, selecciona 3 o F3 para Habilitar el modo video de baja resolucion.\n\n6. Una vez que el equipo este en modo seguro, abre el Administrador de dispositivos escribiendo administrador de dispositivos en el cuadro de busqueda en la barra de tareas, selecciona Administrador de dispositivos y la flecha para ampliar los Adaptadores de pantalla. Si ves dos elementos en Adaptadores de pantalla, deshabilita uno de ellos. Si solo hay uno, con boton derecho entra en Propiedades y elige la opcion Revertir al controlador anterior. Tambien puedes desinstalarlo y volverlo a instalar.\n\n7. Reinicia el equipo para que los cambios surtan efecto.",
+        "Date": "2023-05-28 21:09:13",
+        "Tag": "noArranca_SeBloquea",
+        "idTag": 11
+    },
+    {
+        "User": "El ordenador no arranca o se bloquea",
+        "Bot": "Un elemento bloquea el uso o inicio de Windows 10, asi que hay que repararlo.\n\n1. En otro ordenador que funcione, ve al sitio web Descarga de software de Microsoft y descarga la herramienta de instalacion de Windows 10 en un pendrive o un disco DVD.\n\n2. Inserta dicho pendrive o USB en el ordenador estropeado y, a continuacion, reinicia el equipo.\n\n3. En la pantalla Instalar Windows, selecciona Reparar el equipo. (Si no ves esta pantalla es posible que el equipo PC no este configurado para arrancar desde una unidad. Consulta la informacion del fabricante del equipo en el sitio web acerca de como cambiar el orden de arranque en la BIOS y, a continuacion, prueba otra vez).\n\n4. En la pantalla Elegir una opcion, selecciona Solucionar problemas. Desde alli puedes usar el modo seguro. Selecciona Opciones avanzadas > Configuracion de inicio > Reiniciar.\n\n5. Una vez que se reinicie el equipo, selecciona 5 o F5 para reiniciar tu PC en Modo seguro con funciones de red. Si el equipo no se inicia en modo seguro con funciones de red, vuelve a intentar los pasos 2 y 4 y, cuando se reinicie el equipo, selecciona 3 o F3 para Habilitar el modo video de baja resolucion.\n\n6. Una vez que el equipo este en modo seguro, abre el Administrador de dispositivos escribiendo administrador de dispositivos en el cuadro de busqueda en la barra de tareas, selecciona Administrador de dispositivos y la flecha para ampliar los Adaptadores de pantalla. Si ves dos elementos en Adaptadores de pantalla, deshabilita uno de ellos. Si solo hay uno, con boton derecho entra en Propiedades y elige la opcion Revertir al controlador anterior. Tambien puedes desinstalarlo y volverlo a instalar.\n\n7. Reinicia el equipo para que los cambios surtan efecto.",
+        "Date": "2023-05-28 21:09:14",
+        "Tag": "noArranca_SeBloquea",
+        "idTag": 11
+    },
+    {
+        "User": "La CPU se sobrecalienta y la RAM se llena",
+        "Bot": "Un fallo muy comun, especialmente en equipos antiguos, es que la CPU se calienta en exceso mientras el ventilador del ordenador funciona a toda velocidad, indicio de que el sistema esta sobrecalentado.\n\n 1. \n2. En algunos casos, este bug de Windows 10 parece estar asociado al fichero del sistema stokrnl.exe, asi como al servicio Runtime Broker. Para desactivarlo, escribe Configuracion en el buscador, y entra en la seccion Sistema.\n\n3.  Accede a Notificaciones y Acciones. Busca la opcion Mostrar Sugerencias de Windows, y desactivala.\n\n4. Reinicia el equipo.\n",
+        "Date": "2023-05-28 21:09:23",
+        "Tag": "cupSobrecaliente_RamLlena",
+        "idTag": 12
+    },
+    {
+        "User": "La CPU se sobrecalienta y la RAM se llena",
+        "Bot": "Un fallo muy comun, especialmente en equipos antiguos, es que la CPU se calienta en exceso mientras el ventilador del ordenador funciona a toda velocidad, indicio de que el sistema esta sobrecalentado.\n\n 1. \n2. En algunos casos, este bug de Windows 10 parece estar asociado al fichero del sistema stokrnl.exe, asi como al servicio Runtime Broker. Para desactivarlo, escribe Configuracion en el buscador, y entra en la seccion Sistema.\n\n3.  Accede a Notificaciones y Acciones. Busca la opcion Mostrar Sugerencias de Windows, y desactivala.\n\n4. Reinicia el equipo.\n",
+        "Date": "2023-05-28 21:09:23",
+        "Tag": "cupSobrecaliente_RamLlena",
+        "idTag": 12
+    },
+    {
+        "User": "La CPU se sobrecalienta y la RAM se llena",
+        "Bot": "Un fallo muy comun, especialmente en equipos antiguos, es que la CPU se calienta en exceso mientras el ventilador del ordenador funciona a toda velocidad, indicio de que el sistema esta sobrecalentado.\n\n 1. \n2. En algunos casos, este bug de Windows 10 parece estar asociado al fichero del sistema stokrnl.exe, asi como al servicio Runtime Broker. Para desactivarlo, escribe Configuracion en el buscador, y entra en la seccion Sistema.\n\n3.  Accede a Notificaciones y Acciones. Busca la opcion Mostrar Sugerencias de Windows, y desactivala.\n\n4. Reinicia el equipo.\n",
+        "Date": "2023-05-28 21:09:24",
+        "Tag": "cupSobrecaliente_RamLlena",
+        "idTag": 12
+    },
+    {
+        "User": "El ordenador no despierta de la hibernacionEl ordenador no despierta de la hibernacion",
+        "Bot": "Please provide hospital type",
+        "Date": "2023-05-28 21:09:41",
+        "Tag": "ordenadorNoDespierta",
+        "idTag": 13
+    },
+    {
+        "User": "El ordenador no despierta de la hibernacion",
+        "Bot": "Please provide hospital type",
+        "Date": "2023-05-28 21:09:42",
+        "Tag": "ordenadorNoDespierta",
+        "idTag": 13
+    },
+    {
+        "User": "Programas incompatibles",
+        "Bot": "1. Para arreglarlo, pulsa con el boton derecho en el icono de arranque del programa y selecciona Propiedades.\n\n2. Accede a la solapa Compatibilidad y marca la casilla Ejecutar este programa en modo de compatibilidad para.\n\n3. A continuacion en el menu emergente elige el sistema operativo mas cercano a la fecha de lanzamiento de ese programa: Windows XP, Windows Vista, Windows 7, etc. Puedes probar varios de ellos hasta que encuentres uno que funcione",
+        "Date": "2023-05-28 21:10:09",
+        "Tag": "programasNoCompatibles",
+        "idTag": 14
+    },
+    {
+        "User": "Programas incompatibles",
+        "Bot": "1. Para arreglarlo, pulsa con el boton derecho en el icono de arranque del programa y selecciona Propiedades.\n\n2. Accede a la solapa Compatibilidad y marca la casilla Ejecutar este programa en modo de compatibilidad para.\n\n3. A continuacion en el menu emergente elige el sistema operativo mas cercano a la fecha de lanzamiento de ese programa: Windows XP, Windows Vista, Windows 7, etc. Puedes probar varios de ellos hasta que encuentres uno que funcione",
+        "Date": "2023-05-28 21:10:09",
+        "Tag": "programasNoCompatibles",
+        "idTag": 14
     }
 ]
